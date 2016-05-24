@@ -1,0 +1,38 @@
+
+
+[QDO_Pet_Light CAGDataObject_Quest]
+NameString="Drone de Lumière"
+UpgradeDescription="Bonjour !  J'aimerais vous donner un Drone : Lumière !  Il t'éclairera partout où tu iras.  Je dois seulement suivre la procédure pour vous donner le plan."
+ActionToDoStr="Acheter Plan"
+
+
+[QDO_Pet_PetHarvestBooster CAGDataObject_Quest]
+NameString="Drone de récolte"
+UpgradeDescription="Bonjour !  J'aimerais vous donner un Drone : Récolte !  Il vous aidera à la récolte avec votre Outil Multifonction. Je dois seulement suivre la procédure pour vous donner le plan."
+ActionToDoStr="Acheter Plan"
+
+[QDO_Pet_PetDamageBooster CAGDataObject_Quest]
+NameString="Drone de dommage"
+UpgradeDescription="Bonjour !  J'aimerais vous donner un Drone : Dommages !  Il augmentera le nombre de dommages que vos armes feront.  Je dois seulement suivre la procédure pour vous donner le plan."
+ActionToDoStr="Acheter Plan"
+
+[QDO_Pet_PetRunSpeedBooster CAGDataObject_Quest]
+NameString="Drone de vitesse"
+UpgradeDescription="Bonjour !  J'aimerais vous donner un Drone : Vitesse !  Il augmentera votre vitesse de course.  Je dois seulement suivre la procédure pour vous donner le plan."
+ActionToDoStr="Acheter Plan"
+
+[QDO_Pet_PetHeal CAGDataObject_Quest]
+NameString="MediBot"
+UpgradeDescription="Bonjour !  J'aimerais vous donner un Drone : MediBot.  Il régénère votre santé tout le temps qu'il est déployé.  Je dois seulement suivre la procédure pour vous donner le plan."
+ActionToDoStr="Acheter Plan"
+
+[QDO_Pet_PetConstruction CAGDataObject_Quest]
+NameString="Constructobot"
+UpgradeDescription="Bonjour !  J'aimerais vous donner un Drone : Constructobot.  Il réduit le coût de construction de la Base tout le temps qu'il est déployé.  Je dois seulement suivre la procédure pour vous donner le plan."
+ActionToDoStr="Acheter Plan"
+
+
+[QDO_Pet_XPPet CAGDataObject_Quest]
+NameString="XP Booster"
+UpgradeDescription="Bonjour !  J'aimerais vous donner un Drone : Boost XP.  Il Booste l'XP gagnée tout le temps qu'il est déployé.  Je dois seulement suivre la procédure pour vous donner le plan."
+ActionToDoStr="Acheter Plan"

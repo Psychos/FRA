@@ -1,0 +1,225 @@
+[CAGPawnBase]
+AdminStr="*ADMIN*"
+
+AffixNamePrefixes=""
+AffixNamePrefixes="Dangereux"
+AffixNamePrefixes="Explosif"
+AffixNamePrefixes="Rapide"
+AffixNamePrefixes="Expérimenté"
+AffixNamePrefixes="Riche"
+AffixNamePrefixes="Furtif"
+
+
+[CAGPawn_Construct_Wanderer]
+DisplayedName=""
+
+[CAGPawn_Construct_WandererBase]
+DisplayedName=""
+
+
+[CAGPawn_FaunaBase]
+DisplayedName=""
+
+[CAGPawn_Fauna_BugDog]
+DisplayedName="BugDog"
+
+[CAGPawn_Fauna_BugDog_Large]
+DisplayedName="Grand BugDog"
+
+[CAGPawn_Fauna_BugDog_Medium]
+DisplayedName="BugDog moyen"
+
+[CAGPawn_Fauna_FlyingBug]
+DisplayedName="Insecte Volant"
+
+[CAGPawn_Fauna_FlyingBug_Large]
+DisplayedName="Grand Insecte Volant"
+
+[CAGPawn_Fauna_Slime]
+DisplayedName="Slime"
+
+[CAGPawn_Fauna_Slime_Large]
+DisplayedName="Grand Slime"
+
+[CAGPawn_FoeBase]
+DisplayedName=""
+
+[CAGPawn_Foe_Bomber]
+DisplayedName="Bombe"
+
+[CAGPawn_Foe_BugDog]
+DisplayedName="BugDog Agressif"
+
+[CAGPawn_Foe_BugDog_Large]
+DisplayedName="Grand BugDog Agressif"
+
+[CAGPawn_Foe_BugDog_Medium]
+DisplayedName="BugDog moyen Agressif"
+
+[CAGPawn_Foe_DayKiller]
+DisplayedName="Day Killer"
+
+[CAGPawn_Foe_DayKiller_Large]
+DisplayedName="Grand Day Killer"
+
+[CAGPawn_Foe_DayKiller_Medium]
+DisplayedName="Day Killer Moyen"
+
+[CAGPawn_Foe_FlyingBug]
+DisplayedName="Insecte Volant Agressif"
+
+[CAGPawn_Foe_FlyingBug_Large]
+DisplayedName="Grand Insecte Volant Agressif"
+
+[CAGPawn_Foe_Guardian]
+DisplayedName="Gardien"
+
+[CAGPawn_Foe_NightKiller]
+DisplayedName="Night Killer"
+
+[CAGPawn_Foe_NightKiller_Large]
+DisplayedName="Grand Night Killer"
+
+[CAGPawn_Foe_NightKiller_Medium]
+DisplayedName="Night Killer Moyen"
+
+
+[CAGPawn_Foe_TechnoHunter]
+DisplayedName="Tech Hunter"
+
+[CAGPawn_Foe_TechnoHunter_Medium]
+DisplayedName="Medium Tech Hunter"
+
+[CAGPawn_Foe_TechnoHunte_Larger]
+DisplayedName="Grand Tech Hunter"
+
+
+
+[CAGPawn_Foe_Yeti]
+DisplayedName="Yeti"
+
+[CAGPawn_Foe_Slime]
+DisplayedName="Slime Agressif"
+
+[CAGPawn_Foe_Slime_Large]
+DisplayedName="Grand Slime Agressif"
+
+[CAGPawn_Foe_TargetDummy]
+DisplayedName="Target Dummy"
+
+[CAGPawn_Foe_Thief]
+DisplayedName="Voleur"
+
+[CAGPawn_Foe_Zombie]
+DisplayedName="Zombie"
+
+[CAGPawn_NPCBase]
+DisplayedName=""
+
+[CAGPawn_NPC_Gambler]
+DisplayedName="Parieur
+
+[CAGPawn_NPC_QuestGiver]
+DisplayedName="Vendeur de Drones"
+
+[CAGPawn_NPC_QuestPersona]
+DisplayedName=""
+
+[CAGPawn_NPC_ShopKeeper]
+DisplayedName="Commerçant"
+
+[CAGPawn_NPC_WearyWanderer]
+DisplayedName="WeiWei le voyageur fatigué"
+
+[CAGBackpack]
+AlreadyInUseStr="Quelqu'un est déjà en train de Looter."
+PickUpBackpackStr="E pour ramasser"
+BackpackStr="le butin"
+LootIventoryTitleStr="Loot Monstre"
+
+[CAGBackPack_Player]
+SummonablePrefixStr="LOOTABLE - Peut être invoqué dans "
+SummonableNowStr="LOOTABLE - Peut être invoqué MAINTENANT"
+LootedStr="Quelqu'un a déjà fouillé dans votre Âme (sac) !"
+BackpackStr="âme"
+LootIventoryTitleStr="Loot Âme Joueur"
+
+[CAGBackpack_RandomGoodies_Present]
+AlreadyInUseStr="Quelqu’un l'a déjà ouvert."
+PickUpBackpackStr="E pour ouvrir"
+BackpackStr="cadeau"
+LootIventoryTitleStr="QU'Y A-T-IL DANS LA BOITE ?!"
+
+
+[CAGPawn_Lili]
+DisplayedName=""
+LogoutStr="Déconnexion dans :"
+LogOutCancelledStr="Déconnexion ANNULÉE !"
+CantLogoutNowStr="NE PEUT PAS DÉCONNECTER MAINTENANT !"
+
+UnFriendlyStr="NON AMI"
+FriendlyStr="Ami"
+UnidentifiedStr="NON IDENTIFIÉ"
+
+InviteToFoFString="Touche E pour inviter %name à rejoindre votre groupe d'amis (donnez-lui votre cede FoF)"
+AcceptFoFInviteStr="Votre invitation dans votre groupe d'amis a été acceptée ! Soyons tous amis."
+RejectFoFInviteStr="Votre invitation dans votre groupe d'amis a été rejetée  ;( Peut-être que vous n’êtes tout simplement pas son type."
+
+
+
+
+[CAGPawn_Foe_Raptor]
+DisplayedName="Grokkar Vicieux"
+
+[CAGPawn_Foe_Raptor_Large]
+DisplayedName="Grand Grokkar Vicieux"
+
+
+[CAGPawn_Foe_Frog]
+DisplayedName="Ploppit Vicieux"
+
+[CAGPawn_Foe_Frog_Large]
+DisplayedName="Grand Ploppit Vicieux"
+
+[CAGPawn_Fauna_Frog]
+DisplayedName="Ploppit"
+
+
+[CAGPawn_Foe_GiantBird]
+DisplayedName="Pekket Vicieux"
+
+[CAGPawn_Foe_GiantBird_Large]
+DisplayedName="Grand Pekket Vicieux"
+
+[CAGPawn_Fauna_GiantBird]
+DisplayedName="Pekket"
+
+[CAGPawn_Fauna_GiantBird_Large]
+DisplayedName="Grand Pekket"
+
+
+[CAGPawn_Foe_Turtle]
+DisplayedName="Snapshell Vicieux"
+
+[CAGPawn_Foe_Turtle_Large]
+DisplayedName="Grand Snapshell Vicieux"
+
+[CAGPawn_Fauna_Turtle]
+DisplayedName="Snapshell"
+
+
+
+[CAGPawn_Foe_SpiderMama]
+DisplayedName="SpiderMama"
+
+
+
+[CAGPawn_Foe_RoboEnemy]
+DisplayedName="Robot Ennemi"
+
+[CAGPawn_Foe_RoboEnemy_Medium]
+DisplayedName="Robot Ennemi Moyen"
+
+[CAGPawn_Foe_RoboEnemy_Large]
+DisplayedName="Grand Robot Ennemi"
+

@@ -1,0 +1,421 @@
+[CAGMenu_BuildNotes]
+
+[CAGMenu_BuildNotes]
+
+
+
+MOTD_Title="Build Notes (Press N to toggle)"
+#####################################
+
+
+MOTD_Text= "Traduction Française en cours... (sauf les notes de version)"
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.5.3 2016-05-13 16:30 EST -------"
+MOTD_Text=" "
+
+
+
+MOTD_Text="-IMPROVEMENT: Better message for when you are ganking newbies"
+MOTD_Text="-SHOUTOUT: blaze.fyre"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: Updated Turkish localization"
+MOTD_Text="-SHOUTOUT: Suleyman Toker"
+MOTD_Text=" "
+
+
+
+MOTD_Text=" "
+
+MOTD_Text="-BUGFIX: Fix random teleport from inside a cave putting you under water"
+MOTD_Text="-SHOUTOUT: Deapri"
+MOTD_Text=" "
+
+
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.5.2 2016-05-10 16:00 EST -------"
+MOTD_Text=" "
+
+
+
+MOTD_Text="-IMPROVEMENT: Log the player's hashed playerID for vehicle destruction."
+MOTD_Text="-SHOUTOUT: [UN] Simon"
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+MOTD_Text="-BALANCE: PVP Skull hat drop rate increased to 5%"
+MOTD_Text=" "
+
+
+MOTD_Text="-BALANCE: Recall To Uplink stim:  Now takes 10 seconds to activate (was 5)"
+MOTD_Text=" "
+
+
+MOTD_Text="-BALANCE: Recall To Uplink stim:  You now must have been 'out of combat' for 10 seconds before being able to activate the stim"
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+
+MOTD_Text="-BUGFIX: Fix random teleport sometimes putting you into places you should not go."
+MOTD_Text="-SHOUTOUT: Deapri"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fix the PVP skull not dropping for those that had gotten it as a blueprint"
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+
+
+MOTD_Text="-BUGFIX: Fix suiciding able to give you 5 items back if you had 1 in your bag"
+MOTD_Text="-SHOUTOUT: Scrwdrvr [LGC]"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fix in active dungeon entrances not allowing things to be built over them."
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.5.1 2016-05-06 21:00 EST -------"
+MOTD_Text=" "
+ 
+
+MOTD_Text="-BUGFIX: Fix first spawn on a planet not going to your uplink if you were indeed bound to an uplink."
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+ 
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.5 2016-05-06 20:00 EST -------"
+MOTD_Text=" "
+ 
+MOTD_Text="-BUGFIX: No longer allow rooms above Cave Entrances / Portals to be built. (This prevents people from enclosing dungeon entrances.)"
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+ 
+MOTD_Text="-BUGFIX: When you die we now provide a 'random' respawn option"
+MOTD_Text="-SHOUTOUT: Mr. MeeSeeks"
+MOTD_Text=" "
+
+MOTD_Text="-BUGFIX: On uplinks we now provide a 'random' teleport option.  Allowed to do this once every 10 minutes."
+MOTD_Text="-SHOUTOUT: Mr. MeeSeeks"
+MOTD_Text=" "
+
+ 
+MOTD_Text="-BUGFIX: No longer allow rooms to be built in the starting grid. (This prevents people from enclosing the starting areas.)"
+MOTD_Text="-SHOUTOUT: Mr. MeeSeeks"
+MOTD_Text=" "
+
+ 
+MOTD_Text="-BUGFIX: Fix Area Datum Data sometimes being duplicated in the server save data."
+MOTD_Text=" "
+
+
+
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.4 2016-04-28 16:00 EST -------"
+MOTD_Text=" "
+
+MOTD_Text="-BUGFIX: Fix a clientside crash when destroying buildings."
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+
+
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.3  2016-03-29 17:00 EST -------"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: German Localization Update"
+MOTD_Text="-SHOUTOUT: Maxunit"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: Reduce the volume of turret firing sounds"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: Add Console command: 'ForceKillAllVehicles' for Solo Play to allow you to kill off vehicles that have become lost / fallen through the world."
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+MOTD_Text="-BALANCE: The definition of a 'newbie' for pvp has had its level increased from 25 to 40."
+MOTD_Text=" "
+
+MOTD_Text="-BALANCE: All skills now are a hockey stick in terms of upgrading.  (i.e. the last upgrade gives a bigger increase)"
+MOTD_Text=" "
+
+
+MOTD_Text="-BALANCE: Drill Platforms have had their drill times reduced by 50%"
+MOTD_Text=" "
+
+
+ 
+
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fix a Metal ramp collision."
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fix a physics crash."
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fix for vehicles falling through the world if they were spawned on a border."
+MOTD_Text="-SHOUTOUT: mack"
+MOTD_Text=" "
+
+
+
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.2 2016-02-23 18:00 EST -------"
+MOTD_Text=" "
+
+
+
+MOTD_Text="-IMPROVEMENT: Turkish Localization Update"
+MOTD_Text="-SHOUTOUT: Odysa Localization"
+MOTD_Text=" "
+
+
+
+
+MOTD_Text="-IMPROVEMENT: Add a skill for Vehicle Factory Cost Reduction."
+MOTD_Text="-SHOUTOUT: klipwc"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: Don't spam the windows event log with spurious messages"
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: More sane Monster Summoner required base level for summoned monsters"
+MOTD_Text="-SHOUTOUT: FeiLing"
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+MOTD_Text="-BALANCE: Area Totems in PVE no longer Tax.  You can still claim areas tho!"
+MOTD_Text=" "
+
+
+
+MOTD_Text=" "
+
+
+
+MOTD_Text="-BUGFIX: Fixed monster names sometimes appearing as the default player name in non english language settings."
+MOTD_Text="-SHOUTOUT: Leon"
+MOTD_Text=" "
+
+MOTD_Text="-BUGFIX: Fix Healing vehicles taking some Resources and not healing the vehicle if you didn't have all of the resources required."
+MOTD_Text="-SHOUTOUT: MK"
+MOTD_Text=" "
+
+MOTD_Text="-BUGFIX: Fix being taxed when you Self Destruct items if there is an enemy Area Totem."
+MOTD_Text="-SHOUTOUT: Ruthless"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fix some base item having their SecurityModes 'reset' on server restarts.  (e.g. it was set to Private but on restart of server it would be on FoF) "
+MOTD_Text="-SHOUTOUT: 150"
+MOTD_Text=" "
+
+
+
+
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9.1 2016-02-05 16:00 EST -------"
+MOTD_Text=" "
+
+
+
+
+MOTD_Text="-NOTICE: Traditional Chinese Translation added to the Game!"
+MOTD_Text="-SHOUTOUT: xljeff"
+MOTD_Text=" "
+
+
+MOTD_Text="-NOTICE: Turkish Translation added to the Game!"
+MOTD_Text="-SHOUTOUT: Odysa Localization"
+MOTD_Text=" "
+
+
+
+MOTD_Text="-NOTICE: Loot crate Drops have DOUBLED for the Chinese New Year Celebration.  This starts immediately!"
+MOTD_Text=" "
+
+
+
+
+
+MOTD_Text="-IMPROVEMENT: Added a Chinese New Year Hat. This will become available when the Chinese New Year Starts!"
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: Added a Chinese New Year Title. This will become available when the Chinese New Year Starts!"
+MOTD_Text=" "
+
+
+
+MOTD_Text="-IMPROVEMENT: Increase the velocity that Drill Platforms eject their goodies"
+MOTD_Text="-SHOUTOUT: PVPenny"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: Dropped Pick Ups should find players in cases where they are 'inside' of items much better now"
+MOTD_Text="-SHOUTOUT: PVPenny"
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: When a Dropped Pick Up can't be gotten we now include more information in the log message to help us track down the issue."
+MOTD_Text="-SHOUTOUT: PVPenny"
+MOTD_Text=" "
+
+
+
+
+MOTD_Text="-IMPROVEMENT: Add more PhysX 'islands' / 'scenes' to HomeWorlds. "
+MOTD_Text="-SHOUTOUT: [UN] alphanuma"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: Increase the distance Blueprints will seek out the player they are going to"
+MOTD_Text="-SHOUTOUT: 150"
+MOTD_Text=" "
+
+
+
+MOTD_Text=" "
+
+
+
+
+MOTD_Text="-BUGFIX: Use Combined rations in the fall through case of not finding a best-fit ration to use."
+MOTD_Text="-SHOUTOUT: Catalyst"
+MOTD_Text=" "
+
+
+
+MOTD_Text="-BUGFIX: Increased the drop rate of the Wing Bird Suit"
+MOTD_Text="-SHOUTOUT: 150"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Increase the amount of saves we do for Drill Platforms."
+MOTD_Text="-SHOUTOUT: PvPenny"
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+MOTD_Text="------- GRAV: Reborn Update 9 2016-01-24 18:30 EST -------"
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: Ordered the Build menu items to be in the order or most commonly used items (e.g. Generators are at the top of the powered list)"
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: New Particle Effect for when more than 5 people are dancing at a campfire"
+MOTD_Text=" "
+
+
+MOTD_Text="-IMPROVEMENT: Small bugs no longer have a horn.  Only bosses."
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: Titles for achieving level 60 in each job have been added."
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: DrillPlatforms now do the same BP drop calculations as mob BP drops.  (i.e. they should only give you new BPs)"
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: Upgrading an Area Totem will result in more storage slots in it."
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: Improved Flying Bug hit fx"
+MOTD_Text=" "
+
+MOTD_Text="-IMPROVEMENT: Improved BugDog hit fx"
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+
+MOTD_Text="-BALANCE: DrillPlatforms now drop BPs twice as much as before."
+MOTD_Text=" "
+
+MOTD_Text="-BALANCE: High Level Loot Crates will now drop Tundrite and SunStone Resources"
+MOTD_Text=" "
+
+MOTD_Text="-BALANCE: Superior Swords now cost a variety of materials instead of all just using Magmanite"
+MOTD_Text=" "
+
+MOTD_Text="-BALANCE: The things you can research in the Research Station now have a min base item level required (i.e. before there was zero reason to ever need to upgrade the research station)"
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+
+MOTD_Text="-BUGFIX: Fixed AntiVehicle Rocket Launchers not being able to have ammo created for it / able to fire them."
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fixed the names of some monsters being incorrectly positioned above their bodies"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Made some more fixes for server start up which could result in a server taking fat too long between heartbearts resulting in it being incorrectly terminated as a hung process"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: When removing organics from composters the visuals should be updated much more quickly now"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fixed Trap Visual And Sound Effects never making it to the client"
+MOTD_Text=" "
+
+MOTD_Text="-BUGFIX: Fixed a case where maybe EMPs could be triggered when they should not be"
+MOTD_Text="-SHOUTOUT: [UN] Simon"
+MOTD_Text=" "
+
+
+MOTD_Text="-BUGFIX: Fixed a case where Drill Platforms could think they level of area they are in was 0"
+MOTD_Text="-SHOUTOUT: 150"
+MOTD_Text=" "
+
+
+MOTD_Text=" "
+
+
+

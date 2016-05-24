@@ -1,0 +1,47 @@
+[QP_CrazedMechanic CAGDataObject_QuestPersona]
+NameString="Mécano dingue"
+UpgradeDescription="Ce mécano à une certaine passion dans les yeux.  Toujours concentré sur le bon fonctionnement de ses machines."
+
+
+
+
+[QP_SpaceTourist CAGDataObject_QuestPersona]
+NameString="Touriste Spatial"
+UpgradeDescription=""
+
+
+[QP_Prospector CAGDataObject_QuestPersona]
+NameString="Prospecteur"
+UpgradeDescription=""
+
+
+[QP_PompousYouth CAGDataObject_QuestPersona]
+NameString="Jeune Prétentieux"
+UpgradeDescription="Comme toi, quoi !"
+
+[QP_TheOddCobbler CAGDataObject_QuestPersona]
+NameString="L'étrange Cordonnier"
+UpgradeDescription=""
+
+
+
+####  All of the ambient "in the world" personae
+
+
+[QP_LostInTheWild CAGDataObject_QuestPersona]
+NameString="Perdu dans la nature"
+
+
+[QP_LostInTheCaves CAGDataObject_QuestPersona]
+NameString="Perdu dans les Grottes"
+
+
+[QP_LostInAnAbadonedBase CAGDataObject_QuestPersona]
+NameString="Perdu dans une base abandonnée"
+
+
+[QP_LostOnALargeFauna CAGDataObject_QuestPersona]
+NameString="Perdu dans l'étendue de la faune"
+
+
+

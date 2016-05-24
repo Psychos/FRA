@@ -1,0 +1,255 @@
+
+[DefaultTitle CAGDataObject_Title]
+NameString="Lisez-Moi"
+UpgradeDescription="Vous pouvez gagner des titres en remplissant diverses tâches / missions."
+
+
+[CT_Participation_SteamSummerSale2015 CAGDataObject_Title]
+NameString="Tueur Passionné"
+UpgradeDescription="Participer à la vente d'été de Steam en TUANT quelque chose !"
+ActionToDoStr="Appliquer"
+
+
+[CT_Participation_Halloween2015 CAGDataObject_Title]
+NameString="Tueur Effrayant"
+UpgradeDescription="Participer à Halloween 2015 en TUANT quelque chose !"
+ActionToDoStr="Appliquer"
+
+
+[CT_Participation_ChineseNewYear2016 CAGDataObject_Title]
+NameString="Singe de Feu"
+UpgradeDescription="Participer au nouvel an Chinois 2016 en TUANT quelque chose !"
+ActionToDoStr="Appliquer"
+
+
+
+
+[CT_CompletedTutorial CAGDataObject_Title]
+NameString="Pas un Noob"
+UpgradeDescription="Plus un Noob (On espère)."
+ActionToDoStr="Appliquer"
+
+
+
+[CT_SlimeKiller_Neophyte CAGDataObject_Title]
+NameString="Écraseur de Slimes"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Slimes."
+ActionToDoStr="Appliquer"
+
+
+[CT_BugDog_Neophyte CAGDataObject_Title]
+NameString="Casseur de BugDogs"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de bugdog."
+ActionToDoStr="Appliquer"
+
+
+[CT_FlyingBug_Neophyte CAGDataObject_Title]
+NameString="Exterminateur d'Insectes"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur d'Insectes Volants."
+ActionToDoStr="Appliquer"
+
+
+[CT_NightKiller_Neophyte CAGDataObject_Title]
+NameString="Neutraliseur de NightKillers"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Nightkiller."
+ActionToDoStr="Appliquer"
+
+
+[CT_TechHunter_Neophyte CAGDataObject_Title]
+NameString="Terreur de Tech Hunters"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Tech Hunter."
+ActionToDoStr="Appliquer"
+
+
+[CT_Guardian_Neophyte CAGDataObject_Title]
+NameString="Étrangleur de Gardiens"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Gardiens."
+ActionToDoStr="Appliquer"
+
+
+[CT_Bomber_Neophyte CAGDataObject_Title]
+NameString="Matraqueur de Bombes"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Bombes."
+ActionToDoStr="Appliquer"
+
+
+[CT_Yeti_Neophyte CAGDataObject_Title]
+NameString="Tueur de Yétis"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Yétis."
+ActionToDoStr="Appliquer"
+
+
+[CT_Raptor_Neophyte CAGDataObject_Title]
+NameString="Tueur de Raptors"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Raptors."
+ActionToDoStr="Appliquer"
+
+
+[CT_Frog_Neophyte CAGDataObject_Title]
+NameString="Tueur de Grenouilles"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Grenouilles."
+ActionToDoStr="Appliquer"
+
+
+[CT_GiantBird_Neophyte CAGDataObject_Title]
+NameString="Tueurs de GiantBirds"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de GiantBirds."
+ActionToDoStr="Appliquer"
+
+
+[CT_Turtle_Neophyte CAGDataObject_Title]
+NameString="Tueur de Tortues"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Tortues."
+ActionToDoStr="Appliquer"
+
+[CT_SpiderMama_Neophyte CAGDataObject_Title]
+NameString="Tueur de SpiderMamas"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de SpiderMamas."
+ActionToDoStr="Appliquer"
+
+
+
+
+[CT_RoboEnemy_Neophyte CAGDataObject_Title]
+NameString="Neutraliseur de Night Killers"
+UpgradeDescription="Départ d'un long voyage pour devenir un Maître Tueur de Robots Ennemis."
+ActionToDoStr="Appliquer"
+
+
+
+
+
+[CT_Built_Generator CAGDataObject_Title]
+NameString="Que la Lumière Soit"
+UpgradeDescription="Fabriquer son premier générateur."
+ActionToDoStr="Appliquer"
+
+
+
+
+
+
+[CT_CampfireDancer_Five CAGDataObject_Title]
+NameString="Brouilleur Spatial"
+UpgradeDescription="5 personnes qui dansent à la fois autour d'un feu de camp."
+ActionToDoStr="Appliquer"
+
+
+
+
+
+[CT_SkullCollector_Slime CAGDataObject_Title]
+NameString="Collectionneur de Crânes - Slime"
+UpgradeDescription="Tuer 100 Boss Slimes niveau 30+"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_TechHunter CAGDataObject_Title]
+NameString="Collectionneur de Crânes – Tech Hunter"
+UpgradeDescription="Tuer 100 Tech Hunters niveau 45+"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_Raptor CAGDataObject_Title]
+NameString="Collectionneur de Crânes - Raptor"
+UpgradeDescription="Tuer 100 Boss Day Killers niveau 55+"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_NightKiller CAGDataObject_Title]
+NameString="Collectionneur de Crânes – Night Killer"
+UpgradeDescription="Tuer 100 Boss Night Killers niveau 55+"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_Guardian CAGDataObject_Title]
+NameString="Collectionneur de Crânes - Gardien"
+UpgradeDescription="Tuer 100 Gardiens niveau 60+"
+ActionToDoStr="Appliquer"
+
+
+
+
+[CT_SkullCollector_Players_Bronze CAGDataObject_Title]
+NameString="Le première fois c'est facile"
+UpgradeDescription="Tuer un joueur seul"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_Players_Silver CAGDataObject_Title]
+NameString="Serial Killer"
+UpgradeDescription="Tuer 10+ Joueurs Uniques"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_Players_Gold CAGDataObject_Title]
+NameString="Ça ne fait que commencer"
+UpgradeDescription="Tuer 20+ Joueurs Uniques"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_Players_Platinum CAGDataObject_Title]
+NameString="Collectionneur de Crânes"
+UpgradeDescription="Tuer 50+ Joueurs Uniques"
+ActionToDoStr="Appliquer"
+
+[CT_SkullCollector_Players_Diamond CAGDataObject_Title]
+NameString="Qui compte encore ?"
+UpgradeDescription="Tuer 100+ Joueurs Uniques"
+ActionToDoStr="Appliquer"
+
+
+#################
+
+[CT_JobMaster_Acrobat CAGDataObject_Title]
+NameString="Acrobate Expert"
+UpgradeDescription="Atteindre le niveau 60 dans le Métier d'Acrobate."
+ActionToDoStr="Appliquer"
+
+
+[CT_JobMaster_Astronaut CAGDataObject_Title]
+NameString="Astronaute Expert"
+UpgradeDescription="Atteindre le niveau 60 dans le Métier d'Astronaute."
+ActionToDoStr="Appliquer"
+
+
+[CT_JobMaster_Engineer CAGDataObject_Title]
+NameString="Ingénieur Expert"
+UpgradeDescription="Atteindre le niveau 60 dans le Métier d'Ingénieur."
+ActionToDoStr="Appliquer"
+
+
+[CT_JobMaster_Hunter CAGDataObject_Title]
+NameString="Chasseur Expert"
+UpgradeDescription="Atteindre le niveau 60 dans le Métier de Chasseur."
+ActionToDoStr="Appliquer"
+
+
+[CT_JobMaster_Pilot CAGDataObject_Title]
+NameString="Pilote Expert"
+UpgradeDescription="Atteindre le niveau 60 dans le Métier de Pilote."
+ActionToDoStr="Appliquer"
+
+
+[CT_JobMaster_Prospector CAGDataObject_Title]
+NameString="Prospecteur Expert"
+UpgradeDescription="Atteindre le niveau 60 dans le Métier de Prospecteur."
+ActionToDoStr="Appliquer"
+
+
+[CT_JobMaster_Scientist CAGDataObject_Title]
+NameString="Scientifique Expert"
+UpgradeDescription="Atteindre le niveau 60 dans le Métier de Scientifique."
+ActionToDoStr="Appliquer"
+
+
+
+
+
+
+
+
+
+#Don't play whit your food
+#Stun 100monster before killing them
+#
+#
+#Wrong place,Wrong time
+#Get killed by someone/something whit 15 level furthermore than you
+#
+#Didn't Mind their Footing: Step in poop.
+
+

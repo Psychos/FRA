@@ -1,0 +1,130 @@
+[CAGDataObject_CreatedItem_ScienceStation]
+WhereToAcquireString="Cet objet peut être fabriqué dans la Station Scientifique"
+
+
+[CISS_SpeedStim CAGDataObject_CreatedItem_ScienceStation]
+NameString="Stim de Vitesse"
+UpgradeDescription="Permet de courir plus vite."
+ActionToDoStr="Utiliser"
+
+[CISS_InvisStim CAGDataObject_CreatedItem_ScienceStation]
+NameString="Stim d'Invisibilité"
+UpgradeDescription="Rends invisible pendant un moment."
+ActionToDoStr="Utiliser"
+
+[CISS_HealthSmall CAGDataObject_CreatedItem_ScienceStation]
+NameString="Petit Soin"
+
+
+[CISS_HealthLarge CAGDataObject_CreatedItem_ScienceStation]
+NameString="Grand Soin"
+
+
+
+[CISS_DamageStim CAGDataObject_CreatedItem_ScienceStation]
+NameString="Stim de Dommages"
+UpgradeDescription="Augmente les dommages pendant un moment."
+ActionToDoStr="Utiliser"
+
+
+[CISS_DefenseStim CAGDataObject_CreatedItem_ScienceStation]
+NameString="Stim de Défense"
+UpgradeDescription="Augmente la défense pendant un moment."
+ActionToDoStr="Utiliser"
+
+
+
+
+[CISS_HealthStim CAGDataObject_CreatedItem_ScienceStation]
+NameString="Stim de Vie"
+UpgradeDescription="Soigne quand utilisé."
+ActionToDoStr="Utiliser"
+
+[CISS_HealthStim_Starter CAGDataObject_CreatedItem_ScienceStation]
+NameString="Stim de Soin Léger"
+UpgradeDescription="Un Stim de soin assez Inefficace.  Il fonctionne mais coûte cher à produire."
+ActionToDoStr="Utiliser"
+
+
+[CISS_BagSummonStim CAGDataObject_CreatedItem_ScienceStation]
+NameString="Stim de Rappel de Sac"
+UpgradeDescription="Invoque tous vos sacs sur la planète actuelle comme si vous les videz. Cher, mais cela peut sauver votre journée !"
+ActionToDoStr="Invoquer"
+
+
+[CISS_RecallToUplink CAGDataObject_CreatedItem_ScienceStation]
+NameString="Rappel vers Lien Psyché"
+UpgradeDescription="Vous Téléporte vers votre Lien Psyché, si vous en avez posé un."
+ActionToDoStr="Rappel"
+
+
+
+
+[CISS_Locator CAGDataObject_CreatedItem_ScienceStation]
+NameString="Localisateur"
+UpgradeDescription="Le localisateur montre la LATITUDE / LONGITUDE de ta localisation sur la planète depuis le HUD.  Une fois créé tu l'as pour TOUJOURS."
+ActionToDoStr="Construire"
+
+
+
+[CISS_Firework_Common CAGDataObject_CreatedItem_ScienceStation]
+NameString="Feu d'Artifice - Commun"
+UpgradeDescription="Cela lancera un Feu d'Artifice dans les airs ! (Trouvaille du 4 Juillet 2015 uniquement !)"
+ActionToDoStr="Feu !"
+
+[CISS_Firework_Uncommon CAGDataObject_CreatedItem_ScienceStation]
+NameString="Feu d'Artifice - Non Commun"
+UpgradeDescription="Cela lancera un Feu d'Artifice dans les airs ! (Trouvaille du 4 Juillet 2015 uniquement !)"
+ActionToDoStr="Feu !"
+
+[CISS_Firework_Rare CAGDataObject_CreatedItem_ScienceStation]
+NameString="Feu d'Artifice - Rare"
+UpgradeDescription="Cela lancera un Feu d'Artifice dans les airs ! (Trouvaille du 4 Juillet 2015 uniquement !)"
+ActionToDoStr="Feu !"
+
+
+
+##############################################################################################################################
+########             BANDOLIERS
+##############################################################################################################################
+
+[CISS_Equipment_Ammo_Bandolier_Pistol CAGDataObject_CreatedItem_ScienceStation]
+NameString="Cartouchière Munitions Pistolet"
+UpgradeDescription="Une cartouchière qui contient nombre de munitions pour le Pistolet"
+ActionToDoStr=""
+
+[CISS_Equipment_Ammo_Bandolier_AssaultRifle CAGDataObject_CreatedItem_ScienceStation]
+NameString="Cartouchière Munitions Fusil d'Assaut"
+UpgradeDescription="Une cartouchière qui contient nombre de munitions pour le Fusil d'Assaut"
+ActionToDoStr=""
+
+
+[CISS_Equipment_Ammo_Bandolier_Shotgun CAGDataObject_CreatedItem_ScienceStation]
+NameString="Cartouchière Munitions Fusil"
+UpgradeDescription="Une cartouchière qui contient nombre de munitions pour le Fusil"
+ActionToDoStr=""
+
+
+[CISS_Equipment_Ammo_Bandolier_SMG CAGDataObject_CreatedItem_ScienceStation]
+NameString="Cartouchière Munitions SMG"
+UpgradeDescription="Une cartouchière qui contient nombre de munitions pour le SMG"
+ActionToDoStr=""
+
+
+[CISS_Equipment_Ammo_Bandolier_RocketLauncher CAGDataObject_CreatedItem_ScienceStation]
+NameString="Cartouchière Roquettes"
+UpgradeDescription="Une cartouchière qui contient nombre de munitions pour le Lance-Roquettes"
+ActionToDoStr=""
+
+
+
+
+
+##### Special Drops
+
+[CISS_SpecialReward_FreeKey CAGDataObject_CreatedItem_ScienceStation]
+NameString="A Free GRAV Steam Key!"
+UpgradeDescription="Vous êtes chanceux !!  Vous avez trouvé une clef Gratuite pour GRAV ! Veuillez envoyer un mail à support@bitmonster.atlassian.net avec l'URL de votre profile STEAM et votre serveur (en Anglais)! (Valide uniquement sur les serveurs Officiels)"
+ActionToDoStr=""
+
+

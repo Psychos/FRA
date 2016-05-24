@@ -1,0 +1,19 @@
+[CAGDataObject_CreatedItem_VehicleFactory]
+WhereToAcquireString="Cet Objet peut être fabriqué dans une Usine à Véhicules"
+
+
+
+[CIVF_Tank CAGDataObject_CreatedItem_VehicleFactory]
+NameString="Centurion"
+UpgradeDescription="Un grand et très puissant tank. Deux places, un pilote et un canonnier. Cher à fabriquer et à utiliser, le Centurion offre une écrasante puissance de feu et protection.  Protège contre les dangers environnementaux.  Ne peut pas être prendre une Stargate. Pilote niveau 40 requis pour le fabriquer !"
+ActionToDoStr="CONSTRUCTION"
+
+[CIVF_DuneBuggy CAGDataObject_CreatedItem_VehicleFactory]
+NameString="Doom Buggy"
+UpgradeDescription="Rapide, véhicule léger.  Transporte deux personnes en plus du conducteur.  Fonctionne sur les matières organiques et l'amour. (Boost brûle du plasma)."
+ActionToDoStr="CONSTRUCTION"
+
+[CIVF_Hammerhead CAGDataObject_CreatedItem_VehicleFactory]
+NameString="Hammerhead"
+UpgradeDescription="Engin Aérien rapide, avec les modes décollage vertical et de croisière. "
+ActionToDoStr="CONSTRUCTION"

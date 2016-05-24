@@ -1,0 +1,104 @@
+
+
+[DefaultMonsterSummonerEvent CAGDataObject_MonsterSummonerEvent]
+NameString="Lisez-Moi"
+UpgradeDescription="Invoque des Monstres !"
+
+
+
+
+
+[MSE_BugDogs CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque BugDogs"
+UpgradeDescription="Débute une attaque de BugDogs autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_Slimes CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Slimes"
+UpgradeDescription="Débute une attaque de Slimes autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_FlyingBugs CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Insectes Volants"
+UpgradeDescription="Débute une attaque d'Insectes Volants autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_NightKillers CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Night Killers"
+UpgradeDescription="Débute une attaque de Night Killers autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_TechHunters CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Tech Hunters"
+UpgradeDescription="Débute une attaque de Tech Hunters autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_Bombers CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Bombes"
+UpgradeDescription="Débute une attaque de Bombes autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_Raptors CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Raptors"
+UpgradeDescription="Débute une attaque de Raptors autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_Guardians CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Gardiens"
+UpgradeDescription="Débute une attaque de Gardiens autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_Yetis CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Yétis"
+UpgradeDescription="Débute une attaque de Yétis autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+
+[MSE_RoboEnemies CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Robot Ennemis"
+UpgradeDescription="Débute une attaque de Robot Ennemis autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_Turtles CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Tortues"
+UpgradeDescription="Débute une attaque de Tortues autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_Frogs CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Grenouilles"
+UpgradeDescription="Débute une attaque de Grenouilles autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+[MSE_GiantBirds CAGDataObject_MonsterSummonerEvent]
+NameString="Invoque Giants Birds"
+UpgradeDescription="Débute une attaque d'Oiseaux Géants autour de l'invocateur de monstres"
+ActionToDoStr="Invoque des Monstres"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

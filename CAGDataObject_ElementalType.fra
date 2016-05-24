@@ -1,0 +1,80 @@
+
+[ETDO_Normal CAGDataObject_ElementalType]
+NameString="Normal"
+UpgradeDescription=""
+LevelBasedDisplayNames=""
+
+
+
+[ETDO_Normal CAGDataObject_ElementalType]
+NameString="Normal"
+UpgradeDescription=""
+LevelBasedDisplayNames="Difficile"
+LevelBasedDisplayNames="Bestial"
+LevelBasedDisplayNames="Brutal"
+LevelBasedDisplayNames="Intimidant"
+
+
+
+[ETDO_Fire CAGDataObject_ElementalType]
+NameString="Chaleur"
+UpgradeDescription=""
+#https://au.answers.yahoo.com/question/index?qid=20130602063342AACnfZL
+LevelBasedDisplayNames="Combustion"
+LevelBasedDisplayNames="Brûlant"
+LevelBasedDisplayNames="Enflammé"
+LevelBasedDisplayNames="Infernal"
+
+[ETDO_Ice CAGDataObject_ElementalType]
+NameString="Glace"
+UpgradeDescription=""
+#https://au.answers.yahoo.com/question/index?qid=20130602063342AACnfZL
+LevelBasedDisplayNames="Gelé"
+LevelBasedDisplayNames="Glacé"
+LevelBasedDisplayNames="Froid"
+LevelBasedDisplayNames="Arctique"
+
+[ETDO_Electric CAGDataObject_ElementalType]
+NameString="Electricité"
+UpgradeDescription=""
+LevelBasedDisplayNames="Étincelles"
+LevelBasedDisplayNames="Choquant"
+LevelBasedDisplayNames="Éclair"
+LevelBasedDisplayNames="GigaWatt"
+
+
+[ETDO_Poison CAGDataObject_ElementalType]
+NameString="Poison"
+UpgradeDescription=""
+# https://answers.yahoo.com/question/index?qid=20121123171157AAApqOg
+LevelBasedDisplayNames="Infecté"
+LevelBasedDisplayNames="Toxique"
+LevelBasedDisplayNames="Miasmatique"
+LevelBasedDisplayNames="Funeste"
+
+[ETDO_PlayerSoul CAGDataObject_ElementalType]
+NameString="Âme du Joueur"
+UpgradeDescription=""
+
+[ETDO_MoonLight CAGDataObject_ElementalType]
+NameString="Clair de Lune"
+UpgradeDescription=""
+# http://adjective1.com/for-moonlight/   
+# http://adjective1.com/for-radiance/`
+LevelBasedDisplayNames="Lumineux"
+LevelBasedDisplayNames="Éblouissant"
+LevelBasedDisplayNames="Brillant"
+LevelBasedDisplayNames="Aveuglant"
+
+[ETDO_DarkGaia CAGDataObject_ElementalType]
+NameString="Gaïa Obscure"
+UpgradeDescription=""
+
+
+
+
+
+
+
+
+

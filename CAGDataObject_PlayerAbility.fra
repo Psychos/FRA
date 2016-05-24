@@ -1,0 +1,99 @@
+
+[PA_SuperSlash CAGDataObject_PlayerAbility]
+NameString="Super Sabre"
+UpgradeDescription="Faites une quantité importante de dommages avec cette 'Attaque de mêlée Super Sabre' !"
+ActionToDoStr="Utilisation !"
+
+
+[PA_SuperTank CAGDataObject_PlayerAbility]
+NameString="Super Tank"
+UpgradeDescription="Devenez un Super Tank !"
+ActionToDoStr="Utilisation !"
+
+
+
+[PA_EnvironmentalHazardRespite CAGDataObject_PlayerAbility]
+NameString="Supprime les Dangers Environnementaux"
+UpgradeDescription="Un bref répit contre les éléments dangereux des planètes."
+ActionToDoStr="Utilisation !"
+
+
+[PA_EnvironmentalHazardRestore CAGDataObject_PlayerAbility]
+NameString="Restauration des Dangers Environnementaux"
+UpgradeDescription="Les éléments dangereux des planètes sont conjurés. Pour le moment."
+ActionToDoStr="Utilisation !"
+
+
+
+[PA_AOE_Stun CAGDataObject_PlayerAbility]
+NameString="Cri Onde de Choc"
+UpgradeDescription="Un cri perçant d'une telle force que cela abasourdit et choque tous les ennemis autour de vous."
+ActionToDoStr="Utilisation !"
+
+
+[PA_AOE_Root CAGDataObject_PlayerAbility]
+NameString="Racines Emmêlées"
+UpgradeDescription="Tout les ennemis autour de vous sont bloqués là où ils se trouvent"
+ActionToDoStr="Utilisation !"
+
+
+[PA_AOE_Harvest CAGDataObject_PlayerAbility]
+NameString="Mine à Ciel Ouvert"
+UpgradeDescription="Prenez les ressources que ce monde possède."
+ActionToDoStr="Utilisation !"
+
+
+
+[PA_Knockback CAGDataObject_PlayerAbility]
+NameString="Repousser Énergiquement"
+UpgradeDescription="Je dégage !"
+ActionToDoStr="Utilisation !"
+
+[PA_AOE_Knockback CAGDataObject_PlayerAbility]
+NameString="Souffle Puissant"
+UpgradeDescription="Tout le monde dégage !"
+ActionToDoStr="Utilisation !"
+
+
+[PA_MultiToolRepair CAGDataObject_PlayerAbility]
+NameString="Flux de Réparation"
+UpgradeDescription="Réparation par l'Outil Multifonctions augmentée !"
+ActionToDoStr="Utilisation !"
+
+
+[PA_HealthRegenSelf CAGDataObject_PlayerAbility]
+NameString="Régénration de Vie"
+UpgradeDescription="Régénération de Vie extrême."
+ActionToDoStr="Utilisation !"
+
+
+
+[PA_Weapon_SuperWeaponRateOfFire CAGDataObject_PlayerAbility]
+NameString="Cadence de Tir Infernale"
+UpgradeDescription="Lorsque la gâchette tire presque toute seule."
+ActionToDoStr="Utilisation !"
+
+
+[PA_SuperJump CAGDataObject_PlayerAbility]
+NameString="Super Saut"
+UpgradeDescription="Sauter haut haut haut jusqu'au ciel !"
+ActionToDoStr="Utilisation !"
+
+
+
+[PA_Vehicle_ReverseFuelCosts CAGDataObject_PlayerAbility]
+NameString="Coût Inverse de Carburant"
+UpgradeDescription="Au lieu de payer pour du Fuel dans un véhicule vous en récupérez  !"
+ActionToDoStr="Utilisation !"
+
+
+
+
+[PA_Vehicle_WingSuit_DiveBomb CAGDataObject_PlayerAbility]
+NameString="WingSuit Bombe en Plongée"
+UpgradeDescription="La WingSuit normalement passive montre sa colère mortelle quand vous attaquez par le haut..  (DOIT toucher la cible)"
+ActionToDoStr="Utilisation !"
+
+
+
+

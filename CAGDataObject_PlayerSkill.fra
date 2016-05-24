@@ -1,0 +1,375 @@
+
+
+
+[PlayerJob_Astronaut CAGDataObject_PlayerSkill]
+NameString="Astronaute"
+UpgradeDescription="Le Métier d'Astronaute est celle avec laquelle vous commencez et dispose d'un grand nombre de compétences pour augmenter vos attributs de base, en plus du nombre de totems de zone que vous pouvez posséder."
+ActionToDoStr=""
+
+[PlayerJob_Engineer CAGDataObject_PlayerSkill]
+NameString="Ingénieur"
+UpgradeDescription="Le Métier d'Ingénieur a un grand nombre de compétences qui réduisent le coût en matériaux de construction ou augmentent le nombre que vous pouvez construire. En outre, il a une compétence qui augmente les dégâts avec les Fusils de Chasse."
+ActionToDoStr=""
+
+[PlayerJob_Scientist CAGDataObject_PlayerSkill]
+NameString="Scientifique"
+UpgradeDescription="Le Métier du Scientifique a une grande quantité de compétences qui réduit le coût de l'artisanat. En outre, il a une compétence qui augmente les dégâts avec les Pistolets."
+ActionToDoStr=""
+
+[PlayerJob_Hunter CAGDataObject_PlayerSkill]
+NameString="Chasseur"
+UpgradeDescription="Le Métier de Chasseur a un grand nombre de compétences qui permettent de faire des dégâts. Il dispose également d'une compétence pour augmenter votre capacité de transport. En outre, il a une compétence qui augmente les dégâts avec les Fusils d'Assaut."
+ActionToDoStr=""
+
+[PlayerJob_Acrobat CAGDataObject_PlayerSkill]
+NameString="Acrobate"
+UpgradeDescription="Le Métier d'Acrobate a un grand nombre de compétences sur le mouvement. La hauteur de chute, la réduction des coûts d'endurance, l'augmentation de la durée des Stims de vitesse. En outre, il a une compétence qui augmente les dégâts avec les Armes de Mêlée."
+ActionToDoStr=""
+
+[PlayerJob_Chef CAGDataObject_PlayerSkill]
+NameString="Chef"
+UpgradeDescription=""
+ActionToDoStr=""
+
+[PlayerJob_Pilot CAGDataObject_PlayerSkill]
+NameString="Pilote"
+UpgradeDescription="Le Métier de Pilote dispose d'un grand nombre de compétences portant sur les véhicules. La réduction du coût du carburant, l'augmentation du montant de ce que vous pouvez posséder, l'augmentation de la vitesse du WingSuit. En outre, il a une compétence qui augmente les dégâts avec des Lance-Roquettes."
+ActionToDoStr=""
+
+[PlayerJob_Prospector CAGDataObject_PlayerSkill]
+NameString="Prospecteur"
+UpgradeDescription="Le Métier de Prospecteur a un grand nombre de compétences qui portent sur l'augmentation de l'efficacité de la récolte et de la vitesse. En outre, il a une compétence qui augmente les dégâts avec SMG."
+ActionToDoStr=""
+
+
+
+[PlayerJob_Unlocked2Jobs CAGDataObject_PlayerSkill]
+NameString="2 jobs"
+
+
+[PlayerJob_Unlocked3Jobs CAGDataObject_PlayerSkill]
+NameString="3 jobs"
+
+
+[PlayerJob_Unlocked4Jobs CAGDataObject_PlayerSkill]
+NameString="4 jobs"
+
+[PlayerJob_Unlocked5Jobs CAGDataObject_PlayerSkill]
+NameString="5 jobs"
+
+[PlayerJob_Unlocked6Jobs CAGDataObject_PlayerSkill]
+NameString="6 jobs"
+
+
+
+
+
+[PS_CritChance CAGDataObject_PlayerSkill]
+NameString="Chance de Critique"
+UpgradeDescription="Vous pouvez effectuer plus de coups critiques qu'au départ.  Ça augmente vos chances !"
+ActionToDoStr=""
+
+
+
+[PS_PetControl CAGDataObject_PlayerSkill]
+NameString="Contrôle de Drone"
+UpgradeDescription="Augmenter cette compétence accordera plus de Drones à invoquer."
+ActionToDoStr=""
+
+
+[PS_PetDuration CAGDataObject_PlayerSkill]
+NameString="Durée des Drones"
+UpgradeDescription="Augmente la durée de vos Drones invoqués."
+ActionToDoStr=""
+
+
+
+[PS_MovementSpeed CAGDataObject_PlayerSkill]
+NameString="Vitesse de Déplacement"
+UpgradeDescription="Qui ne veut pas courir plus vite ?"
+ActionToDoStr=""
+
+
+[PS_Health CAGDataObject_PlayerSkill]
+NameString="Vie"
+UpgradeDescription="Augmente votre vie."
+ActionToDoStr=""
+
+
+
+
+[PS_Luck CAGDataObject_PlayerSkill]
+NameString="Chance"
+UpgradeDescription="Augmente les chances de drop des objets exceptionnels !"
+ActionToDoStr=""
+
+
+
+[PS_HealthRecovery CAGDataObject_PlayerSkill]
+NameString="Récupération de Vie"
+UpgradeDescription="Augmente la vie que vous récupérez des objets."
+ActionToDoStr=""
+
+
+
+#### IT_PlayerSkill_Hunter
+
+
+
+[PS_CarryCapacity CAGDataObject_PlayerSkill]
+NameString="Capacité de Transport"
+UpgradeDescription="Augmente le nombre d'objets que vous pouvez transporter."
+ActionToDoStr=""
+
+
+[PS_SpeedStim_Duration CAGDataObject_PlayerSkill]
+NameString="Durée des Stims de Vitesse"
+UpgradeDescription="Augmente la durée des Stims de Vitesse."
+ActionToDoStr=""
+
+
+[PS_DamageStim_Duration CAGDataObject_PlayerSkill]
+NameString="Durée des Stims de Dommages"
+UpgradeDescription="Augmente la durée des Stims de Dommages.."
+ActionToDoStr=""
+
+
+
+[PS_ElementalOffense CAGDataObject_PlayerSkill]
+NameString="Attaque Élémentaire"
+UpgradeDescription="Augmente les dégâts causés par les Armes Élémentaires."
+ActionToDoStr=""
+
+
+[PS_ElementalDefense CAGDataObject_PlayerSkill]
+NameString="Défense Élémentaire"
+UpgradeDescription="Réduit les dégâts reçus par les Armes Élémentaires."
+ActionToDoStr=""
+
+
+[PS_WeaponDamage_AssaultRifle CAGDataObject_PlayerSkill]
+NameString="Dommages Fusil D'Assaut"
+UpgradeDescription="Augmente les Dommages du Fusil d'Assaut."
+ActionToDoStr=""
+
+
+
+[PS_BackpackLossReduction CAGDataObject_PlayerSkill]
+NameString="Réduction du Drop Ressources"
+UpgradeDescription="Réduit le nombre de Ressources / Matériaux d'artisanat déposé dans le sac à dos lors de la mort."
+ActionToDoStr=""
+
+
+[PS_AreaTotemOwnershipAmount CAGDataObject_PlayerSkill]
+NameString="Nombre de Totems de Zone Max"
+UpgradeDescription="Cette compétence détermine le nombre de Totems de Zone que vous pouvez posséder par planète."
+ ActionToDoStr=""
+
+
+
+#### IT_PlayerSkill_Acrobat
+
+[PS_Jump_StaminaReduction CAGDataObject_PlayerSkill]
+NameString="Réduction Endurance Saut"
+UpgradeDescription="Réduit l'Endurance nécessaire lors d'un Saut."
+ActionToDoStr=""
+
+
+[PS_JumpHeight CAGDataObject_PlayerSkill]
+NameString="Hauteur de Saut"
+UpgradeDescription="Augmente la hauteur des Sauts."
+ActionToDoStr=""
+
+
+
+[PS_Dodge_StaminaReduction CAGDataObject_PlayerSkill]
+NameString="Distance d'Esquive"
+UpgradeDescription="Augmente la Distance d'Esquive."
+ActionToDoStr=""
+
+
+[PS_WeaponDamage_Melee CAGDataObject_PlayerSkill]
+NameString="Dégâts de Mêlée"
+UpgradeDescription="Augmente les dommages des Armes de Mêlée."
+ActionToDoStr=""
+
+
+
+[PS_Dodge_Speed CAGDataObject_PlayerSkill]
+NameString="Vitesse d'Esquive"
+UpgradeDescription="Augmente la Vitesse d'Esquive."
+ActionToDoStr=""
+
+
+
+#### IT_PlayerSkill_Engineer
+
+
+[PS_BridgeDistanceIncrease CAGDataObject_PlayerSkill]
+NameString="Augmente Distance Pont"
+UpgradeDescription="Augmente la distance des appuis de vos ponts pouvant être construits."
+ActionToDoStr=""
+
+
+[PS_PetCostReduction CAGDataObject_PlayerSkill]
+NameString="Réduction Coût Drones"
+UpgradeDescription="Réduit le coût d'invocation des Drones."
+ActionToDoStr=""
+
+
+[PS_ConstructionCostReduction_Rooms CAGDataObject_PlayerSkill]
+NameString="Réduction Coût Construction Pièces"
+UpgradeDescription="Réduit de coût de construction des Pièces."
+ActionToDoStr=""
+
+
+[PS_WeaponDamage_Shotgun CAGDataObject_PlayerSkill]
+NameString="Dommages Fusil de Chasse"
+UpgradeDescription="Augmente les dommages causés par le Fusil de Chasse."
+ActionToDoStr=""
+
+
+
+[PS_ConstructionCostReduction_BaseItems CAGDataObject_PlayerSkill]
+NameString="Réduction du Coût de Construction des Objets de Base"
+UpgradeDescription="Réduit les coûts de construction des Objets Base."
+ActionToDoStr=""
+
+
+[PS_DrillPlatformOwnershipAmount CAGDataObject_PlayerSkill]
+NameString="Nombre de Plate-formes de Forage"
+UpgradeDescription="Cette compétence augmente le nombre de Plates-Formes de Forage que vous pouvez posséder par Planète."
+ActionToDoStr=""
+
+
+
+[PS_WeaponDamage_RocketLauncher CAGDataObject_PlayerSkill]
+NameString="Dommages Lance-Roquettes"
+UpgradeDescription="Augmente les dommages infligés par les Lance-Roquettes."
+ActionToDoStr=""
+
+
+
+
+#### IT_PlayerSkill_Scientist
+
+
+[PS_CraftingCostReduction_Factory CAGDataObject_PlayerSkill]
+NameString="Réduction Coût Fabrication dans l'Usine "
+UpgradeDescription="Réduit le coût de Fabrication des Objets dans l'usine."
+ActionToDoStr=""
+
+
+[PS_CraftingCostReduction_ScienceStation CAGDataObject_PlayerSkill]
+NameString="Réduction Coût Fabrication dans Station Scientifique"
+UpgradeDescription="Réduit le Coût de Fabrication des Objets dans la Station Scientifique"
+ActionToDoStr=""
+
+
+[PS_CraftingCostReduction_Armory CAGDataObject_PlayerSkill]
+NameString="Réduction Coût Fabrication dans Armurerie"
+UpgradeDescription="Réduit le Coût de Fabrication des Objets dans l'Armurerie."
+ActionToDoStr=""
+
+
+[PS_WeaponDamage_Pistol CAGDataObject_PlayerSkill]
+NameString="Dommages Pistolet"
+UpgradeDescription="Augmente les dommages infligés par le Pistolet."
+ActionToDoStr=""
+
+
+[PS_ConstructionCostReduction_VehicleFactory CAGDataObject_PlayerSkill]
+NameString="Réduction coût Fabrication dans Usine de Véhicules"
+UpgradeDescription="Réduit le Coût de Fabrication des Objets dans l'Usine de Véhicules."
+ActionToDoStr=""
+
+
+
+
+[PS_CraftingCostReduction_BioCondenser CAGDataObject_PlayerSkill]
+NameString="Réduction coût Transmutation dans Condensateur de Matières"
+UpgradeDescription="Réduit le coût de Transmutation dans le Condensateur de Matières."
+ActionToDoStr=""
+
+
+#### IT_PlayerSkill_Pilot
+
+
+[PS_FallDistanceIncrease CAGDataObject_PlayerSkill]
+NameString="Hauteur de chute Augmentée"
+UpgradeDescription="Augmente la Hauteur à laquelle vous n'aurez pas de dommages en tombant."
+ActionToDoStr=""
+
+
+[PS_FuelReduction_MonoCycle CAGDataObject_PlayerSkill]
+NameString="Réduction Fuel - Monocycle"
+UpgradeDescription="Réduit la consommation de Fuel quand vous conduisez un Monocycle."
+ActionToDoStr=""
+
+
+[PS_FuelReduction_Jetpack CAGDataObject_PlayerSkill]
+NameString="Réduction Fuel - Jetpack"
+UpgradeDescription="Réduit la consommation de Fuel quand vous volez en Jetpack."
+ActionToDoStr=""
+
+
+[PS_AirControlIncrease CAGDataObject_PlayerSkill]
+NameString="Augmentation Contrôles Aérien"
+UpgradeDescription="Augmente le niveau de Contrôle Aérien quand vous êtes en l'air."
+ActionToDoStr=""
+
+
+[PS_WingsuitSpeed CAGDataObject_PlayerSkill]
+NameString="Vitesse WingSuit"
+UpgradeDescription="Augmente la Vitesse de la WingSuit."
+ActionToDoStr=""
+
+
+
+[PS_VehicleTankOwnershipAmount CAGDataObject_PlayerSkill]
+NameString="Nombre de Tanks Possédés"
+UpgradeDescription="Augmente le nombre de Tanks que vous pouvez posséder sur chaque Planète."
+ActionToDoStr=""
+
+
+[PS_VehicleBuggyOwnershipAmount CAGDataObject_PlayerSkill]
+NameString="Nombre de Doom Buggy Possédés"
+UpgradeDescription="Augmente le nombre de Doom Buggy que vous pouvez posséder sur chaque planète."
+ActionToDoStr=""
+
+
+[PS_VehicleJetOwnershipAmount CAGDataObject_PlayerSkill]
+NameString="Nombre d'Hammerhead Possédés"
+UpgradeDescription="Augmente le nombre d'Hammerhead que vous pouvez posséder sur chaque planète."
+ActionToDoStr=""
+
+
+
+
+#### IT_PlayerSkill_Prospector
+
+
+[PS_MultiTool_ROF CAGDataObject_PlayerSkill]
+NameString="Outil Multifonction CDT"
+UpgradeDescription="Augmente la Cadence De Tir quand vous utilisez un Outil Multifonction."
+ActionToDoStr=""
+
+
+[PS_MultiTool_Crit CAGDataObject_PlayerSkill]
+NameString="Crit. Outil Multi-Fonction"
+UpgradeDescription="Augmente la chance de faire un Critique quand vous utilisez un Outil Multifonction."
+ActionToDoStr=""
+
+[PS_WeaponDamage_SMG CAGDataObject_PlayerSkill]
+NameString="Dommages SMG"
+UpgradeDescription="Augmente les dommages infligés des SMGs"
+ActionToDoStr=""
+
+
+
+[PS_DefenseStim_Duration CAGDataObject_PlayerSkill]
+NameString="Durée Stim de Défense"
+UpgradeDescription="Augmente la durée des Stims de Défense."
+ActionToDoStr=""
+
+

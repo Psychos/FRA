@@ -1,0 +1,102 @@
+
+
+
+
+
+[CAGHUD_Locator]
+LocatorNotFoundStr="Localisateur Non Fabriqué"
+
+[CAGHUD_ExtendedLocator]
+LastUplinkBindLocationStr="DERNIER LIEN PSYCHÉ :"
+LastCaveStr="DERNIÈRE GROTTE :"
+LastDeathStr="DERNIÈRE MORT :"
+ReturnPortalStr="PORTAIL DE RETOUR :"
+
+
+[CAGHUD_ExpBar]
+RankStr="RANG"
+LvlStr="NIV"
+
+
+
+[CAGHUD_SimplePlayerTutorial]
+SimplePlayerTutorialStr="COMMENCER DANS GRAV :"
+
+
+[CAGHUD_UseItemTimers_Stim_Speed]
+CooldDownText="Cooldown Stim de Vitesse"
+
+
+
+[CAGHUD_UseItemTimers_Stim_Invis]
+CooldDownText="Cooldown Stim Invisibilité"
+
+
+
+[CAGHUD_UseItemTimers_Stim_Health]
+CooldDownText="Cooldown Stim de Vie"
+
+
+[CAGHUD_UseItemTimers_Stim_Damage]
+ActiveText="Stim Dommages Actif"
+CooldDownText="Cooldown Stim Dommages"
+
+[CAGHUD_UseItemTimers_Stim_Defense]
+ActiveText="Stim Défence Actif"
+CooldDownText="Cooldown Stim défense"
+
+
+[CAGHUD_UseItemTimers_Food]
+CooldDownText="Cooldown Digestion"
+
+
+[CAGHUD_UseItemTimers_Flare]
+CooldDownText="Cooldown Fusée de Détresse"
+
+[CAGHUD_UseItemTimers_PlayerAbility_Uber]
+ActiveText="Super Activé"
+CooldDownText="Cooldown Super"
+
+[CAGHUD_UseItemTimers_Stim_Harvest]
+ActiveText="Stim Récolte Actif"
+CooldDownText="Cooldown Stim Récolte"
+
+
+[CAGHUD_VehicleWeapon]
+CostStr="Coût par Tir"
+ShotsRemainingStr="Tirs Restants :"
+
+
+[CAGHUD]
+NoConnectionMessage="CONNEXION INTERROMPUE"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

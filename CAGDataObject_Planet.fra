@@ -1,0 +1,209 @@
+
+[HomePlanet CAGDataObject_Planet]
+NameString="Planète Mère Alpha"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet2 CAGDataObject_Planet]
+NameString="Planète Mère Beta"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet3 CAGDataObject_Planet]
+NameString="Planète Mère Gamma"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet4 CAGDataObject_Planet]
+NameString="Planète Mère Delta"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet5 CAGDataObject_Planet]
+NameString="Planète Mère Zeta"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet6 CAGDataObject_Planet]
+NameString="Planète Mère Eta"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet7 CAGDataObject_Planet]
+NameString="Planète Mère Thêta"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet8 CAGDataObject_Planet]
+NameString="Planète Mère Iota"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet9 CAGDataObject_Planet]
+NameString="Planète Mère Kappa"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet10 CAGDataObject_Planet]
+NameString="Planète Mère Lambda"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet11 CAGDataObject_Planet]
+NameString="Planète Mère Mu"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+[HomePlanet12 CAGDataObject_Planet]
+NameString="Planète Mère Xi"
+UpgradeDescription="Votre Planète Mère !"
+ActionToDoStr="Voyage Spatial"
+
+
+
+
+[Moon1 CAGDataObject_Planet]
+NameString="Lune"
+UpgradeDescription="Première lune de ce genre découverte. Niveaux : 13-15"
+ActionToDoStr="Voyage Spatial"
+
+[Moon2 CAGDataObject_Planet]
+NameString="Lune Rocheuse"
+UpgradeDescription="Une Lune Rocheuse !  Niveaux : 13-15"
+ActionToDoStr="Voyage Spatial"
+
+[Moon3 CAGDataObject_Planet]
+NameString="Lune Désolée"
+UpgradeDescription="Une Lune solitaire Désolée !  Niveaux : 13-15"
+ActionToDoStr="Voyage Spatial"
+
+[Moon4 CAGDataObject_Planet]
+NameString="Lune Insensible"
+UpgradeDescription="Une Lune Insensible !  Niveaux : 43-47"
+ActionToDoStr="Voyage Spatial"
+
+[Moon5 CAGDataObject_Planet]
+NameString="Lune Printanière"
+UpgradeDescription="Une Lune Printanière !  Niveaux : 13-15"
+ActionToDoStr="Voyage Spatial"
+
+[Moon6 CAGDataObject_Planet]
+NameString="Lune Estivale"
+UpgradeDescription="Une Lune Estivale !  Niveaux : 13-15"
+ActionToDoStr="Voyage Spatial"
+
+
+[ExoPlanet_Low1 CAGDataObject_Planet]
+NameString="Vega IV"
+UpgradeDescription="Une Exo-Planète pour Bas Niveaux. Niveaux : 19-25"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Low2 CAGDataObject_Planet]
+NameString="Hyperion"
+UpgradeDescription="Une Exo-Planète pour Bas Niveaux. Niveaux : 19-25"
+ActionToDoStr="Voyage Spatial"
+
+
+[ExoPlanet_Low3 CAGDataObject_Planet]
+NameString="Zarine"
+UpgradeDescription="Une Exo-Planète pour Bas Niveaux. Niveaux : 19-25"
+ActionToDoStr="Voyage Spatial"
+
+
+
+
+[ExoPlanet_Mid1 CAGDataObject_Planet]
+NameString="Daedalus"
+UpgradeDescription="Une Exo-Planète pour Niveaux Moyens. Niveaux : 29-35"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Mid2 CAGDataObject_Planet]
+NameString="Pertinax"
+UpgradeDescription="Une Exo-Planète pour Niveaux Moyens. Niveaux : 29-35"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Mid3 CAGDataObject_Planet]
+NameString="Gratian"
+UpgradeDescription="Une Exo-Planète pour Niveaux Moyens. Niveaux : 29-35"
+ActionToDoStr="Voyage Spatial"
+
+
+[ExoPlanet_Magma1 CAGDataObject_Planet]
+NameString="Fornjot"
+UpgradeDescription="Une Exo-Planète pour Hauts Niveaux. Climat Brûlant, Connue pour avoir de la Magmanite. Niveaux : 43-47. AVERTISSEMENT : CHALEUR EXTREME"
+ActionToDoStr="Voyage Spatial"
+
+
+[ExoPlanet_Magma2 CAGDataObject_Planet]
+NameString="Surtur"
+UpgradeDescription="Une Exo-Planète pour Hauts Niveaux. Climat Brûlant, Connue pour avoir de la Magmanite. Niveaux : 43-47. AVERTISSEMENT : CHALEUR EXTREME"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Magma3 CAGDataObject_Planet]
+NameString="Loge"
+UpgradeDescription="Une Exo-Planète pour Hauts Niveaux. Climat Brûlant, Connue pour avoir de la Magmanite. Niveaux : 43-47. AVERTISSEMENT : CHALEUR EXTREME"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_High1 CAGDataObject_Planet]
+NameString="Titan"
+UpgradeDescription="Une Exo-Planète pour Hauts Niveaux. Niveaux : 43-47"
+ActionToDoStr="Voyage Spatial"
+
+
+[ExoPlanet_High2 CAGDataObject_Planet]
+NameString="Argan"
+UpgradeDescription="Une Exo-Planète pour Hauts Niveaux. Niveaux : 43-47"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_High3 CAGDataObject_Planet]
+NameString="Croom"
+UpgradeDescription="Une Exo-Planète pour Hauts Niveaux. Niveaux : 43-47"
+ActionToDoStr="Voyage Spatial"
+
+
+[ExoPlanet_High_Planetoid1 CAGDataObject_Planet]
+NameString="Rigel VII"
+UpgradeDescription="Un Exo-Planétoïde pour Hauts Niveaux. Niveaux : 43-47"
+ActionToDoStr="Voyage Spatial"
+
+
+
+
+
+[SoloHome CAGDataObject_Planet]
+NameString="Planète Mère Solo"
+UpgradeDescription="Votre Planète Mère"
+ActionToDoStr="Y retourner"
+
+
+
+[ExoPlanet_Desert1 CAGDataObject_Planet]
+NameString="Grand Bassin"
+UpgradeDescription="Une Exo-Planète pour Niveaux Moyens. Climat de type désertique, connue pour avoir des Pierres Solaires. Niveaux : 29-35"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Desert2 CAGDataObject_Planet]
+NameString="Mojave Rock"
+UpgradeDescription="Une Exo-Planète pour Niveaux Moyens. Climat de type désertique, connue pour avoir des Pierres Solaires. Niveaux : 29-35"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Desert3 CAGDataObject_Planet]
+NameString="Sphère Saharienne"
+UpgradeDescription="Une Exo-Planète pour Niveaux Moyens. Climat de type désertique, connue pour avoir des Pierres Solaires. Niveaux : 29-35"
+ActionToDoStr="Voyage Spatial"
+
+
+[ExoPlanet_Tundra1 CAGDataObject_Planet]
+NameString="Rocher Arctique"
+UpgradeDescription="Une Exo-Planète Toundra pour Niveaux Moyens. Climat de type Toundra, connue pour avoir de la Tundrite. Niveaux : 29-35. AVERTISSEMENT : DES CONDITIONS DANGEREUSES EXISTENT ICI"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Tundra2 CAGDataObject_Planet]
+NameString="Delta Glacial V"
+UpgradeDescription="Une Exo-Planète Toundra pour Niveaux Moyens. Climat de type Toundra, connue pour avoir de la Tundrite. Niveaux : 29-35. AVERTISSEMENT : ATMOSPHERE DANGEREUSE"
+ActionToDoStr="Voyage Spatial"
+
+[ExoPlanet_Tundra3 CAGDataObject_Planet]
+NameString="Cœur Gelé"
+UpgradeDescription="Une Exo-Planète Toundra pour Niveaux Moyens. Climat de type Toundra, connue pour avoir de la Tundrite. Niveaux : 29-35. AVERTISSEMENT : ATMOSPHERE DANGEREUSE"
+ActionToDoStr="Voyage Spatial"

@@ -1,0 +1,426 @@
+
+
+
+
+
+[CAGDataObjectBase]
+ResourceCostStr="Coût en Ressources:"
+CraftingCostStr="Matériaux d'Artisanat Requis:"
+
+
+BaseItemLevelRequiredStr="Niveau Requis:"
+
+
+[Turret_TroikaBase]
+InteractString="Touche E pour entrer et sortir de la tourelle."
+
+
+
+[CAGNonNativeTypes]
+PlanetRotation1MinStr="Cette planète sort de son orbite dans moins d'une minute !"
+PlanetRotation5MinStr="Cette planète sort de son orbite dans moins de 5 minutes !"
+PlanetRotation10MinStr="Cette planète sort de son orbite dans moins de 10 minutes !"
+
+RefundDialogTitleStr="Vous avez un remboursement qui vous attend !"
+RefundMessageStr="Vous êtes remboursé pour quelque chose de détruit en jeu. Recherchez coffre de remboursement à proximité pour réclamer vos objets ! Consultez votre journal de joueur pour plus de détails sur ce remboursement"
+
+NewbieKillWarningString="Tuer les NOOBS est puni de mort !"
+NewbieKillerTitleString="TUEUR DE NOOBS NULLOS"
+NewbieKillerGibbedString="Vous avez été puni pour avoir tué des Noobs."
+NewbieKillerRankString="Les Noobs sont de rang inférieur à :"
+
+WrongTypeOfItemStr="Vous ne pouvez pas utiliser cet objet à cet emplacement !"
+WrongTypeOfGearStr="Cet équipement va à un autre emplacement !"
+NotMinRankGearStr="Vous êtes de rang trop élevé pour vous équiper de cet objet."
+AcceptStr="Accepter"
+DeclineStr="Refuser"
+SummonTitleStr="Quelqu'un Appelle"
+
+RarityDisplayNames="Commun"
+RarityDisplayNames="Peu Fréquent"
+RarityDisplayNames="Rare"
+RarityDisplayNames="Épique"
+RarityDisplayNames="Légendaire"
+RarityDisplayNames="Mythique"
+
+
+
+LeaderBoardTypeStrings="Joueurs Tués"
+LeaderBoardTypeStrings="Monstres Tués"
+LeaderBoardTypeStrings="Ressources Récoltées"
+LeaderBoardTypeStrings="Valeur de Base Détruite"
+LeaderBoardTypeStrings="Valeur de Base Construite"
+LeaderBoardTypeStrings="Taxes Collectées"
+LeaderBoardTypeStrings="Le Plus de Terres Revendiquées"
+
+
+
+
+AffectingTypeDescriptionKeyValues=(TheType=AT_RunSpeed,DisplayName="Vitesse de Course")
+AffectingTypeDescriptionKeyValues=(TheType=AT_BandolierCapacity,DisplayName="Capacité Cartouchière")
+AffectingTypeDescriptionKeyValues=(TheType=AT_HealthAmount,DisplayName="Vie")
+AffectingTypeDescriptionKeyValues=(TheType=AT_HealthRecovery_Amount,DisplayName="Rétablissement Santé")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage_Shotgun,DisplayName="Dommages Fusil")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage_Pistol,DisplayName="Dommages Pistolet")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage_AssaultRifle,DisplayName="Dommages FA")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage_Melee,DisplayName="Dommages Mêlée")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage_RocketLauncher,DisplayName="Dommages Roquettes")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage_SMG,DisplayName="Dommages SMG")
+AffectingTypeDescriptionKeyValues=(TheType=AT_CritChance,DisplayName="Crit Chance")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage,DisplayName="Dommages")
+AffectingTypeDescriptionKeyValues=(TheType=AT_HungerReduction,DisplayName="Faim")
+AffectingTypeDescriptionKeyValues=(TheType=AT_DamageMitigation,DisplayName="Réduction Dommages")
+AffectingTypeDescriptionKeyValues=(TheType=AT_FallDistance,DisplayName="Distance de Chute")
+AffectingTypeDescriptionKeyValues=(TheType=AT_ColdTolerance,DisplayName="Résistance Froid")
+AffectingTypeDescriptionKeyValues=(TheType=AT_HeatTolerance,DisplayName="Résistance Chaleur")
+AffectingTypeDescriptionKeyValues=(TheType=AT_ToxicTolerance,DisplayName="Résistance Toxique")
+AffectingTypeDescriptionKeyValues=(TheType=AT_RadiationTolerance,DisplayName="Résistance Radiations")
+AffectingTypeDescriptionKeyValues=(TheType=AT_LowOxygenTolerance,DisplayName="Résistance Oxygène Bas")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_ReloadSpeed,DisplayName="Vitesse de Rechargement")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_RateOfFire,DisplayName="Cadence de Tir")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_Accuracy,DisplayName="précision")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_MagazineSize,DisplayName="Taille Chargeur")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Elemental_Fire,DisplayName="Feu Élémentaire")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Elemental_Ice,DisplayName="Glace Élémentaire")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Elemental_Electric,DisplayName="Éléctricité Élémentaire")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Elemental_Poison,DisplayName="Poison Élémentaire")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Elemental_PlayerSoul,DisplayName="Âme Élémentaire")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Elemental_Moonlight,DisplayName="Clair de Lune Elémental")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Elemental_DarkGaia,DisplayName="Gaïa Obscure Élémentaire")
+AffectingTypeDescriptionKeyValues=(TheType=AT_AreaTotemOwnershipAmount,DisplayName="Max Totems")
+AffectingTypeDescriptionKeyValues=(TheType=AT_BackpackItemDropReduction,DisplayName="Chance de Drop")
+AffectingTypeDescriptionKeyValues=(TheType=AT_BridgeDistanceIncrease,DisplayName="Longueur Pont Max")
+AffectingTypeDescriptionKeyValues=(TheType=AT_PetDurationIncrease,DisplayName="Durée Drones")
+AffectingTypeDescriptionKeyValues=(TheType=AT_MaxPetsActiveAmount,DisplayName="Max Drones Actifs")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Jump_StaminaReduction,DisplayName="Endurance Saut")
+AffectingTypeDescriptionKeyValues=(TheType=AT_JumpHeight,DisplayName="Hauteur de Saut")
+AffectingTypeDescriptionKeyValues=(TheType=AT_SpeedStim_Duration,DisplayName="Durée Stim Vitesse")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WeaponDamage_Melee,DisplayName="Dommages Armes Mêlée")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Dodge_StaminaReduction,DisplayName="Distance d'Esquive")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Dodge_Speed,DisplayName="Vitesse d'Esquive")
+AffectingTypeDescriptionKeyValues=(TheType=AT_BridgeDistanceIncrease,DisplayName="Pont Distance Support")
+AffectingTypeDescriptionKeyValues=(TheType=AT_PetCostReduction,DisplayName="Coût Drone")
+AffectingTypeDescriptionKeyValues=(TheType=AT_ConstructionCostReduction_Rooms,DisplayName="Réduction Coût Pièces")
+AffectingTypeDescriptionKeyValues=(TheType=AT_ConstructionCostReduction_BaseItems,DisplayName="Coût Objets Base")
+AffectingTypeDescriptionKeyValues=(TheType=AT_DrillPlatformOwnershipAmount,DisplayName="Max Plates-Formes de Forage")
+AffectingTypeDescriptionKeyValues=(TheType=AT_CraftingCostReduction_Factory,DisplayName="Coût Fabrication Usine")
+AffectingTypeDescriptionKeyValues=(TheType=AT_CraftingCostReduction_ScienceStation,DisplayName="Coût Fabrication Station Scientifique")
+AffectingTypeDescriptionKeyValues=(TheType=AT_CraftingCostReduction_Armory,DisplayName="Coût Fabrication Armurerie")
+AffectingTypeDescriptionKeyValues=(TheType=AT_CarryCapacity_SlotIncrease,DisplayName="Capacité de Transport")
+AffectingTypeDescriptionKeyValues=(TheType=AT_DamageStim_Duration,DisplayName="Durée Stim de Dommages")
+AffectingTypeDescriptionKeyValues=(TheType=AT_ElementalOffense,DisplayName="Offense Élémentaire")
+AffectingTypeDescriptionKeyValues=(TheType=AT_WingsuitSpeedIncrease,DisplayName="Vitesse WingSuit")
+AffectingTypeDescriptionKeyValues=(TheType=AT_FuelReduction_MonoCycle,DisplayName="Fuel Monocycle")
+AffectingTypeDescriptionKeyValues=(TheType=AT_FuelReduction_Jetpack,DisplayName="Fuel Jetpack")
+AffectingTypeDescriptionKeyValues=(TheType=AT_AirControlIncrease,DisplayName="Contrôle Aérien")
+AffectingTypeDescriptionKeyValues=(TheType=AT_VehicleBuggyOwnershipAmount,DisplayName="Max Doom Buggies Possibles")
+AffectingTypeDescriptionKeyValues=(TheType=AT_VehicleJetOwnershipAmount,DisplayName="Max Hammerheads Possibles")
+AffectingTypeDescriptionKeyValues=(TheType=AT_VehicleTankOwnershipAmount,DisplayName="Max Tanks Possibles")
+AffectingTypeDescriptionKeyValues=(TheType=AT_MultiTool_ROF,DisplayName="Cadence Outil Multifonction")
+AffectingTypeDescriptionKeyValues=(TheType=AT_MultiTool_Crit,DisplayName="Crit Chance Outil Multifonction")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Luck,DisplayName="Chance !")
+AffectingTypeDescriptionKeyValues=(TheType=AT_CritChance,DisplayName="Crit Chance")
+AffectingTypeDescriptionKeyValues=(TheType=AT_DefenseStim_Duration,DisplayName="Durée Stim défense")
+AffectingTypeDescriptionKeyValues=(TheType=AT_HarvestStrike,DisplayName="Bonus Récolte")
+AffectingTypeDescriptionKeyValues=(TheType=AT_HealthRegen,DisplayName="Bonus Soins")
+AffectingTypeDescriptionKeyValues=(TheType=AT_XPBoost,DisplayName="Bonus gain d'Expérience")
+AffectingTypeDescriptionKeyValues=(TheType=AT_ConstructionCostReduction_VehicleFactory,DisplayName="Coût Fabrication Usine à Véhicules")
+
+
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_HealthAmount,DisplayName="hp")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_HealthRecovery_Amount,DisplayName=" de la normale")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_WeaponDamage_Shotgun,DisplayName=" dmg")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_WeaponDamage_Pistol,DisplayName=" dmg")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_WeaponDamage_SMG,DisplayName=" dmg")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_WeaponDamage_AssaultRifle,DisplayName=" dmg")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_WeaponDamage_Melee,DisplayName=" dmg")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_WeaponDamage,DisplayName=" dmg", bSkipPlus=true)
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_HungerReduction,DisplayName=" secondes")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_ColdTolerance,DisplayName=" secondes")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_HeatTolerance,DisplayName=" secondes")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_ToxicTolerance,DisplayName=" secondes")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_RadiationTolerance,DisplayName=" secondes")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_LowOxygenTolerance,DisplayName=" secondes")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_Weapon_ReloadSpeed,DisplayName=" plus lent")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_Weapon_RateOfFire,DisplayName=" coups par minute", bSkipPlus=true)
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_Weapon_Accuracy,DisplayName=" degrés", bSkipPlus=true)
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_Weapon_MagazineSize,DisplayName=" coups", bSkipPlus=true)
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_AreaTotemOwnershipAmount,DisplayName=" more totems")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_BackpackItemDropReduction,DisplayName=" moins")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_BridgeDistanceIncrease,DisplayName=" plus")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_PetDurationIncrease,DisplayName=" minutes")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_BridgeDistanceIncrease,DisplayName="largeur pièce")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_Jump_StaminaReduction,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_PetCostReduction,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_ConstructionCostReduction_Rooms,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_ConstructionCostReduction_BaseItems,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_CraftingCostReduction_Factory,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_HungerReduction,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_CraftingCostReduction_ScienceStation,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_CraftingCostReduction_Armory,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_CarryCapacity_SlotIncrease,DisplayName=" Emplacements")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_FuelReduction_MonoCycle,DisplayName=" réduction")
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_FuelReduction_Jetpack,DisplayName=" réduction")
+
+AffectingTypePostfixDescriptionKeyValues=(TheType=AT_ConstructionCostReduction_VehicleFactory,DisplayName=" réduction")
+
+HealthFromFoodStr="Soin par Nourriture"
+HealthFromDancing="Soin par Danse"
+HealthFromHealthStim="Soin par Stim"
+HealthFromRegenStr="Soin par Drone"
+
+StaminaFromDancing="Endurance par la Danse"
+
+SelectorTypeString="Consommable"
+SelectorTypeString="Stim"
+SelectorTypeString="Piège"
+SelectorTypeString="Munition"
+
+SelectorTypeString="Mêlée"
+
+SelectorTypeString="Outil Multifonction"
+SelectorTypeString="Pistolet"
+SelectorTypeString="Fusil d'Assaut"
+SelectorTypeString="Fusil"
+SelectorTypeString="Mitraillettes"
+SelectorTypeString="Lance-Roquettes"
+SelectorTypeString="BLANK"
+
+
+SelectorTypeString="Armure"
+SelectorTypeString="Chapeaux"
+SelectorTypeString="Titres"
+SelectorTypeString="Drone"
+SelectorTypeString="Véhicule"
+SelectorTypeString="Grand Véhicule"
+SelectorTypeString="Plan"
+SelectorTypeString="Matériau"
+
+SelectorTypeString="Essence"
+SelectorTypeString="Mats. Stim"
+SelectorTypeString="Mats. Étoile"
+
+SelectorTypeString="Bugdog"
+SelectorTypeString="Insecte Volant"
+SelectorTypeString="Slime"
+SelectorTypeString="Night Killer"
+SelectorTypeString="Day Killer"
+SelectorTypeString="Tech Hunter"
+SelectorTypeString="Gardien"
+SelectorTypeString="Yéti"
+SelectorTypeString="Bombe"
+
+SelectorTypeString="Raptor"
+SelectorTypeString="Grenouille"
+SelectorTypeString="GiantBird"
+SelectorTypeString="Tortue"
+SelectorTypeString="SpiderMama"
+SelectorTypeString="Robot Ennemi"
+
+
+SelectorTypeString="Mat. Bois"
+SelectorTypeString="Mat. Fossiles"
+SelectorTypeString="Mat. Minerais"
+SelectorTypeString="Mat. Gemmes"
+SelectorTypeString="Mat. Plasma"
+SelectorTypeString="Mat. Pierres Solaires"
+SelectorTypeString="Mat. Toundra"
+SelectorTypeString="Mat. Magmanite"
+
+SelectorTypeString="Bois Raffiné"
+SelectorTypeString="Fossile Raffiné"
+SelectorTypeString="Minerai Raffiné"
+SelectorTypeString="Gemme Raffinée"
+SelectorTypeString="Plasma Raffiné"
+SelectorTypeString="Élément-X Raffiné"
+SelectorTypeString="Pierre Solaire Raffinée"
+SelectorTypeString="Toundra Raffinée"
+SelectorTypeString="Magmanite Raffiné"
+
+SelectorTypeString="BLANK"
+
+
+SelectorTypeString="Colorant"
+
+SelectorTypeString="Objets Placés"
+SelectorTypeString="Artisanat"
+SelectorTypeString="Alimenté"
+
+SelectorTypeString="Cartouchière"
+SelectorTypeString="Appareils"
+
+SelectorTypeString="Compétences Joueur"
+
+SelectorTypeString="Ressource"
+
+SelectorTypeString="Planète Mère"
+SelectorTypeString="Lune"
+SelectorTypeString="Planètes - Bas"
+SelectorTypeString="Planètes - Moyen"
+SelectorTypeString="Planètes - Haut"
+
+
+SelectorTypeString="Nourriture"
+
+
+SelectorTypeString="Métier - Astronaute"
+SelectorTypeString="Métier - Ingénieur"
+SelectorTypeString="Métier - Scientifique"
+SelectorTypeString="Métier - Chasseur"
+SelectorTypeString="Métier - Acrobate"
+SelectorTypeString="Métier - Chef"
+SelectorTypeString="Métier - Pilote"
+SelectorTypeString="Métier - Prospecteur"
+
+SelectorTypeString="Métier - Unlocked 2"
+SelectorTypeString="Métier - Unlocked 3"
+SelectorTypeString="Métier - Unlocked 4"
+SelectorTypeString="Métier - Unlocked 5"
+SelectorTypeString="Métier - Unlocked 6"
+
+#### room types
+#IT_Room_Metal
+SelectorTypeString="Pièces en Métal"
+#IT_Room_Wood
+SelectorTypeString="Pièces Limitrophes"
+#IT_Room_Glass
+SelectorTypeString="Pièces Vitrées"
+#IT_Room_Structural
+SelectorTypeString="Pièces Structurelles"
+#IT_Room_Fence
+SelectorTypeString="Clôtures"
+#IT_Room_Max
+SelectorTypeString="BLANK"
+
+
+SelectorTypeString="Spécial"
+SelectorTypeString="Invoquer Monstre"
+
+SelectorTypeString="Capacité du Joueur"
+
+
+
+
+
+RefundStr="A ÉTÉ REMBOURSÉ"
+
+SimpleTutorialExpRewardStr="EXP. TUTO :"
+
+
+GridStr="Grille :"
+
+LevelStr="Niveau :"
+LevelsStr="Niveaux :"
+
+ClaimedByStr="Revendiqué par :"
+NoOneYetStr="Personne."
+
+DrillPlatformStr="Plates-Formes de Forage actives :"
+DrillPlatformInActiveStr="Inactif"
+
+
+TaxedYouStr="VOS TAXES :"
+TaxRateStr="Taux taxe :"
+
+AnonymousLogin="Connexions anonymes actuelles :"
+AnonymousLogin_Enabled="ACTIVÉ"
+AnonymousLogin_Disabled="DÉSACTIVÉE"
+
+BaneElemntStr="Élémentaire :"
+
+TitleStr="Titre :"
+PlayerAbilityStr="Capacité :"
+
+
+## NEWELEMENTALTYPE
+ElemTypeNamesForObjectDisplayNames=""
+ElemTypeNamesForObjectDisplayNames="Feu"
+ElemTypeNamesForObjectDisplayNames="Glace"
+ElemTypeNamesForObjectDisplayNames="Electrique"
+ElemTypeNamesForObjectDisplayNames="Poison"
+ElemTypeNamesForObjectDisplayNames="Âme"
+ElemTypeNamesForObjectDisplayNames="Lumière de Lune"
+ElemTypeNamesForObjectDisplayNames="Gaïa Obscure"
+
+
+RepairingStr="RÉPARATION"
+GearSetStr="Équipement-"
+
+RedactedStr="*SUPPRIMÉ*"
+
+
+DecayingStr="(DÉGRADATION)"
+DecayStr="dégradation"
+DecayInfStr="(dégradation : inf)"
+
+
+DestroyedByStr="DETRUIT par "
+DestroyedByWithStr="avec"
+DestroyedByNoDataRecorderStr="DÉTRUIT par des inconnus (hors de portée de l'enregistreur de données)"
+
+
+
+
+CraftingMatDescPrefixes="[HOME]"
+CraftingMatDescPrefixes="[LUNE]"
+CraftingMatDescPrefixes="[BAS]"
+CraftingMatDescPrefixes="[MOYEN]"
+CraftingMatDescPrefixes="[HAUT]"
+
+CraftingMatWhereYouCanFindDescEveryWhere="Matériau d'artisanat trouvable sur toutes les Planètes."
+CraftingMatWhereYouCanFindDesc="Matériau d'artisanat trouvable sur les Planètes Mères."
+CraftingMatWhereYouCanFindDesc="Matériau d'artisanat trouvable sur les Lunes."
+CraftingMatWhereYouCanFindDesc="Matériau d'artisanat trouvable sur les Planètes Bas Niveau."
+CraftingMatWhereYouCanFindDesc="Matériau d'artisanat trouvable sur les Planètes de Niveau Moyen."
+CraftingMatWhereYouCanFindDesc="Matériau d'artisanat trouvable sur les Planètes de Niveau Élevé."
+
+ 
+HotbarModifierKeyPrefixLabels=""
+HotbarModifierKeyPrefixLabels="Ctrl+"
+HotbarModifierKeyPrefixLabels="Shift+"
+
+RealWorldHoursStr="(Temps Monde Réel)"
+
+RanOutOfStr="À COURT DE :"
+
+NoActiveGeneratorNearStr="NON ALIMENTÉ"
+InventoryStr="INVENTAIRE"
+HotBarStr="BARRE RACCOURCIS"
+SelfDestructConfirmStr="Vraiment détruire cet objet/base ? Cela ne peut pas être annulé."
+CancelStr="Abandon"
+OKstr="OK"
+UpgradeStr="Mise à Niveau"
+UpgradeCompleteStr="MAX"
+PrimaryColorStr="Choix Couleur Primaire"
+SecondaryColorStr="Choix Couleur Secondaire"
+TertiaryColorStr="Choix Couleur Tertiaire"
+ApplyLastStr="Appliquer les Dernières Couleurs"
+ResetToDefaultStr="Reinit. Couleurs"
+
+
+TutorialStr="RÉCOMPENSE TUTORIAL:"
+
+
+[CAGVWeap_TankMG]
+WeaponDisplayName="Tank MG"
+
+[CAGVWeap_TankMainCannon]
+WeaponDisplayName="Canon Tank"
+
+
+[CSM_UseItem_RecallToUplink]
+StillInCombatStr="Peut rappeler dans :"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+
+
+
+[CAGDroppedInventory]
+CantGiveStr="Je ne peux pas prendre l'Objet ! (Inventaire Plein ?)"
+
+
+[CAGDropped_Food]
+DisplayWhatWeGotStr=""
+
+[CAGDropped_MedPack]
+DisplayWhatWeGotStr=""
+
+
+
+
+[CAGDropped_AmmoRandom]
+AmmoMagStr="Chargeur Munition :"
+
+
+
+
+[CAGDropped_Ammo_Pistol]
+WeaponStr="Pistolet"
+
+[CAGDropped_Ammo_Rifle]
+WeaponStr="Fusil d'Assaut"
+
+[CAGDropped_Ammo_PlayerRocket]
+WeaponStr="Roquette"
+
+[CAGDropped_Ammo_Shotgun]
+WeaponStr="Fusil"
+
+[CAGDropped_Ammo_SMG]
+WeaponStr="SMG"
+
+
+
+[CAGDropped_Blueprint]
+BlueprintStr= "PLAN :" 
+
+
+[CAGDropped_ResourceBase]
+JackpotStr="JACKPOT :"
+BonusStr="BONUS DE RÉCOLTE :"
+

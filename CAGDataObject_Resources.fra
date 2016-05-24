@@ -1,0 +1,45 @@
+
+[CRP_Gem CAGDataObject_Resource]
+NameString="Gemmes"
+UpgradeDescription="Gemmes ! Peuvent-être trouvées dans des Amas Brillants dans tout l'univers. Des concentrations plus élevées peuvent être trouvées dans des Grottes/Caves."
+
+
+[CRP_Ore CAGDataObject_Resource]
+NameString="Minerai"
+UpgradeDescription="Minerai ! Peuvent être trouvés dans des Amas Métalliques à travers tout l'univers. Des concentrations plus élevées peuvent être trouvées dans des Grottes/Caves."
+
+[CRP_Fossil CAGDataObject_Resource]
+NameString="Fossile"
+UpgradeDescription="Fossiles ! Surtout présents sur la surface des planètes où les créatures anciennes ont rencontré leur destin."
+
+[CRP_Wood CAGDataObject_Resource]
+NameString="Bois"
+UpgradeDescription="Bois ! Du bois d'arbre bien sûr !"
+
+[CRP_Organics CAGDataObject_Resource]
+NameString="Matière Organique"
+UpgradeDescription="Matières Organiques ! Choses cultivées !  Prenez-les dans les composteurs."
+
+[CRP_ElementX CAGDataObject_Resource]
+NameString="Élément-X"
+UpgradeDescription="Élément-X ! Rare et difficile à miner, peut être extrait depuis des veines d'Elements-X avec un Collecteur."
+
+[CRP_Artifacts CAGDataObject_Resource]
+NameString="Artefacts"
+UpgradeDescription="Artefacts ! Reliques d'anciennes civilisations. Ceux-ci doivent être retirées des orbes d'artefacts trouvés sur la surface des planètes."
+
+[CRP_Plasma CAGDataObject_Resource]
+NameString="Plasma"
+UpgradeDescription="Plasma ! Extrait facilement depuis des geysers de plasma sur les lunes."
+
+[CRP_SunStone CAGDataObject_Resource]
+NameString="Pierre Solaire"
+UpgradeDescription="Pierre Solaire !  Pierre de sable cuite dans la chaleur élevée des planètes désertiques et se trouvent à leur surface."
+
+[CRP_Tundrite CAGDataObject_Resource]
+NameString="Toundra"
+UpgradeDescription="Née de banquises et de processus glaciaires mystérieux, la toundra peut être trouvée sur des planètes de type Toundra."
+
+[CRP_Magmanite CAGDataObject_Resource]
+NameString="Magmanite"
+UpgradeDescription="Magmanite! Vomie du plus profond de fours internes des planètes, la Magnemite peut être trouvée sur les mondes Magma."

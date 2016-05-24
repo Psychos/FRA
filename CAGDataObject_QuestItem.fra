@@ -1,0 +1,63 @@
+
+
+[QI_FavoriteScrewDriver CAGDataObject_QuestItem]
+NameString="Tournevis Favori"
+UpgradeDescription="Le tournevis du mécano à été utilisé de nombreuses années.  Il est couvert de graisse et le manche est usé.
+
+[QI_SparkPlug CAGDataObject_QuestItem]
+NameString="Bougie"
+UpgradeDescription="Une pièce importante de la machinerie est manquante."
+
+[QI_Lubricant CAGDataObject_QuestItem]
+NameString="Huile de Graissage"
+UpgradeDescription="Huile, (Je l'espère) pour machine ?"
+
+
+
+
+
+[QI_Passport CAGDataObject_QuestItem]
+NameString="Passeport"
+UpgradeDescription="Un passeport avec les extrémités usées et beaucoup, beaucoup de destinations planétaires."
+
+[QI_Poncho CAGDataObject_QuestItem]
+NameString="Poncho"
+UpgradeDescription="Un poncho du vendeur touriste sur Vega Prime IX.  Résistant aux pluies acides"
+
+[QI_ParasiteRemover CAGDataObject_QuestItem]
+NameString="Brosse à Habits"
+UpgradeDescription="Une combinaison d'un manche et d'un long ressort souple.  Vous utilisez encore ça ?"
+
+
+
+
+[QI_FavoritePickAxe CAGDataObject_QuestItem]
+NameString="Pioche Favorite"
+UpgradeDescription="Une demie pioche dentée et rouillée qui semble avoir eu beaucoup de gestes affectueux au fil du temps."
+
+[QI_ShoddyOldHat CAGDataObject_QuestItem]
+NameString="Vieux chapeau de mauvaise qualité"
+UpgradeDescription="Un chapeau avec un trou."
+
+[QI_ChewingTobacco CAGDataObject_QuestItem]
+NameString="Tabac à chiquer"
+UpgradeDescription="Une boîte ancienne de tabac à chiquer vintage."
+
+
+
+
+
+[QI_DaddysCreditStick CAGDataObject_QuestItem]
+NameString="Le bâton de crédit crypté de papa"
+UpgradeDescription="Un bâton de crédit crypté."
+
+[QI_QuantumPhone CAGDataObject_QuestItem]
+NameString="Téléphone quantique"
+UpgradeDescription="Un téléphone qui brise les barrières de la distance."
+
+[QI_StylishWhiteMusicDevice CAGDataObject_QuestItem]
+NameString="Module musical blanc stylisé"
+UpgradeDescription="Un module rectangulaire avec une photo usée de fruit dessus."
+
+
+

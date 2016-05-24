@@ -1,0 +1,659 @@
+
+
+## Gambler
+[CM_GamblerToken CAGDataObject_CraftingMaterial]
+NameString="Jeton Parieur"
+UpgradeDescription="Un jeton pour parier au jeu de chance du Parieur !"
+
+
+
+#### Generic Crafting Items
+
+[CM_StimMat_Speed CAGDataObject_CraftingMaterial]
+NameString="Essence de Vitesse"
+UpgradeDescription="Essence de vitesse utilisée pour créer des Stims de vitesse."
+
+[CM_StimMat_Health CAGDataObject_CraftingMaterial]
+NameString="Essence de Vie"
+UpgradeDescription="Essence de vie utilisée pour créer des Stims de soin."
+
+[CM_StimMat_Invis CAGDataObject_CraftingMaterial]
+NameString="Essence d'Invisibilité"
+UpgradeDescription="Essence d'invisibilité utilisée pour créer des Stims d'invisibilité."
+
+[CM_StimMat_Damage CAGDataObject_CraftingMaterial]
+NameString="Essence de Dommages"
+UpgradeDescription="Essence de dommages utilisée pour créer des Stims de dommages."
+
+[CM_StimMat_Defense CAGDataObject_CraftingMaterial]
+NameString="Essence de Défense"
+UpgradeDescription="Essence de défense utilisée pour créer des Stims de défense."
+
+[CM_StemCell CAGDataObject_CraftingMaterial]
+NameString="Cellule Souche"
+UpgradeDescription="Utilisée dans le condensateur de matière pour transmuter les matériaux d'artisanat vers un plus haut niveau."
+
+
+
+
+#### The Actual Mats
+
+
+[CM_CollapsedStar_Moon CAGDataObject_CraftingMaterial]
+NameString="Poussière d'Étoile Effondrée"
+UpgradeDescription="La Poussière d'Étoile Effondrée peut être transportée partout."
+
+[CM_CollapsedStar_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Fragment d'Étoile Effondrée"
+UpgradeDescription="Le Fragment d'Étoile Effondrée peut être transporté partout."
+
+[CM_CollapsedStar_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Morceau d'Étoile Effondrée"
+UpgradeDescription="Le Morceau d'Étoile Effondrée peut en être transporté partout."
+
+[CM_CollapsedStar_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Noyau d'Étoile Effondrée"
+UpgradeDescription="Le Noyau d'Étoile Effondrée peut être transporté partout."
+
+
+
+## Sunstone
+[CM_SunStone_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Tesson de Pierre Solaire"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Pierres Solaires"
+
+[CM_SunStone_Moon CAGDataObject_CraftingMaterial]
+NameString="Pierre Solaire Parfaite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Pierres Solaires"
+
+[CM_SunStone_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Morceau de Pierre Solaire"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Pierres Solaires"
+
+[CM_SunStone_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Morceau de Pierre Solaire Parfaite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Pierres Solaires"
+
+[CM_SunStone_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Pierre Solaire Colorée"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Pierres Solaires"
+
+
+
+## Tundrite
+[CM_Tundrite_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Tesson de Toundra"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Toundra"
+
+[CM_Tundrite_Moon CAGDataObject_CraftingMaterial]
+NameString="Toundra Resplendissante"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Toundra"
+
+
+[CM_Tundrite_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Toundra Pétillante"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Toundra"
+
+
+[CM_Tundrite_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Toudra Scintillante"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Toundra"
+
+
+[CM_Tundrite_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Toundra Parfaite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Toundra"
+
+
+
+## Magmanite
+[CM_Magmanite_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="tesson de Magmanite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Magmanite"
+
+
+[CM_Magmanite_Moon CAGDataObject_CraftingMaterial]
+NameString="Magmanite Resplendissante"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Magmanite"
+
+[CM_Magmanite_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Magmanite Pétillante"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Magmanite"
+
+[CM_Magmanite_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Magmanite Scintillante"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Magmanite"
+
+[CM_Magmanite_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Magmanite Parfaite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis la Magmanite"
+
+
+
+
+## Plasma
+[CM_Plasma_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Plasma 1500K"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Plasma"
+
+[CM_Plasma_Moon CAGDataObject_CraftingMaterial]
+NameString="Plasma 2500K"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Plasma"
+
+[CM_Plasma_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Plasma 3500K"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Plasma"
+
+[CM_Plasma_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Plasma 4500K"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Plasma"
+
+[CM_Plasma_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Plasma 6500K"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Plasma"
+
+
+
+
+## Wood
+[CM_Wood_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Gland Usé"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Arbres"
+
+[CM_Wood_Moon CAGDataObject_CraftingMaterial]
+NameString="Morceau d'Aubier"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Arbres"
+
+[CM_Wood_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Feuille Vierge"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Arbres"
+
+[CM_Wood_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Écorce Frappée par la Foudre"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Arbres"
+
+[CM_Wood_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Cœur de Bois Vierge"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Arbres"
+
+
+
+## Fossil
+[CM_Fossil_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Éclat de Fossile"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Fossiles"
+
+[CM_Fossil_Moon CAGDataObject_CraftingMaterial]
+NameString="Morceau de Fossile Brut"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Fossiles"
+
+[CM_Fossil_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Morceau de Fossile Resplendissant"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Fossiles"
+
+[CM_Fossil_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Cœur de Fossile Fêlé"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Fossiles"
+
+[CM_Fossil_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Cœur de Fossile"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Fossiles"
+
+
+
+
+
+## Ore
+[CM_Ore_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Minerai de Météorite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Minerai"
+
+
+[CM_Ore_Moon CAGDataObject_CraftingMaterial]
+NameString="Minerai Contaminé"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Minerai"
+
+[CM_Ore_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Minerai Radioactif"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Minerai"
+
+[CM_Ore_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Minerai de Bridgmanite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Minerai"
+
+[CM_Ore_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Bridgmanite Vierge"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis du Minerai"
+
+
+
+
+## Gem
+[CM_Gem_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Tesson de Gemme"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Gemmes"
+
+[CM_Gem_Moon CAGDataObject_CraftingMaterial]
+NameString="Tesson de Gemme parfaite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Gemmes"
+
+[CM_Gem_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Morceau de Gemme"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Gemmes"
+
+[CM_Gem_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Morceau de Gemme Parfaite"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Gemmes"
+
+[CM_Gem_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Gemme Colorée"
+UpgradeDescription="Matériau d'artisanat généralement obtenu depuis des Gemmes"
+
+
+
+
+##############
+
+
+
+## BugDog
+[CM_BugDog_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Carapace de Bugdog"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bugdog"
+
+[CM_BugDog_Moon CAGDataObject_CraftingMaterial]
+NameString="Griffe de Bugdog"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bugdog"
+
+[CM_BugDog_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Globe Oculaire de Bugdog"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bugdog"
+
+[CM_BugDog_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Bile de Bugdog"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bugdog"
+
+[CM_BugDog_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Cœur de Bugdog"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bugdog"
+
+
+
+
+
+## FlyingBug
+[CM_FlyingBug_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Carapace d'Insecte Volant"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Insectes Volants"
+
+[CM_FlyingBug_Moon CAGDataObject_CraftingMaterial]
+NameString="Dard d'Insecte Volant"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Insectes Volants"
+
+[CM_FlyingBug_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Ailes d'Insecte Volant"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Insectes Volants"
+
+[CM_FlyingBug_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Antenne d'Insecte Volant"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Insectes Volants"
+
+[CM_FlyingBug_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Venin d'Insecte Volant"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Insectes Volants"
+
+
+
+
+
+## Slime
+[CM_Slime_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Bave de Slime"
+UpgradeDescription="C'est de la bave ou c'est un Slime ? S'obtient sur des Slimes"
+
+[CM_Slime_Moon CAGDataObject_CraftingMaterial]
+NameString="Sac à Air de Slime"
+UpgradeDescription="Brut .. Il contient des bulles. S'obtient sur des Slimes"
+
+[CM_Slime_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Langue de Slime"
+UpgradeDescription="Qui pouvait savoir que ces choses avaient une langue ? S'obtient sur des Slimes"
+
+[CM_Slime_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Colonne Vertébrale de Slime"
+UpgradeDescription="Pas un invertébré finalement ! S'obtient sur des Slimes"
+
+[CM_Slime_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Estomac de Slime"
+UpgradeDescription="Maintenant vous pouvez voir quelle est leur nourriture ! S'obtient sur des Slimes"
+
+
+
+
+
+## Guardian
+[CM_Guardian_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Tesson de Lunette de Gardien"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Gardiens"
+
+[CM_Guardian_Moon CAGDataObject_CraftingMaterial]
+NameString="Casque de Gardien"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Gardiens"
+
+
+[CM_Guardian_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Néocortex de Gardien"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Gardiens"
+
+
+[CM_Guardian_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Cerveau de Gardien"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Gardiens"
+
+
+[CM_Guardian_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="NanoChip de Gardien"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Gardiens"
+UpgradeDescription="Guardian"
+
+
+
+
+## TechnoHunter
+[CM_TechnoHunter_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Bec de Chasseur Tech"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Chasseurs Tech"
+
+
+[CM_TechnoHunter_Moon CAGDataObject_CraftingMaterial]
+NameString="Poumon de Chasseur Tech"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Chasseurs Tech"
+
+[CM_TechnoHunter_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Œil de Chasseur Tech"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Chasseurs Tech"
+
+[CM_TechnoHunter_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Coeur de Chasseur Tech"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Chasseurs Tech"
+
+[CM_TechnoHunter_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Cortex de Chasseur Tech"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Chasseurs Tech"
+
+
+
+## Bomber
+[CM_Bomber_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Ressort de Bombe"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bombes"
+
+[CM_Bomber_Moon CAGDataObject_CraftingMaterial]
+NameString="Équipement de Bombe"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bombes"
+
+
+[CM_Bomber_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Pignon de Bombe"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bombes"
+
+
+[CM_Bomber_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Nanotube de Bombe"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bombes"
+
+
+[CM_Bomber_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Puce avancée CPU de Bombe"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Bombes"
+
+
+
+
+
+## Yeti
+[CM_Yeti_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Morceaux de Yéti Bruts"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Yétis"
+
+
+[CM_Yeti_Moon CAGDataObject_CraftingMaterial]
+NameString="Cancer du Poumon de Yéti"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Yétis"
+
+[CM_Yeti_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Fourrure de Yéti"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Yétis"
+
+[CM_Yeti_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Tronc Cérébral de Yéti"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Yétis"
+
+[CM_Yeti_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Miniature de Yéti Parfait"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Yétis"
+
+
+
+
+## NightKiller
+[CM_NightKiller_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Corne de Night Killer"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des NightKillers"
+
+[CM_NightKiller_Moon CAGDataObject_CraftingMaterial]
+NameString="Mâchoire de Night Killer"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des NightKillers"
+
+
+[CM_NightKiller_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Colonne Vertébrale de Night Killer"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des NightKillers"
+
+
+[CM_NightKiller_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Cerveau de Night Killer"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des NightKillers"
+
+
+[CM_NightKiller_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Crâne de Night Killer"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des NightKillers"
+
+
+
+
+
+
+
+
+## Raptor
+[CM_Raptor_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Écaille de Grokkar"
+UpgradeDescription=" Matériau d'artisanat généralement obtenu sur des Grokkars "
+
+
+[CM_Raptor_Moon CAGDataObject_CraftingMaterial]
+NameString="Queue de Grokkars"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Grokkars"
+
+[CM_Raptor_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Crête Osseuse de Grokkars"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Grokkars"
+
+[CM_Raptor_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Dent Crantée de Grokkars "
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Grokkars"
+
+[CM_Raptor_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Larmes de Grokkars"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Grokkars"
+
+
+
+## Frog
+[CM_Frog_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Patte Palmée de Ploppit"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Ploppits"
+
+[CM_Frog_Moon CAGDataObject_CraftingMaterial]
+NameString="Œuf de Ploppit"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Ploppits"
+
+[CM_Frog_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Globe Oculaire de Ploppit"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Ploppits"
+
+[CM_Frog_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Bile de Ploppit"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Ploppits"
+
+[CM_Frog_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Cœur de Ploppit"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Ploppits"
+
+
+
+
+## GiantBird
+[CM_GiantBird_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Plume d'aile de Pekket"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Pekkets"
+
+
+[CM_GiantBird_Moon CAGDataObject_CraftingMaterial]
+NameString="Bec de Pekket"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Pekkets"
+
+
+[CM_GiantBird_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Œil Parfait de Pekket"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Pekkets"
+
+
+[CM_GiantBird_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Plume de queue de Pekket"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Pekkets"
+
+
+[CM_GiantBird_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Serre de Pekket"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Pekkets"
+
+
+
+
+## Turtle
+[CM_Turtle_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Fragment de Coquille de Snapshell"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Snapshells"
+
+[CM_Turtle_Moon CAGDataObject_CraftingMaterial]
+NameString="Queue de Snapshell"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Snapshells"
+
+
+[CM_Turtle_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Mâchoire Inférieure de Snapshell"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Snapshells"
+
+
+[CM_Turtle_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Viande de Snapshell"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Snapshells"
+
+
+[CM_Turtle_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Carapace de Snapshell"
+UpgradeDescription="Matériau d'artisanat généralement obtenu sur des Snapshells"
+
+
+
+
+## SpiderMama
+[CM_SpiderMama_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Patte Articulée de SpiderMama"
+UpgradeDescription="SpiderMama"
+
+[CM_SpiderMama_Moon CAGDataObject_CraftingMaterial]
+NameString="Œil non Abimé de SpiderMama"
+UpgradeDescription="SpiderMama"
+
+[CM_SpiderMama_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Réfrigérant de SpiderMama"
+UpgradeDescription="SpiderMama"
+
+[CM_SpiderMama_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Transistor de SpiderMama"
+UpgradeDescription="SpiderMama"
+
+[CM_SpiderMama_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="DEL Bleue de SpiderMama"
+UpgradeDescription="SpiderMama"
+
+
+
+## RoboEnemy
+[CM_RoboEnemy_PlanetHome CAGDataObject_CraftingMaterial]
+NameString="Morceau de câble de Robot Ennemi"
+UpgradeDescription="RoboEnemy"
+
+[CM_RoboEnemy_Moon CAGDataObject_CraftingMaterial]
+NameString="Piston de Robot Ennemi "
+UpgradeDescription=" Robot Ennemi "
+
+[CM_RoboEnemy_PlanetLow CAGDataObject_CraftingMaterial]
+NameString="Batterie de Robot Ennemi "
+UpgradeDescription=" Robot Ennemi "
+
+[CM_RoboEnemy_PlanetMid CAGDataObject_CraftingMaterial]
+NameString="Plasmide de Robot Ennemi "
+UpgradeDescription=" Robot Ennemi "
+
+[CM_RoboEnemy_PlanetHigh CAGDataObject_CraftingMaterial]
+NameString="Cerveau Cybernétique de Robot Ennemi "
+UpgradeDescription=" Robot Ennemi "
+
+
+
+
+
+
+
+
+
+
+## Essence
+
+# these are all just Lvl0 for now. 
+
+
+[CM_ElementalEssence_Fire_Lvl0 CAGDataObject_CraftingMaterial]
+NameString="Essence de feu"
+UpgradeDescription="Essence de feu utilisée pour l'artisanat."
+
+[CM_ElementalEssence_Ice_Lvl0 CAGDataObject_CraftingMaterial]
+NameString="Essence de glace"
+UpgradeDescription="Essence de glace utilisée pour l'artisanat."
+
+[CM_ElementalEssence_Poison_Lvl0 CAGDataObject_CraftingMaterial]
+NameString="Essence de poison"
+UpgradeDescription="Essence de poison utilisée pour l'artisanat."
+
+[CM_ElementalEssence_Electric_Lvl0 CAGDataObject_CraftingMaterial]
+NameString="Essence d'électricité"
+UpgradeDescription="Essence électrique utilisée pour l'artisanat."
+
+[CM_ElementalEssence_PlayerSoul_Lvl0 CAGDataObject_CraftingMaterial]
+NameString="Essence d'âme"
+UpgradeDescription="Essence d'âme d'un joueur utilisée pour l'artisanat."
+
+[CM_ElementalEssence_Moonlight_Lvl0 CAGDataObject_CraftingMaterial]
+NameString="Essence de Lune"
+UpgradeDescription="Essence de Lune utilisée pour l'artisanat."
+
+[CM_ElementalEssence_DarkGaia_Lvl0 CAGDataObject_CraftingMaterial]
+NameString="Essence de Gaïa Obscure"
+UpgradeDescription="Gaïa Noire utiliser pour de l'artisanat."
+
+

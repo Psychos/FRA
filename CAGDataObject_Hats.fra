@@ -1,0 +1,191 @@
+
+[DefaultHat CAGDataObject_Hat]
+NameString="Lisez-moi"
+DescString="Vous pouvez trouver des chapeaux à travers le monde."
+
+
+[CH_NoHat CAGDataObject_Hat]
+NameString="Pas de Chapeau"
+UpgradeDescription="Lorsque vous êtes fatigué de porter un chapeau."
+ActionToDoStr="Porter"
+
+
+[CH_AlienMask CAGDataObject_Hat]
+NameString="Masque d'Alien"
+UpgradeDescription="Combien d'Aliens ont dû être tués pour faire le chapeau le plus élégant de cette année ?"
+ActionToDoStr="Porter"
+
+
+[CH_Cowboy CAGDataObject_Hat]
+NameString="Chapeau de Cowboy"
+UpgradeDescription="Si seulement il y avait des chevaux pour les cowboys / cowgirl / à monter !"
+ActionToDoStr="Porter"
+
+
+[CH_Cowboy_Black CAGDataObject_Hat]
+NameString="Chapeau de Cowboy Noir"
+UpgradeDescription="Si seulement il y avait des chevaux pour les cowboys / cowgirl / à monter !"
+ActionToDoStr="Porter"
+
+
+[CH_Cowboy_Red CAGDataObject_Hat]
+NameString="Chapeau de Cowboy Rouge"
+UpgradeDescription="Un chapeau de cow-boy rouge spécial pour le Nouvel An chinois !"
+ActionToDoStr="Porter"
+
+
+
+
+[CH_LionMask CAGDataObject_Hat]
+NameString="Masque de Lion"
+UpgradeDescription="Avec le port de ce masque vous pouvez être un lion lâche, un lion féroce, ou peut-être juste un astronaute perdu avec un masque de Lion."
+ActionToDoStr="Porter"
+
+
+[CH_BitMonsterBox CAGDataObject_Hat]
+NameString="Boîte de Morceaux de Monstres"
+UpgradeDescription="Qu'y a-t-il dans la boite? QU'EST CE QU'IL Y A DANS LA BOITE !? (C'est un chapeau bien sûr)"
+ActionToDoStr="Porter"
+
+
+[CH_Toast CAGDataObject_Hat]
+NameString="Masque Toast"
+UpgradeDescription="Lorsque vous voulez juste être un chiot mignon !"
+ActionToDoStr="Porter"
+
+[CH_Sana CAGDataObject_Hat]
+NameString="Masque Sana"
+UpgradeDescription="Lorsque vous voulez juste être un des plus longs chat !"
+ActionToDoStr="Porter"
+
+[CH_Soda CAGDataObject_Hat]
+NameString="Mask Soda"
+UpgradeDescription="Lorsque vous voulez juste être un chat courageux !"
+ActionToDoStr="Porter"
+
+
+
+
+[CH_StarTopHat CAGDataObject_Hat]
+NameString="Chapeau Haut de Forme avec des Étoiles"
+UpgradeDescription="Ramener le 18ème siècle avec un peu de panache sous la forme d'étoiles ! (4 Juillet ici en 2015 trouvaille exclusive !)"
+ActionToDoStr="Porter"
+
+
+
+
+[CH_Skull CAGDataObject_Hat]
+NameString="Crâne"
+UpgradeDescription="L'infâme Crâne. Bientôt le chapeau le plus populaire parce que tout le monde a un tueur à l'intérieur."
+ActionToDoStr="Porter"
+
+
+[CH_Skull_Bronze CAGDataObject_Hat]
+NameString="Crâne - Bronze"
+UpgradeDescription="L'infâme Crâne. Bientôt le chapeau le plus populaire parce que tout le monde a un tueur à l'intérieur."
+ActionToDoStr="Porter"
+
+
+[CH_Skull_Silver CAGDataObject_Hat]
+NameString="Crâne - Argent"
+UpgradeDescription="L'infâme Crâne. Bientôt le chapeau le plus populaire parce que tout le monde a un tueur à l'intérieur."
+ActionToDoStr="Porter"
+
+
+[CH_Skull_Gold CAGDataObject_Hat]
+NameString="Crâne - Or"
+UpgradeDescription="L'infâme Crâne. Bientôt le chapeau le plus populaire parce que tout le monde a un tueur à l'intérieur."
+ActionToDoStr="Porter"
+
+
+[CH_Skull_Platinum CAGDataObject_Hat]
+NameString="Crâne - Platine"
+UpgradeDescription="L'infâme Crâne. Bientôt le chapeau le plus populaire parce que tout le monde a un tueur à l'intérieur."
+ActionToDoStr="Porter"
+
+
+[CH_Skull_Diamond CAGDataObject_Hat]
+NameString="Crâne - Diamant"
+UpgradeDescription="L'infâme Crâne. Bientôt le chapeau le plus populaire parce que tout le monde a un tueur à l'intérieur."
+ActionToDoStr="Porter"
+
+
+
+
+
+[CH_HorseHead_Brown CAGDataObject_Hat]
+NameString="Tête de Cheval - Brune"
+UpgradeDescription="Lorsque vous voulez être l'attraction de la fête ou tout simplement sortir de votre zone de confort. Ce vieux masque de cheval est ce dont vous avez besoin."
+ActionToDoStr="Porter"
+
+
+[CH_HorseHead_Black CAGDataObject_Hat]
+NameString="Tête de Cheval - Noire"
+UpgradeDescription="Lorsque vous voulez être l'attraction de la fête ou tout simplement sortir de votre zone de confort. Ce vieux masque de cheval est ce dont vous avez besoin."
+ActionToDoStr="Porter"
+
+[CH_HorseHead_Purple CAGDataObject_Hat]
+NameString="Tête de Cheval - Violette"
+UpgradeDescription="Lorsque vous voulez être l'attraction de la fête ou tout simplement sortir de votre zone de confort. Ce vieux masque de cheval est ce dont vous avez besoin."
+ActionToDoStr="Porter"
+
+[CH_HorseHead_Burgundy CAGDataObject_Hat]
+NameString="Tête de Cheval - Bourgogne"
+UpgradeDescription="Lorsque vous voulez être l'attraction de la fête ou tout simplement sortir de votre zone de confort. Ce vieux masque de cheval est ce dont vous avez besoin."
+ActionToDoStr="Porter"
+
+
+
+[CH_UnicornHead_White CAGDataObject_Hat]
+NameString="Tête de Licorne - Blanche"
+UpgradeDescription="On peut se demander comment cette tête de Licorne a été acquise..."
+ActionToDoStr="Porter"
+
+
+
+
+
+[CH_HalloweenDemonHat CAGDataObject_Hat]
+NameString="Chapeau Démon d'Halloween"
+UpgradeDescription="Dans la partie la plus profonde de l'espace, situé à l'intérieur d'une grotte sur une planète hantée désolée, pendant la nuit la plus sombre, il existe le chapeau sanctifié Démon. Que feriez-vous pour en gagner un pour vous ?!"
+ActionToDoStr="Porter"
+
+
+[CH_JackOLanternHat CAGDataObject_Hat]
+NameString="Halloween Jack O' Lantern"
+UpgradeDescription="Sculptée avec le visage d'une ancienne créature cette citrouille est tout sourire comme si elle revendiquait la victoire !"
+ActionToDoStr="Porter"
+
+
+
+
+[CH_TurtleHead CAGDataObject_Hat]
+NameString="Tête Snapshell"
+UpgradeDescription="Prise de la plus vicieuse des Snapshells ! Vous aussi pouvez être un reptilien et vous prélasser dans la lueur chaude du soleil !"
+ActionToDoStr="Porter"
+
+
+
+[CH_TurkeyHead CAGDataObject_Hat]
+NameString="Tête de Glouglou"
+UpgradeDescription="Glouglou Glouglou Glouglou !"
+ActionToDoStr="Porter"
+
+
+
+
+
+
+[CH_FrogHead CAGDataObject_Hat]
+NameString="Tête de Ploppit"
+UpgradeDescription="Croaaa ! Croaaa ! Croaaa !"
+ActionToDoStr="Porter"
+
+
+
+[CH_SantaHat CAGDataObject_Hat]
+NameString="Tête de Père-Noël"
+UpgradeDescription="Il pourrait garder votre tête au chaud pour les froides nuits d'hiver !"
+ActionToDoStr="Porter"
+
+

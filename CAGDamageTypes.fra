@@ -1,0 +1,241 @@
+
+# 
+[CAGDamageType]
+KillMessages="Massacré par %killer"
+KillMessages="Tué par %killer"
+
+
+#### Player self inflicted
+
+[CDT_Falling]
+KillMessages="Tué par orgueil"
+KillMessages="Tué par la triste vérité : la gravité"
+KillMessages="A fait un faux pas mortel"
+KillMessages="Tué dans une chute"
+
+[CDT_Chasm]
+KillMessages="Mort par un trou dans le sol"
+KillMessages="A fait un pas mortel"
+KillMessages="Est tombé dans les abysses"
+KillMessages="N'a pas vu le gouffre"
+
+[CDT_Suicide]
+KillMessages="Tué par dégoût de soi"
+KillMessages="Vaincu par la haine de soi"
+KillMessages="A pris la solution de facilité"
+
+[CDT_Hunger]
+KillMessages="Tué par une allergie au Gluten"
+KillMessages="Tué par anorexie"
+KillMessages="Tué suite à un régime trop strict"
+KillMessages="BESOIN VITAL EN NOURRITURE"
+KillMessages="A oublié de manger"
+
+
+
+
+#### Environmental
+
+[CDT_Environmental]
+KillMessages="Adieu, monde cruel"
+
+
+[CDT_WaterPain]
+KillMessages="N'as jamais appris à nager"
+KillMessages="Tué car ne savait pas respirer sous l'eau"
+KillMessages="Tué par des larmes d'ange"
+
+[CDT_Cold]
+EnvironmentalDamageString="Dommages dus au froid :"
+KillMessages="Devrait porter un chandail"
+KillMessages="Gelé à mort"
+KillMessages="Trop cool pour l'école"
+
+[CDT_Heat]
+EnvironmentalDamageString="Dommages dus à la chaleur :"
+KillMessages="Devrait essayer de trouver de la glace"
+KillMessages="Cuit à point"
+
+[CDT_Toxic]
+EnvironmentalDamageString="Dommages dus à la Toxicité :"
+KillMessages="Arrrrghhhhh ça brûle !"
+KillMessages="Complétement Dissous"
+
+[CDT_Radiation]
+EnvironmentalDamageString="Dommages dus aux Radiations :"
+KillMessages="Devrait se procurer plus d'anti-rads"
+KillMessages="Décédé, les radiations ont fondu vos entrailles"
+
+
+[CDT_LowOxygen]
+EnvironmentalDamageString="Dommages dus au manque d'oxygène :"
+KillMessages="Devrait emporter plus de canettes d'air"
+KillMessages="Mort asphyxié"
+KillMessages="A essayé de respirer encore et encore, mais sans oxygène..."
+
+
+
+
+#### Projectiles
+
+[CDT_EnemyProjectile]
+KillMessages="Percuté par un éjecta de %killer"
+KillMessages="À reçu un cadeau de %killer"
+KillMessages="Éclaboussé par %killer"
+
+
+[CDT_FlyingBugSpit]
+
+[CDT_SlimeSpit]
+
+[CDT_BugDogSpit]
+
+[CDT_FlyingBugSpit]
+
+[CDT_GuardianSingleHand]
+
+[CDT_NightKillerThrow]
+
+
+[CDT_TechnoHunterRangeAttack]
+KillMessages="Tué par la fureur de %killer"
+KillMessages="Est resté sans réaction devant %killer"
+KillMessages="Criblé par %killer"
+
+
+
+
+
+
+#### Melee
+
+[CDT_Melee]
+KillMessages="Bagarre avec %killer"
+KillMessages="Est resté trop proche de %killer"
+
+
+[CDT_EnemyMelee]
+KillMessages="Giflé par %killer"
+KillMessages="Tranché et coupé en dés par %killer"
+KillMessages="Touché par %killer"
+
+
+[CDT_PlayerMelee]
+
+
+[CDT_MeleeKick]
+
+
+[CDT_FlyingBugMelee]
+
+
+
+#### Ballistics
+
+[CDT_Ballistic]
+KillMessages="Abattu par %killer"
+KillMessages="Troué de partout, merci à %killer"
+KillMessages="Parfumé aux cartouches de %killer"
+
+[CDT_AssaultRifle]
+
+
+[CDT_Shotgun]
+KillMessages="Foudroyé par %killer"
+KillMessages="Fumé par la chevrotine de %killer"
+
+
+[CDT_Pistol]
+
+
+
+
+
+
+
+#### Powered and Trap Base Items
+
+[CDT_LaserFence]
+KillMessages="Tué par une lumière aveuglante"
+KillMessages="Tué par une clôture maléfique"
+KillMessages="Tué suite à une intrusion"
+KillMessages="Tué pour ne pas s'être occupé de ses affaires"
+
+
+[CDT_Trap_Landmine]
+
+[CDT_GunTurret]
+
+[CDT_SupportFailure]
+
+
+
+#### Explosives
+
+[CDT_Explosive]
+KillMessages="A sauté à cause de %killer"
+KillMessages="A mangé la déflagration de %killer"
+
+
+[CDT_EnemyExplosionBase]
+
+
+[CDT_EnemyGroundPoundBase]
+
+
+[CDT_GuardianGroundPound]
+KillMessages="Éradiqué par sa marche lourdaude"
+
+
+[CDT_YetiGroundPound]
+KillMessages="Écrasé par la mort glacée"
+KillMessages="Un pied rembourré de Yéti est trop dur !"
+
+
+[CDT_Firework]
+KillMessages="s'est arraché les doigts !"
+KillMessages="Oops !"
+
+
+#### MISC
+
+[CDT_EatenByThief]
+
+
+[CDT_MultiTool]
+
+
+
+#### Vehicles
+[CDT_CrushedByVehicle]
+KillMessages="Écrasé par les lois physiques"
+KillMessages="transformé en crêpes par la véhicule de %killer"
+
+
+[CDT_RunOverByVehicle]
+KillMessages="Écrasé"
+KillMessages="Tué sur la route"
+
+
+
+[CDT_TankMG]
+KillMessages="N'a pas réussi à éviter les balles de %killer"
+KillMessages="Complétement troué, de la part de %killer et de son MG Centurion"
+
+
+[CDT_TankCannon]
+KillMessages="Choquée et impressionné par la coque du Centurion de %killer"
+KillMessages="BOOM ! L'obus du Tank à parlé."
+KillMessages=" SALUT À L'OBUS DU CENTURION"
+
+
+[CDT_JetLaser]
+KillMessages="Optiquement impressionné par le rayon Hammerhead de %killer"
+KillMessages="Transpercé par le rayon Hammerhead de %killer"
+
+
+[CDT_PlayerRocket_AntiVehicle]
+KillMessages="A entendu le doux son d'un missile guidé de %killer"
+KillMessages="Atteint et touché par %killer"
+
+

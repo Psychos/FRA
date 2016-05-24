@@ -1,0 +1,124 @@
+
+[CC_PlayerJob CAGDataObject_CraftingCategory]
+NameString="Métiers Joueurs"
+UpgradeDescription=""
+
+[CC_Armor CAGDataObject_CraftingCategory]
+NameString="Armure"
+UpgradeDescription=""
+
+[CC_Pistol CAGDataObject_CraftingCategory]
+NameString="Pistolets"
+UpgradeDescription=""
+
+[CC_Rifle CAGDataObject_CraftingCategory]
+NameString="Fusils"
+UpgradeDescription=""
+
+[CC_SMG CAGDataObject_CraftingCategory]
+NameString="Mitraillettes"
+UpgradeDescription=""
+
+[CC_RocketLauncher CAGDataObject_CraftingCategory]
+NameString="Lance-Roquettes"
+UpgradeDescription=""
+
+[CC_Shotgun CAGDataObject_CraftingCategory]
+NameString="Fusils à Pompe"
+UpgradeDescription=""
+
+[CC_Multitool CAGDataObject_CraftingCategory]
+NameString="Outil Multifonctions"
+UpgradeDescription=""
+
+[CC_Ammo CAGDataObject_CraftingCategory]
+NameString="Munitions"
+UpgradeDescription=""
+
+[CC_Melee CAGDataObject_CraftingCategory]
+NameString="Mêlée"
+UpgradeDescription=""
+
+[CC_SuperiorWeapons CAGDataObject_CraftingCategory]
+NameString="Armes Supérieures"
+UpgradeDescription=""
+
+[CC_Consumable CAGDataObject_CraftingCategory]
+NameString="Consommables"
+UpgradeDescription=""
+
+[CC_CraftingMaterial CAGDataObject_CraftingCategory]
+NameString="Matériaux d'Artisanat"
+UpgradeDescription=""
+
+[CC_Special CAGDataObject_CraftingCategory]
+NameString="Spécial"
+UpgradeDescription=""
+
+
+[CC_Device CAGDataObject_CraftingCategory]
+NameString="Dispositifs"
+UpgradeDescription=""
+
+[CC_Trap CAGDataObject_CraftingCategory]
+NameString="Pièges"
+UpgradeDescription=""
+
+[CC_Vehicle CAGDataObject_CraftingCategory]
+NameString="Véhicules"
+UpgradeDescription=""
+
+[CC_Pet CAGDataObject_CraftingCategory]
+NameString="Drones"
+UpgradeDescription=""
+
+
+##################################### Building categories
+[CC_WoodRoom CAGDataObject_CraftingCategory]
+NameString="Pièces en Bois"
+UpgradeDescription=""
+
+[CC_StoneRoom CAGDataObject_CraftingCategory]
+NameString="Pièces en Pierres"
+UpgradeDescription=""
+
+[CC_StructuralRoom CAGDataObject_CraftingCategory]
+NameString="Pièces Structurelles"
+UpgradeDescription=""
+
+[CC_GlassRoom CAGDataObject_CraftingCategory]
+NameString="Pièces en Verre"
+UpgradeDescription=""
+
+[CC_MetalRoom CAGDataObject_CraftingCategory]
+NameString="Pièces Métalliques"
+UpgradeDescription=""
+
+[CC_Fence CAGDataObject_CraftingCategory]
+NameString="Clôtures"
+UpgradeDescription=""
+
+[CC_PlacedItem CAGDataObject_CraftingCategory]
+NameString="Objets Placés"
+UpgradeDescription=""
+
+[CC_CraftingBaseItem CAGDataObject_CraftingCategory]
+NameString="Objets Base Artisanat"
+UpgradeDescription=""
+
+[CC_Powered CAGDataObject_CraftingCategory]
+NameString="Objets Alimentés"
+UpgradeDescription=""
+
+[CC_DefensiveOffensive CAGDataObject_CraftingCategory]
+NameString="Défensif/Offensif"
+UpgradeDescription=""
+
+[CC_MiningBaseItem CAGDataObject_CraftingCategory]
+NameString="Minage"
+UpgradeDescription=""
+
+##################################### Monster summoner categories
+[CC_MonsterSummoner_Generic CAGDataObject_CraftingCategory]
+NameString="Événements"
+UpgradeDescription=""

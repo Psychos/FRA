@@ -1,0 +1,88 @@
+
+[DefaultPet CAGDataObject_CreatedItem_Pet]
+NameString="Lisez-Moi"
+UpgradeDescription="Les Plans de Drones peuvent se trouver partout.  Une fois que vous avez le Plan, vous serez capable de fabriquer un Drone via le menu Joueur (K)."
+
+
+
+[CIP_PetLight CAGDataObject_CreatedItem_Pet]
+NameString="Drone : Lumière"
+UpgradeDescription="Un Drone qui projette de la Lumière.  Dure 10h de jeu.  S'empile.  Une fois que le Drone disparait, vous pourrez en fabriquer un nouveau via le menu Joueur (K)."
+ActionToDoStr="Déployer Drone"
+
+
+
+[CIP_PetHarvestBooster CAGDataObject_CreatedItem_Pet]
+NameString="Drone : Récolte"
+UpgradeDescription="Un Drone qui augmente la quantité de ressources récoltées.  Dure 10h de jeu.  S'empile.  Une fois que le Drone disparait, vous pourrez en fabriquer un nouveau via le menu Joueur (K)."
+ActionToDoStr="Déployer Drone"
+
+
+[CIP_PetDamageBooster CAGDataObject_CreatedItem_Pet]
+NameString="Drone : Dommages"
+UpgradeDescription="A Un Drone qui augmente les dégâts infligés.  Dure 10h de jeu.  S'empile.  Une fois que le Drone disparait, vous pourrez en fabriquer un nouveau via le menu Joueur (K)."
+ActionToDoStr="Déployer Drone"
+
+
+[CIP_PetRunSpeedBooster CAGDataObject_CreatedItem_Pet]
+NameString="Drone : Vitesse"
+UpgradeDescription="Un Drone qui augmente la vitesse de course.  Dure 10h de jeu.  S'empile.  Une fois que le Drone disparait, vous pourrez en fabriquer un nouveau via le menu Joueur (K)."
+ActionToDoStr="Déployer Drone"
+
+[CIP_PetHeal CAGDataObject_CreatedItem_Pet]
+NameString="Drone : MediBot"
+UpgradeDescription="Un Drone qui vous régénère votre Vie dans le temps. S'empile.  Une fois que le Drone disparait, vous pourrez en fabriquer un nouveau via le menu Joueur (K)."
+ActionToDoStr="Déployer Drone"
+
+[CIP_PetConstruction CAGDataObject_CreatedItem_Pet]
+NameString="Drone : Constructbot"
+UpgradeDescription="Un Drone qui réduit le coût de construction de la Base.  S'empile.  Une fois que le Drone disparait, vous pourrez en fabriquer un nouveau via le menu Joueur (K)."
+ActionToDoStr="Déployer Drone"
+
+
+[CIP_PetXP CAGDataObject_CreatedItem_Pet]
+NameString="Drone : Boost XP"
+UpgradeDescription="Un Drone qui Boost l'XP gagnée. S'empile.  Une fois que le Drone disparait, vous pourrez en fabriquer un nouveau via le menu Joueur (K)."
+ActionToDoStr="Déployer Drone"
+
+
+[CDO_Gems CAGDataObject_CreatedItem_Resource]
+NameString="Gemmes"
+UpgradeDescription="Gemmes ! Peuvent-être trouvées dans des Amas Brillants dans tout l'univers. Des concentrations plus élevées peuvent être trouvées dans des Grottes/Caves."
+
+
+[CDO_Ore CAGDataObject_CreatedItem_Resource]
+NameString="Minerai"
+UpgradeDescription="Minerai ! Peuvent être trouvés dans des Amas Métalliques à travers tout l'univers. Des concentrations plus élevées peuvent être trouvées dans des Grottes/Caves."
+
+[CDO_Fossil CAGDataObject_CreatedItem_Resource]
+NameString="Fossile"
+UpgradeDescription="Fossiles ! Surtout présents sur la surface des planètes où les créatures anciennes ont rencontré leur destin."
+
+[CDO_Wood CAGDataObject_CreatedItem_Resource]
+NameString="Bois"
+UpgradeDescription="Bois ! Sur les Arbres bien sûr !"
+
+[CDO_Organics CAGDataObject_CreatedItem_Resource]
+NameString="Matière Organique"
+UpgradeDescription="Matières Organiques ! Choses cultivées !  Prenez-les dans les composteurs."
+
+[CDO_ElementX CAGDataObject_CreatedItem_Resource]
+NameString="ElementX"
+UpgradeDescription="Elément-X ! Rare et difficile à miner, peut être extrait depuis des veines d'Elements-X avec un Collecteur."
+
+[CDO_Artifacts CAGDataObject_CreatedItem_Resource]
+NameString="Artefacts"
+UpgradeDescription="Artefacts ! Reliques d'anciennes civilisations. Ceux-ci doivent être retirées des orbes d'artefacts trouvés sur la surface des planètes."
+
+[CDO_Plasma CAGDataObject_CreatedItem_Resource]
+NameString="Plasma"
+UpgradeDescription="Plasma ! Extrait facilement depuis des geysers de plasma sur les lunes."
+
+[CDO_SunStone CAGDataObject_CreatedItem_Resource]
+NameString="Pierre Solaire"
+UpgradeDescription="Pierre Solaire !  Pierre de sable cuite dans la chaleur élevée des planètes désertiques et se trouvent à leur surface."
+
+[CDO_Tundrite CAGDataObject_CreatedItem_Resource]
+NameString="Toundra"
+UpgradeDescription="Toundra ! Née de banquises et de processus glaciaires mystérieux, la toundra peut être trouvé sur des planètes de type Toundra."

@@ -1,0 +1,39 @@
+
+
+[CAGResourceBase]
+InteractToolTipStr=""
+NeedMultiToolStr="Équipez-vous d'un Outil Multifonction pour collecter"
+HarvestedByStr="Collecté par"
+
+LevelRequirementNotMet="Cette ressource est trop haut niveau pour que vous puissiez la collecter."
+LvlStr="Niv"
+
+
+[CAGResource_Gems]
+
+
+[CAGResource_Ore]
+
+
+[CAGResource_Stone]
+
+
+[CAGResource_Wood]
+
+
+[CAGResource_SpecialElement]
+
+NeedMultiToolStr="Un collecteur est requis pour récolter l'Élément-X"
+InteractToolTipStr="Un collecteur est requis pour récolter"
+
+
+[CAGResource_WorldArtifact]
+
+InteractToolTipStr="Créez un décrypteur d'artefact pour ouvrir ce dernier."
+ArtifactIsActivatedStr="Le décrypteur d'artefact à été activé.  Défendez-le le temps qu'il s'ouvre !"
+ArtifactIsOpenStr="Cet Artefact à été ouvert. Tirez sur les panneaux puis détruisez le Cœur !"
+
+[CAGResource_LootCrate]
+InteractToolTipStr="Touche E pour ouvrir la Caisse de Loot"
+LevelRequirementNotMet="Vous devez avoir un niveau plus élevé pour pouvoir ouvrir cette Caisse de Loot !"
+

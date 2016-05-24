@@ -1,0 +1,27 @@
+
+
+
+[CAGPawn_NPC_WearyWanderer]
+NPCName="WeiWei Le Voyageur Fatigué"
+InteractToolTipStr="Touche E pour lui parler"
+
+
+[CAGPawn_NPC_QuestGiver]
+NPCName="Donneur de Quêtes"
+InteractToolTipStr="Touche E pour lui parler"
+
+
+[CAGPawn_NPC_Gambler]
+NPCName="Parieur"
+InteractToolTipStr="Touche E pour lui parler"
+
+
+[CAGPawn_NPC_Shopkeeper]
+NPCName="M. Vendroïd"
+InteractToolTipStr="Touche E pour lui parler"
+
+
+
+
+
+

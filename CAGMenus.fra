@@ -1,0 +1,495 @@
+[CAGMenu_MenuBase]
+ClickToInteractStr="Cliquez pour interagir"
+UnfriendlyStr="BLOCKÉ !"
+
+
+[InvItem CAGMenuObject_InventoryDraggable]
+AreyouSureDropStr="Êtes-vous sûr de vouloir jeter cet objet ? Vous ne pourrez pas le récupérer !"
+
+
+[PlayerEquipmentChildren_GearSetsTitle CAGMenuTextArea]
+LocalizedTextArray="Slots Tenue Complète Disponibles :"
+
+[PlayerEquipmentChildren_GearSets CAGMenuObject_GearSetGrid]
+GearSetStr="Tenue Complète"
+SaveGearSetStr="Sauver le Set dans le Slot"
+ActivateGearSetStr="Activer"
+SaveConfirmationTitleStr="Écraser Slot de Tenue Complète ?"
+SaveConfirmationStr="Ceci va sauver votre set de Tenue complète dans le slot. Pour activer ce set, appuyez sur la touche liée à votre set."
+
+
+[SubGuestInventoryTake_TakeAll CAGMenuButton]
+LocalizedCaption="Tout Prendre"
+
+[SubGuestInventoryPut_PutAll CAGMenuButton]
+LocalizedCaption="Tout Mettre"
+
+[CraftElementChildrenElemental_ElementalButtons CAGMenuObject_ElementalGrid]
+NoBlueprintStr="(Pas de plan)"
+
+[ToolTipDetail_Background CAGMenuObject_CraftItemDetailPanel]
+OwnedStr="Possédé"
+
+[ToolTipDetailCompare_TopTitle CAGMenuTextArea]
+LocalizedTextArray="Actuellement équipé :"
+
+[StargateChildren_AlternatePlanetTitle CAGMenuTextArea]
+LocalizedTextArray="Autres Planètes :"
+
+[StargateChildren_OrigHomeText CAGMenuTextArea]
+LocalizedTextArray="(Ceci est votre planète mère d'origine)"
+
+[ChatBox_MuteMenu CAGMenuButton]
+LocalizedCaption="Gérer exclusions"
+
+[MuteMenu_Done CAGMenuButton]
+LocalizedCaption="Fermer"
+
+[MuteMenu_TitleText CAGMenuTextArea]
+LocalizedTextArray="Exclure ou Inclure Joueurs"
+
+
+
+
+[TutorialDisplayChildren_TopTitle CAGMenuTextArea]
+LocalizedTextArray="RÉCOMPENSES POUR CES TÂCHES :"
+
+[CraftDetail_AlreadyOwnedText CAGMenuTextArea]
+LocalizedTextArray="Déjà Connu"
+
+[CraftDetailCost_Background CAGMenuObject_CraftItemDetailPanel]
+UnlockStr="Recherche"
+
+[PBITextInputLarge_Label CAGMenuTextArea]
+LocalizedTextArray="Entrez texte :"
+
+[Crafting_Tabs CAGMenuObject_CraftingBlueprintsPanel]
+UnlockedStr="Débloqué"
+
+[StargateChildren_GoButton CAGMenuButton]
+LocalizedCaption="Voyage spatial !"
+
+[StargateChildren_TopTitle CAGMenuTextArea]
+LocalizedTextArray="Aller quelque part ?"
+
+[NewBlueprintFlare_TopTitle CAGMenuTextArea]
+LocalizedTextArray="Nouveau plan !"
+
+
+[PlayerSkillChildren_Activated CAGMenuTextArea]
+LocalizedTextArray="Actif"
+
+[PlayerTitleListElement CAGMenuObject_TitleElement]
+SwitchToJobStr="Activer"
+
+[PlayerAbilityListElement CAGMenuObject_PlayerAbilityElement]
+SwitchToJobStr="Sélection"
+ReqStr="Nécessite :"
+LvlStr="Niv"
+
+[PlayerSkillListElement CAGMenuObject_PlayerSkillElement]
+JobChangeConfirmStr="Vraiment changer de Métier ? À chaque Métier son propre niveau et propres points d'expérience. Toutes les compétences des autres Métiers sont toujours actives."
+CurrentJobLvlStr="Niveau actuel :"
+SwitchToJobStr="Activer"
+UpgradeSkillStr="Mise à Niveau"
+CurrLevelStr="Niveau actuel :"
+ReqStr="Nécessite :"
+LvlStr="Niv"
+
+[AmountPickerChildren_TextTitle CAGMenuTextArea]
+LocalizedTextArray="Choisissez Montant"
+
+[AmountPickerChildren_PlusButton CAGMenuButton]
+LocalizedCaption="+"
+
+[AmountPickerChildren_MinusButton CAGMenuButton]
+LocalizedCaption="-"
+
+[OKCancelChildren_OK CAGMenuButton]	
+LocalizedCaption="OK"
+
+[OKCancelChildren_Cancel CAGMenuButton]
+LocalizedCaption="Abandon"
+
+[TextInputScreenChildren_OK CAGMenuButton]
+LocalizedCaption="OK"
+
+
+[TextInputScreenChildren_Cancel CAGMenuButton]
+LocalizedCaption="Abandon"
+
+
+
+[TextInputChildren_OK CAGMenuButton]
+LocalizedCaption="OK"
+
+[TextInputChildren_Cancel CAGMenuButton]
+LocalizedCaption="Abandon"
+
+
+[OKCancelChildren_Title CAGMenuTextArea]
+LocalizedTextArray="Êtes-vous sûr ?"
+
+
+[UpgradeBaseItem_UpgradeMaxButton CAGMenuButton]
+LocalizedCaption="AMÉLIORATION MAX"
+
+
+[CraftDetailCost_NeedText CAGMenuTextArea]
+LocalizedTextArray="Besoin"
+
+[CraftDetailCost_HaveText CAGMenuTextArea]
+LocalizedTextArray="Possède"
+
+[CraftDetailCost_ItemText CAGMenuTextArea]
+LocalizedTextArray="Coût de l'objet"
+
+[CraftDetail_BuildButton CAGMenuButton]
+LocalizedCaption="Construire"
+
+[CraftDetailCost_RequiredLevelTextHeader CAGMenuTextArea]
+LocalizedTextArray="Niv. Métier requis :"
+
+[CraftDetailCost_RequiredLevelTextHeader_BaseItem CAGMenuTextArea]
+LocalizedTextArray="Niveau requis de l'objet :"
+
+[JobRequirementText_RequiredJobHeader CAGMenuTextArea]
+LocalizedTextArray="Exigences :"
+
+[JobRequirementTextBaseItem_RequiredJobHeader CAGMenuTextArea]
+LocalizedTextArray="Exigences :"
+
+
+[BuildBaseItemExtras_BuildButtonPreserveWalls CAGMenuButton]
+LocalizedCaption="Construire (Garde les murs)"
+
+[Crafting_DetailSubText CAGMenuTextArea]
+LocalizedTextArray="Un Gourdin avec des Fossiles incrustés pour faire plus de dommages !"
+
+[Crafting_ListTitle CAGMenuTextArea]
+LocalizedTextArray="PLANS"
+
+[Crafting_DetailTitle CAGMenuTextArea]
+LocalizedTextArray="Pistolet Rouillé"
+
+
+[BuildBaseItemExtras_InstructionalText CAGMenuTextArea]
+LocalizedTextArray="Cliquez-Déplacer souris pour bouger la caméra et molette souris pour tourner l'objet."
+
+
+[BaseItemBuildMenu CAGMenu_BuildBaseItem]
+BPListTItleStr="Plans de base d'objets"
+
+
+[InvGearSocket CAGMenuObject_InventorySocket_WearableGear]
+ArmorTypeCaptions="Rien"
+ArmorTypeCaptions="Tête"
+ArmorTypeCaptions="Torse"
+ArmorTypeCaptions="Gants"
+ArmorTypeCaptions="Jambes"
+ArmorTypeCaptions="Bottes"
+ArmorTypeCaptions="Armes"
+ArmorTypeCaptions="Chapeau"
+
+
+[PlayerChildren_TabCont CAGMenuObject_TabbedContainer]
+TabLabels="Equipement"
+TabLabels="Métiers"
+TabLabels="Compétences passives"
+TabLabels="Capacités actives"
+TabLabels="Titres"
+
+[DetailPanelElementalRider_ElemBadge CAGMenuButton_ElementalInfo]
+StrongVsStr="Fort VS :"
+WeakVsStr="Faible VS :"
+
+[DeathScreen_ChooseText CAGMenuTextArea]
+LocalizedTextArray="Choisissez votre location de Spawn:"
+
+
+[CraftElementChildrenElemental_GearSetsTitle CAGMenuTextArea]
+LocalizedTextArray="Variantes É lémentaires "
+
+[Settings_Apply CAGMenuButton]
+LocalizedCaption="Appliquer Résolution"
+
+[Settings_KeyBinds CAGMenuButton]
+LocalizedCaption="Editer les Touches"
+
+
+[PBISideCar_Upgrade CAGMenuButton]
+LocalizedCaption="Mise à Niveau"
+
+[PBISideCar_SelfDestruct CAGMenuButton]
+LocalizedCaption="Autodestruction"
+
+[PBISideCarTextInput_SelfDestruct CAGMenuButton]
+LocalizedCaption="Autodestruction"
+
+
+
+[UpgradeDialog CAGMenu_UpgradeDialog]
+UpgradeMaxStr="AMÉLIORATION MAX"
+UpgradeHeaderTextStr="Amélioration objet ?"
+
+[UpgradePlayerSkillDialog CAGMenu_UpgradePlayerSkillDialog]
+UpgradeHeaderTextStr="Mise à Niveau de cette compétence ?"
+
+
+
+[CAGMenu_PBI_VehicleFactory]
+ExtraInfoStr="NOTE: Les véhicules garés près de cette usine seront bloqués, et protégés aussi longtemps que l'usine est fonctionnelle et alimentée.  En outre, cette station est protégée par des générateurs de bouclier."
+
+
+[CAGMenu_PBI_Uplink]
+ConfirmSummonStr="Êtes-vous sûr de vouloir faire venir votre ami ou votre groupe Foe ? Ceci ne peut être exécuté que tous les %timeout.  Ils doivent être sur la même planète que vous."
+BindStr="Lier !"
+UnBindStr="Délier"
+BoundStr="Vous allez re-SPAWN ici."
+NotBoundStr="Vous n'êtes actuellement pas lié ici."
+WoodStr="Bois"
+AcceptedSummonStr="a accepté votre appel !"
+
+TargetConfirmSummoningString="%player désire vous faire venir à cette location : %loc. Acceptez-vous ?"
+
+SummonTimeoutStr="Ne peut pas faire d'appel avant %time"
+
+
+RandomTeleportTimeoutStr="Ne peut téléporter avant %time"
+RandomTeleportStr="Téléportation Aléatoire"
+
+
+[Uplink_SummonButton CAGMenuButton]
+LocalizedCaption="Appel de %num membre(s)"
+
+
+[CAGMenu_CraftingMaterials]
+NumOwnedStr="Nombre Possédés :"
+
+
+
+[CAGMenu_PBI_Armory]
+AmmoInClipStr="Munitions dans chaque chargeur :"
+FillStr="REMPLIR DE MUNITIONS"
+AmmoStr="MUNITIONS"
+WeaponsStr="ARMES"
+ArmorStr="ARMURE"
+BandolierCapacityStr="Capacité Cartouchière :"
+
+
+[CAGMenu_PBI_ScienceStation]
+StimsStr="STIMS"
+
+
+[CAGMenu_WelcomeToGrav]
+ReadmeText="GRAV est comme la plupart des autres jeux d'aventure de survie d'aujourd'hui. Votre but est simplement de survivre ! Il y a beaucoup de choses à faire dans GRAV. Construire une base, explorer et récolte de ressources à travers le monde, tuer des monstres, tuer ou se lier d'amitié avec d'autres joueurs, ou tout simplement gravir une montagne et regarder le coucher du soleil."
+ReadmeText=" "
+ReadmeText="Une des premières choses à faire est probablement remplacer votre gourdin en bois par une meilleure arme et de construire un pistolet ! Suivez les 'RÉCOMPENSES POUR CES TÂCHES !' suggérées et vous serez dans la bonne direction !"
+ReadmeText=" "
+ReadmeText="Ouvrons le menu de 'Configuration Touches' pour votre première récompense ! Appuyez sur F8 pour l'ouvrir maintenant ! "
+
+
+[CAGMenu_Keybind]
+HeaderTextStr="Edition des Touches (Esc pour quitter)"
+DescriptionColumnStr="Description"
+PrimaryColumnBindStr="Primaire"
+SecondaryColumnBindStr="Secondaire"
+RebindKeyButtonStr="Refaire"
+ClearPrimaryBindButtonStr="Effacer Touche Primaire"
+ClearSecondaryBindButtonStr="Effacer Touche Secondaire"
+WaitingForKeyBindOverlayStr="Appuyez sur une touche, 'Escape' pour abandonner"
+
+ReadmeText="GRAV est comme la plupart des autres jeux d'aventure de survie d'aujourd'hui. Votre but est simplement de survivre ! Il y a beaucoup de choses à faire dans GRAV. Construire une base, explorer et récolte de ressources à travers le monde, tuer des monstres, tuer ou se lier d'amitié avec d'autres joueurs, ou tout simplement gravir une montagne et regarder le coucher du soleil."
+ReadmeText=" "
+
+
+
+
+[CMB_CycleSecurityMode]
+ModeText="Public"
+ModeText="FoF uniquement"
+ModeText="Privé"
+
+
+[CAGMenu_ServerBrowser]
+JoinStr="SE CONNECTER"
+WrongVerStr="(MAUVAISE VERSION)"
+RefreshStr="RAFRAÎCHIR"
+ServerNameStr="SERVEUR"
+PingStr="LATENCE"
+PopulationStr="META POPULATION"
+PlayersStr="JOUEURS"
+OfficialStr="OFFICIELS"
+UnOfficialStr="AUTRES"
+ConnectingStr="CONNEXION"
+PlayedBeforeLabelStr="*"
+PlayedBeforeInfoStr="* - indique vous avez joué sur ce serveur auparavant."
+NoResultsStr="Aucun résultat ! Vérifiez votre connexion internet"
+SearchingStr="Recherche..."
+VersionPrefixStr="Version : "
+ShowAllStr="Voir tous les Serveurs"
+ShowMatchingVersionStr="Voir Serveurs compatibles"
+
+
+[CAGMenu_EscEsc]
+DisconnectStr="DÉCONNEXION"
+ServerBrowserStr="REJOINDRE PARTIE"
+QuitStr="QUITTER"
+OptionsStr="OPTIONS"
+StarterGuideStr="GUIDE DE DÉMARRAGE"
+WikiStr="OUVRIR LE WIKI"
+KeybindsStr="TOUCHES"
+CompassLegendStr="LÉGENDE BOUSSOLE"
+ConnectedToStr="Connecté à :"
+
+
+[CAGMenu_Settings]
+LightShaftsStr="RAYONS DE LUMIÈRE"
+DynamicShadowsStr="OMBRES DYNAMIQUES"
+MusicStr="MUSIQUE"
+PostProcessStr="POST PROCESS"
+InvertMouseStr="INVERTION SOURIS"
+StationaryCameraMotionStr="CAMÉRA FIXE"
+
+Streamer_HideNamesStr="CACHER NOM DES JOUEURS ET SERVEUR"
+Streamer_HideChatStr="CACHER LE CHAT"
+GenderStr="GENRE"
+GenderMaleStr="MÂLE"
+GenderFemaleStr="FEMELLE"
+AllowFoFInvitesStr="AUTORISE INVITES FOF"
+ShowTutorialTextStr="VOIR TUTORIAUX"
+
+[CMB_ExecOptionElement]
+OnStr="ACTIVER"
+OffStr="DÉSACTIVER"
+
+
+[CAGMenu_LoadingScreen_Downloading]
+DisclaimStr="(Ceci ne se produira qu'une fois par version du fichier cache)"
+ReceiveStr="Chargement des données du monde..."
+
+
+[ToolTipDetail_SplitInfo CAGMenuTextArea]
+LocalizedTextArray="Ctrl+Clic pour scinder un tas"
+
+
+
+[CAGMenu_SelfDestructConfirmation]
+ConfirmStr="VRAIMENT détruire cet objet de Base ? Cela ne peut pas être annulé."
+
+
+
+[CAGMenu_PBI_StarGateBase]
+SelectDestinationStr="Choisir Destination"
+ForcePlanetRotationStr="Forcer la rotation planète"
+
+[CAGMenu_StargateIsCalibrating]
+CalibratingStr="Calibrage"
+
+
+
+[CAGMenu_SwitchJobsConfirmation]
+ConfirmStr="Vraiment changer de Métier ? À chaque Métier son propre niveau et propres points d'expérience. Toutes les compétences des autres Métiers sont toujours actives."
+
+
+[CAGMenu_LootBox]
+LootPrefixStr="+"
+
+[CAGMenu_StartGame]
+ConfirmStr="Lancer le jeu SOLO ?  Cela va prendre quelques minutes pour charger votre planète de départ."
+SinglePlayerStr="JEU SOLO"
+MultiplayerStr="MULTIJOUEUR"
+OptionsStr="OPTIONS"
+CreditsStr="CREDITS"
+QuitStr="QUITTER"
+
+LogoSubText="EARLY ACCESS ALPHA"
+
+[CAGMenu_SinglePlayerConfirmation]
+ConfirmStr="Lancer le jeu SOLO ?  Cela va prendre quelques minutes pour charger votre planète de départ."
+
+[CAGMenu_DeathScreen]
+PickStr="Choisir votre location pour réapparaitre :"
+StartingAreaStr="ZONE DE DÉPART"
+RandomStr="ALÉATOIRE"
+UplinkStr="LIEN PSYCHÉ"
+SummonStr="Astuce : Si vous retrouvez votre équipement abandonné impossible à récupérer, essayez de construire un Stim d'appel de sac à la station de science!"
+
+
+
+[CAGMenu_LeaderboardDisplay]
+LeaderboardTitle="CLASSEMENTS : Touche L pour basculer"
+LeaderboardStr="Classements pour"
+TotalStr="Tous Temps Total"
+Previous24HoursStr="Hier"
+Curr24HoursStr="Aujourd'hui, jusqu'à maintenant"
+NoOneYetStr="Personne"
+YouStr="Vous"
+
+
+[CAGMenu_PlayerLog]
+PlayerLog_Title="Pendant que vous étiez ailleurs..."
+
+
+[CAGMenu_PBI_CustomSign]
+TextInputStr="Changer texte Panneau"
+TextInputDescriptionStr="Tapez le texte que vous désirez inscrire sur le Panneau"
+
+[Interact_DrillPlatform CAGMenu_PBIBase]
+ActivateStr="Allumer"
+DeActivateStr="Éteindre"
+
+[CAGHUD_HealthBar]
+UplinkSicknessStr="RESPAWN SICKNESS!"
+
+[CAGHUD_RssMineBar]
+HarvestingStr="Récolte"
+CurrentHaveStr="dans l'inventaire"
+
+[CAGMenu_AreaTotem]
+TextInputStr="Entrez Taux de Taxe"
+TextInputDescriptionStr="Entrez Taux de Taxe de 5% à 20% (ex. pour 7% entrez 7)"
+CurrentTaxRateStr="Taux de Taxe actuel :"
+TakeAllStr="Percevoir les Taxes collectées"
+
+
+
+[CAGMenu_GearSets]
+RenameStr="RENOMMER"
+CustomizeStr="PERSONNALISATION"
+UseStr=" METTRE LE SET DE TENUE "
+
+TextInputDescriptionStr="Entrez un nom pour ce set."
+
+
+
+
+
+[CAGMenu_Confirm_SendInvite]
+ConfirmStr="Êtes-vous sûr de vouloir inviter %name dans votre groupe FoF (code : %code)? (Ceci va révéler votre code FoF et donner accès à %name à votre base et objets)."
+NoFoFStr="Vous n'avez pas de code ami ou Foe. Veuillez en entrer un (ex. 12345) :"
+
+
+[CAGMenu_Confirm_ReceiveInvite]
+ConfirmStr="%name vous a invité à vous joindre à son groupe d'amis (FoF).  Cela vous permettra d'utiliser sa base et ses objets et de communiquer avec lui en privé. Acceptez-vous ?"
+
+CancelStr="Refuser"
+OKstr="Accepter"
+
+
+
+
+[CAGMenu_LoadingScreen]
+LoadingStr="Chargement..."
+PopulatingWorldStr="Peuplement du monde ... (cela peut prendre quelques minutes et GRAV peut sembler inactif ou planté. Ne fermez pas GRAV, ça travaille dur là dedans !)"
+
+
+
+[CAGMenu_PBI_MonsterSummoner]
+EventActiveStr="Invocation active"
+
+
+
+[CAGMenu_CompassLegend]
+HeaderTextStr="LEGENDE BOUSSOLE (Esc pour quitter)"
+

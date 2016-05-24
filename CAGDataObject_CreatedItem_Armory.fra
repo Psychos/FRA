@@ -1,0 +1,866 @@
+[CAGDataObject_CreatedItem_Armory]
+WhereToAcquireString="Cet Objet peut être fabriqué dans l'Armurerie"
+
+
+
+
+
+##############################################################################################################################
+########             MASSIVE SECTION OF AMMO
+##############################################################################################################################
+
+
+
+
+
+[CIA_Ammo_Pistol CAGDataObject_CreatedItem_Armory]
+NameString="Balles de Pistolet"
+UpgradeDescription=" Balles de Pistolet 9mm"
+ActionToDoStr=""
+
+
+[CIA_Ammo_AssaultRifle CAGDataObject_CreatedItem_Armory]
+NameString="Cartouches de Fusil d'Assaut"
+UpgradeDescription=" Cartouches de FA 7.62mm"
+ActionToDoStr=""
+
+[CIA_Ammo_SMG CAGDataObject_CreatedItem_Armory]
+NameString=" Cartouches SMG"
+UpgradeDescription="Cartouches de SMG 5.56mm"
+ActionToDoStr=""
+
+[CIA_Ammo_Shotgun CAGDataObject_CreatedItem_Armory]
+NameString=" Cartouches de Fusil"
+UpgradeDescription=" Cartouches de Fusil à Pompe /Chasse (Calibre 10)"
+ActionToDoStr=""
+
+[CIA_Ammo_Shotgun_Pulse CAGDataObject_CreatedItem_Armory]
+NameString=" Charge Fusil à Impulsion"
+UpgradeDescription=" Charges pour ce bon vieux Fusil à Impulsion"
+ActionToDoStr=""
+
+[CIA_Ammo_PlayerRocketLauncher CAGDataObject_CreatedItem_Armory]
+NameString=" Roquettes"
+UpgradeDescription="Roquettes miniman 74mm"
+ActionToDoStr=""
+
+
+[CIA_Ammo_PlayerRocketLauncher_AntiVehicle CAGDataObject_CreatedItem_Armory]
+NameString=" Roquettes Guidées"
+UpgradeDescription="Missile TOW BGM-71"
+ActionToDoStr=""
+
+
+
+
+
+
+
+
+
+##############################################################################################################################
+########             MASSIVE SECTION OF WEAPONS
+##############################################################################################################################
+
+
+[CIA_Weapon_MultiTool_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle I"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle II"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool_Lvl2 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle III"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool2_Lvl3 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle IV"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool_Lvl4 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle V"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool2_Lvl5 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle VI"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool_Lvl6 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle VII"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool2_Lvl7 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle VIII"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool_Lvl8 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle IX"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool2_Lvl9 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle X"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_MultiTool_Lvl10 CAGDataObject_CreatedItem_Armory]
+NameString="Outil Multifonction - Modèle XI"
+UpgradeDescription="Un Outil Multifonctions."
+ActionToDoStr="Équiper"
+
+
+
+
+[CIA_Weapon_Melee_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Gourdin en Bois Pourri"
+UpgradeDescription="Un Gourdin avec des fossiles incrustés pour plus de dommages !"
+ActionToDoStr="Equiper"
+
+
+[CIA_Weapon_Melee_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="Couteau de Combat"
+UpgradeDescription="Court, solide, et toujours là quand vous en avez besoin."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Melee_Lvl2 CAGDataObject_CreatedItem_Armory]
+NameString="Épée en Bois"
+UpgradeDescription="Une Épée de Bois usée mais robuste."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Melee_Lvl3 CAGDataObject_CreatedItem_Armory]
+NameString="Épée en Fossiles"
+UpgradeDescription="Les morceaux de créatures anciennes sont de nouveau utiles."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Melee_Lvl5 CAGDataObject_CreatedItem_Armory]
+NameString="Épée en Minerai"
+UpgradeDescription="Lame fabriquée avec du minerai du tréfonds de la planète."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Melee_Lvl6 CAGDataObject_CreatedItem_Armory]
+NameString="Épée en Gemmes"
+UpgradeDescription="Épée en Gemmes étincelante."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Melee_Lvl7 CAGDataObject_CreatedItem_Armory]
+NameString="Épée en Elément-X"
+UpgradeDescription="Une Épée mystérieuse avec un élément mystérieux."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Melee_Lvl9 CAGDataObject_CreatedItem_Armory]
+NameString="Épée en Artefact"
+UpgradeDescription="Épée fabriquée avec des Artefact exotiques."
+ActionToDoStr="Équiper"
+
+
+
+[CIA_Weapon_Melee2_Lvl4 CAGDataObject_CreatedItem_Armory]
+NameString=" Épée en Plasma"
+UpgradeDescription=" Épée faite de Plasma pur !"
+ActionToDoStr="Équiper"
+
+
+
+## tundrite sword mesh
+[CIA_Weapon_Melee_Tundrite_Lvl9 CAGDataObject_CreatedItem_Armory]
+NameString="Fil d'Hiver"
+UpgradeDescription="Aussi tranchante que le froid mordant de l'hiver"
+ActionToDoStr="Équiper"
+
+
+
+
+## Magmanite sword mesh
+[CIA_Weapon_Melee_Magmanite_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="Lame Infernale Supérieure"
+UpgradeDescription="Épée en Magmanite"
+ActionToDoStr="Équiper"
+
+
+## sunstone sword mesh
+[CIA_Weapon_Melee_Curved_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="Sabre du Désert"
+UpgradeDescription="Rapide et légère, cette Épée coupe jusqu'à la pointe."
+ActionToDoStr="Équiper"
+
+## needle sword mesh
+[CIA_Weapon_Melee_Needle_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="Point d'Aiguille"
+UpgradeDescription="Votre bite et votre couteau, c'est tout ce dont vous avez besoin."
+ActionToDoStr="Équiper"
+
+
+## Circle sword mesh
+[CIA_Weapon_Melee_Circle_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="Subjugation de Meridian"
+UpgradeDescription="Oh, Meridan..."
+ActionToDoStr="Équiper"
+
+
+## axe sword mesh
+[CIA_Weapon_Melee_Axe_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="La Hacheuse de Côtes"
+UpgradeDescription="Le découpage de côtes lui donne son nom..."
+ActionToDoStr="Équiper"
+
+
+## block sword mesh
+[CIA_Weapon_Melee_Block_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="Épée Bustier"
+UpgradeDescription="Bust'a'sword"
+ActionToDoStr="Équiper"
+
+
+## cleaver sword mesh
+[CIA_Weapon_Melee_Cleaver_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="Couperet Das"
+UpgradeDescription="SANDWICHES DE PORC HACHÉ !"
+ActionToDoStr="Équiper"
+
+
+## alien tower sword mesh
+[CIA_Weapon_Melee_AlienTower_Lvl11 CAGDataObject_CreatedItem_Armory]
+NameString="La vengeance de K'pakh"
+UpgradeDescription="Une Épée bien meilleure servie froide."
+ActionToDoStr="Équiper"
+
+
+
+
+
+
+[CIA_Weapon_Pistol_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet Rouillé"
+UpgradeDescription="Un peu rouillé, mais tire encore.. Généralement."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Pistol_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet de Combat"
+UpgradeDescription="Pistolet prêt au Combat !"
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Pistol_Lvl3 CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet de Space Ranger"
+UpgradeDescription="Pistolet digne d'un Space Ranger !"
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Pistol_Lvl5 CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet de Space Marine"
+UpgradeDescription="Habituellement trouvé attaché à la hanche des marines impériaux."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Pistol_Lvl7 CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet de Capitaine"
+UpgradeDescription="Pistolet fantaisie pour un capitaine."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Pistol_Lvl9 CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet de Commodore"
+UpgradeDescription="Incrusté d'or, et parfumé, bang bang"
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_Pistol_Lvl10 CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet de Grand Marshal"
+UpgradeDescription="Maintenant, c'est une arme sexy sur la hanche !"
+ActionToDoStr="Équiper"
+
+
+
+
+
+
+
+
+[CIA_Weapon_AssaultRifle_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Le Remodeleur"
+UpgradeDescription="Un fusil d'assaut."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_AssaultRifle_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="Le Producteur"
+UpgradeDescription="Un fusil d'assaut."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_AssaultRifle_Lvl3 CAGDataObject_CreatedItem_Armory]
+NameString="L'Avocat"
+UpgradeDescription="Un fusil d'assaut."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_AssaultRifle_Lvl5 CAGDataObject_CreatedItem_Armory]
+NameString="Le Axe Man"
+UpgradeDescription="Un fusil d'assaut."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_AssaultRifle_Lvl7 CAGDataObject_CreatedItem_Armory]
+NameString="L'aimable"
+UpgradeDescription="Un fusil d'assaut."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_AssaultRifle_Lvl8 CAGDataObject_CreatedItem_Armory]
+NameString="El Presidente"
+UpgradeDescription="Un fusil d'assaut."
+ActionToDoStr="Équiper"
+
+
+
+
+
+
+
+
+[CIA_Weapon_SMG_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="SMG Tornade"
+UpgradeDescription="Un SMG."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_SMG_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="SMG Ouragan"
+UpgradeDescription="Un SMG."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_SMG_Lvl2 CAGDataObject_CreatedItem_Armory]
+NameString="SMG Tsunami"
+UpgradeDescription="Un SMG."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_SMG_Lvl3 CAGDataObject_CreatedItem_Armory]
+NameString="SMG Tremblement de Terre"
+UpgradeDescription="Un SMG."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_SMG_Lvl4 CAGDataObject_CreatedItem_Armory]
+NameString="SMG Infernal"
+UpgradeDescription="Un SMG."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_SMG_Lvl6 CAGDataObject_CreatedItem_Armory]
+NameString="SMG Apocalypse"
+UpgradeDescription="Un SMG."
+ActionToDoStr="Équiper"
+
+
+
+
+[CIA_Weapon_PlayerRocketLauncher_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Lance-Roquettes Deimos"
+UpgradeDescription="Un Lance-Roquettes.  Très puissant, mais coûteux."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_PlayerRocketLauncher_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="Lance-Roquettes Phobos"
+UpgradeDescription="Un Lance-Roquettes.  Recharge plus rapide, chargeur plus grand."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_PlayerRocketLauncher_Lvl2 CAGDataObject_CreatedItem_Armory]
+NameString="Plateforme lancement de Roquettes Ares"
+UpgradeDescription="Un Lance-Roquettes.  Recharge plus rapide, chargeur plus grand."
+ActionToDoStr="Équiper"
+
+
+
+[CIA_Weapon_PlayerRocketLauncher_AntiVehicle_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Missile Anti Véhicules Ifri"
+UpgradeDescription="Inflige d'importants dégâts aux gros véhicules."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_PlayerRocketLauncher_AntiVehicle_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="Missile Anti Véhicules Gurzil"
+UpgradeDescription="Inflige d'importants dégâts aux gros véhicules."
+ActionToDoStr="Équiper"
+
+
+
+
+
+
+[CIA_Weapon_ShotGun_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Fusil de Combat"
+UpgradeDescription="Un Fusil."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_ShotGun_Lvl1 CAGDataObject_CreatedItem_Armory]
+NameString="Le Répartiteur"
+UpgradeDescription="Un Fusil."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_ShotGun_Lvl3 CAGDataObject_CreatedItem_Armory]
+NameString="L'Antagonizer"
+UpgradeDescription="Un Fusil."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_ShotGun_Lvl5 CAGDataObject_CreatedItem_Armory]
+NameString="le Pulvériseur"
+UpgradeDescription="Un Fusil."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_ShotGun_Lvl7 CAGDataObject_CreatedItem_Armory]
+NameString="Le Destructeur"
+UpgradeDescription="Un Fusil."
+ActionToDoStr="Équiper"
+
+[CIA_Weapon_ShotGun_Lvl8 CAGDataObject_CreatedItem_Armory]
+NameString="Le Désintégrateur"
+UpgradeDescription="Un Fusil."
+ActionToDoStr="Équiper"
+
+
+
+
+
+
+[CIA_Weapon_Shotgun_Pulse CAGDataObject_CreatedItem_Armory]
+NameString="Fusil à Impulsions - Base"
+UpgradeDescription="Un Fusil à Impulsions."
+ActionToDoStr="Équiper"
+
+
+
+[CIA_Weapon_ArmCannon_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Point d'Embrasement"
+UpgradeDescription="Sanglé à votre bras, seules des fleurs de mort sortent de cet instrument mécanique mortel."
+ActionToDoStr="Équiper"
+
+
+[CIA_Weapon_AlienTowerGun_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Le Mépris de H'kapk"
+UpgradeDescription="Le frère de K'pakh dédaigne l'utilisation de Mêlée utilise donc uniquement une arme comme celle-ci."
+ActionToDoStr="Équiper"
+
+
+[CIA_Weapon_TundraGun_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Etreinte Glaciale"
+UpgradeDescription="Le seul truc qui est plus froid c'est la mort."
+ActionToDoStr="Équiper"
+
+
+[CIA_Weapon_PulseLaserGun_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Dispersion Lumineuse"
+UpgradeDescription="Avec autant de longueurs d'onde à choisir, seule la plus meurtrière le sera."
+ActionToDoStr="Équiper"
+
+
+[CIA_Weapon_GemGun_Lvl0 CAGDataObject_CreatedItem_Armory]
+NameString="Le Désir d'Améthyste"
+UpgradeDescription="Parfois, le désir des ennemis est d'être remplis de trous."
+ActionToDoStr="Équiper"
+
+
+
+
+
+
+
+
+[CIA_FlareGun CAGDataObject_CreatedItem_Armory]
+NameString="Pistolet de Détresse"
+UpgradeDescription="Vous permet de tirer des fusées dans le ciel ! Une fois ce dispositif fabriqué, vous l'avez DÉFINITIVEMENT."
+ActionToDoStr="Touche F pour Tirer."
+
+
+
+
+
+
+##############################################################################################################################
+########             MASSIVE SECTION OF GEAR
+##############################################################################################################################
+
+
+[CIA_Equipment_Head_Default CAGDataObject_CreatedItem_Armory]
+NameString="Casque par Défaut"
+UpgradeDescription="Casque par Défaut."
+ActionToDoStr="Porter"
+
+
+
+
+
+# NK
+
+[CIA_Equipment_Head_NK CAGDataObject_CreatedItem_Armory]
+NameString="Casque NK"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_NK CAGDataObject_CreatedItem_Armory]
+NameString="Buste NK"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_NK CAGDataObject_CreatedItem_Armory]
+NameString="Gants NK"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_NK CAGDataObject_CreatedItem_Armory]
+NameString="Jambières NK"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_NK CAGDataObject_CreatedItem_Armory]
+NameString="Bottes NK"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+
+
+
+
+# ElementX
+
+[CIA_Equipment_Head_ElementX CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Élément-X"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_ElementX CAGDataObject_CreatedItem_Armory]
+NameString="Buste en Élément-X"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_ElementX CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Élément-X"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_ElementX CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Élément-X"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_ElementX CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Élément-X"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+
+
+# Gem
+
+[CIA_Equipment_Head_Gem CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Gemme"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_Gem CAGDataObject_CreatedItem_Armory]
+NameString="Buste en Gemme"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_Gem CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Gemme"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_Gem CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Gemme"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_Gem CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Gemme"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+
+# SunStone
+
+[CIA_Equipment_Head_SunStone CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Pierre Solaire"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_SunStone CAGDataObject_CreatedItem_Armory]
+NameString="Torse en Pierre Solaire"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_SunStone CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Pierre Solaire"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_SunStone CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Pierre Solaire"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_SunStone CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Pierre Solaire"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+# Tundra
+
+[CIA_Equipment_Head_Tundra CAGDataObject_CreatedItem_Armory]
+NameString="Casque Toundra"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_Tundra CAGDataObject_CreatedItem_Armory]
+NameString="Torse Toundra"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_Tundra CAGDataObject_CreatedItem_Armory]
+NameString="Gants Toundra"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_Tundra CAGDataObject_CreatedItem_Armory]
+NameString="Jambières Toundra"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_Tundra CAGDataObject_CreatedItem_Armory]
+NameString="Bottes Toundra"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+# Magma
+
+[CIA_Equipment_Head_Magmanite CAGDataObject_CreatedItem_Armory]
+NameString="Casque Magmanite"
+UpgradeDescription="Caque rempli de magma.  Ouch !"
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_Magmanite CAGDataObject_CreatedItem_Armory]
+NameString="Casque Magmanite"
+UpgradeDescription="Buste infusé dans une matrice de magma vous donne un sentiment de triomphe sur vos ennemis."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_Magmanite CAGDataObject_CreatedItem_Armory]
+NameString="Gants Magmanite"
+UpgradeDescription="Gants puissamment encapsulés dans du magma et des grincements de dents de vos ennemis."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_Magmanite CAGDataObject_CreatedItem_Armory]
+NameString="Jambières Magmanite"
+UpgradeDescription="Jambières imprégnées de magmanite et du sang de vos ennemis."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_Magmanite CAGDataObject_CreatedItem_Armory]
+NameString="Bottes Magmanite"
+UpgradeDescription="Bottes formées de roches volcaniques et de la souffrance de vos ennemis."
+ActionToDoStr="Porter"
+
+
+# Ore
+
+[CIA_Equipment_Head_Ore CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Minerai"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_Ore CAGDataObject_CreatedItem_Armory]
+NameString="Buste en Minerai"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_Ore CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Minerai"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_Ore CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Minerai"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_Ore CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Minerai"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+
+
+# Fossil
+
+[CIA_Equipment_Head_Fossil CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Fossile"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_Fossil CAGDataObject_CreatedItem_Armory]
+NameString="Buste en Fossile"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_Fossil CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Fossile"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_Fossil CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Fossile"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_Fossil CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Fossile"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+
+
+
+
+# Plasma
+
+[CIA_Equipment_Head_Plasma CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Plasma"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_Plasma CAGDataObject_CreatedItem_Armory]
+NameString="Torse en Plasma"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_Plasma CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Plasma"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_Plasma CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Plasma"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_Plasma CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Plasma"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+
+
+
+
+
+
+# Wood
+
+[CIA_Equipment_Head_Wood CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Bois"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_Wood CAGDataObject_CreatedItem_Armory]
+NameString="Buste en Bois"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_Wood CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Bois"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_Wood CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Bois"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_Wood CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Bois"
+UpgradeDescription=""
+ActionToDoStr="Porter"
+
+
+
+
+
+
+
+# RottedWood
+
+[CIA_Equipment_Head_RottedWood CAGDataObject_CreatedItem_Armory]
+NameString="Casque en Bois Pourri"
+UpgradeDescription="Une armure de débutant en Bois Pourri."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_RottedWood CAGDataObject_CreatedItem_Armory]
+NameString="Buste en Bois Pourri"
+UpgradeDescription="Une armure de débutant en Bois Pourri."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_RottedWood CAGDataObject_CreatedItem_Armory]
+NameString="Gants en Bois Pourri"
+UpgradeDescription="Une armure de débutant en Bois Pourri."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_RottedWood CAGDataObject_CreatedItem_Armory]
+NameString="Jambières en Bois Pourri"
+UpgradeDescription="Une armure de débutant en Bois Pourri."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_RottedWood CAGDataObject_CreatedItem_Armory]
+NameString="Bottes en Bois Pourri"
+UpgradeDescription="Une armure de débutant en Bois Pourri."
+ActionToDoStr="Porter"
+
+
+
+### jump boots
+# Frog Boots
+[CIA_Equipment_FrogJumpBoots CAGDataObject_CreatedItem_Armory]
+NameString="Bottes de saut Ploppit"
+UpgradeDescription="Bottes fabriquées à partir de pattes de grenouilles. Équipez-vous en pour sauter plus haut !"
+ActionToDoStr="Porter"
+
+
+# Double Jump Boots
+[CIA_Equipment_DoubleJumpBoots CAGDataObject_CreatedItem_Armory]
+NameString="Bottes de Double Saut"
+UpgradeDescription="Bottes qui permettent au joueur de faire un saut double."
+ActionToDoStr="Porter"
+
+
+[CIA_Equipment_GiantBirdRunBoots CAGDataObject_CreatedItem_Armory]
+NameString="Bottes de Course Pekket"
+UpgradeDescription="Bottes fabriqués à partir de pieds rapides de Pekket.  Équipez-vous en pour courir plus vite !"
+ActionToDoStr="Porter"
+
+
+# Alien Tower
+
+[CIA_Equipment_Head_AlienTower CAGDataObject_CreatedItem_Armory]
+NameString="Casque Tour Alien"
+UpgradeDescription="Un ensemble complexe d'armure qui rappelle la Tour Alien."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Shirt_AlienTower CAGDataObject_CreatedItem_Armory]
+NameString="Torse Tour Alien"
+UpgradeDescription="Un ensemble complexe d'armure qui rappelle la Tour Alien."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Gloves_AlienTower CAGDataObject_CreatedItem_Armory]
+NameString="Gants Tour Alien"
+UpgradeDescription="Un ensemble complexe d'armure qui rappelle la Tour Alien."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Legs_AlienTower CAGDataObject_CreatedItem_Armory]
+NameString="Jambières Tour Alien"
+UpgradeDescription="Un ensemble complexe d'armure qui rappelle la Tour Alien."
+ActionToDoStr="Porter"
+
+[CIA_Equipment_Boots_AlienTower CAGDataObject_CreatedItem_Armory]
+NameString="Bottes Tour Alien"
+UpgradeDescription="Un ensemble complexe d'armure qui rappelle la Tour Alien."
+ActionToDoStr="Porter"
+
+
+
+
+
+
+

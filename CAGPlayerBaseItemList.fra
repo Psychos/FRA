@@ -1,0 +1,279 @@
+
+
+
+### this is the wrong place / way to do this.   These need a pointer back to the DataObject.
+### hack it in for now
+
+
+[CAGPlayerBaseItemBase]
+RenamePBIStr="Renommer Objet de Base :"
+
+
+CraftPanelStr="OBJETS FABRICABLES"
+
+FailureStrings="Pas assez de place pour fabriquer ceci."
+FailureStrings="Soutien structurel insuffisant"
+FailureStrings="Vous ne pouvez pas construire à côté de structures hostiles"
+FailureStrings="Secteur restreint. Essayez de construire ailleurs"
+FailureStrings="Vous ne pouvez pas construire dans la zone d'un générateur de bouclier hostile"
+FailureStrings="Vous ne pouvez pas construire si près d'un autre collecteur"
+FailureStrings="Vous ne pouvez pas construire si près d'un sac à dos"
+FailureStrings="Vous ne pouvez pas construire au-dessus d'une forme de vie"
+FailureStrings="Vous ne pouvez pas fabriquer plus d'articles de ce type"
+FailureStrings="Vous ne pouvez pas construire si près à un autre Tourelle"
+FailureStrings="Vous ne pouvez pas construire si près d'un autre Bouclier de protection"
+FailureStrings="Vous ne pouvez pas construire si près d'une plate-forme de forage"
+FailureStrings="Vous ne pouvez pas construire si près d'un autre Totem de Zone"
+FailureStrings="Totems de Zone doivent disposer d'un espace libre au-dessus d'eux"
+FailureStrings="Vous ne pouvez pas construire de pièces au-dessus d'un Totem de Zone"
+FailureStrings="Doit être construit près de plates-formes de forage ennemies ou de Totem de Zone"
+FailureStrings="Doit être construit dans le rayon du générateur de bouclier de l'ennemi"
+FailureStrings="Vous ne pouvez pas construire à proximité des entrées ou sorties d'Instances"
+FailureStrings="Vous ne pouvez pas construire dans l'eau"
+FailureStrings="Vous ne pouvez pas construire dans l'espace"
+FailureStrings="Vous ne pouvez pas construire si près d’un autre Invocateur de monstres"
+FailureStrings="Une plate-forme de forage ne peut pas être construite sur des pièces"
+FailureStrings="Vous ne pouvez pas construire si près à un autre Projecteur"
+FailureStrings="Ceci ne peut pas être construit sur une pièce"
+FailureStrings="Secteur restreint. Les Zones de Départ ne permettent pas la construction de pièces"
+
+UnclaimedLogStr="Tombe en ruines et est maintenant 'Non réclamé'. Interagir avec ou réparer cet objet pour le récupérer."
+UnclaimedStr="NON RÉCLAMÉ"
+
+AlreadyInUseStr="Quelqu'un utilise déjà cet élément !"
+LOCStr="LOC :"
+
+LockedStr="VEROUILLÉ !"
+TamperWarningStr="Quelqu'un fouille votre"
+TamperWarningFofStr="De l'équipement de votre groupe FoF est en train d'être fouillé !"
+DestructionWarningFofStr=" dans votre groupe FoF a été détruit !"
+DestructionWarningStr=" a été détruit !"
+InteractToolTipStr="Touche E pour interagir avec"
+
+[CAGPBI_NonRoomBase]
+ActivateStr="Activer"
+DeActivateStr="Désactiver"
+NoActiveGeneratorNearStr="NON ALIMENTÉ"
+LOCStr="LOC :"
+
+[CPBI_CampFire]
+DisplayName="Feu de camp"
+ActivateStr="Allumer"
+DeActivateStr="Éteindre"
+
+
+[CPBI_Composter]
+DisplayName="Composteur"
+
+[CPBI_Generator]
+DisplayName="Générateur"
+NoActiveGeneratorNearStr="PAS DE CARBURANT"
+FriendlyInteractToolTipStr="Touche E pour interagir - "
+
+[CPBI_PowerRelay]
+DisplayName="Relais Electrique"
+
+
+
+[CPBI_Uplink]
+DisplayName="Lien PSYCHÉ"
+UplinkDestroyedMessage="Le Lien PSYCHÉ que vous avez installé a été DÉTRUIT !"
+
+[CPBI_ArrowSign]
+DisplayName="Pancarte Fléchée"
+
+
+[CPBI_Harvester]
+DisplayName="Collecteur"
+
+[CPBI_HarvesterStorageBin]
+DisplayName="Stockage du Collecteur"
+
+[CPBI_BaseStorageBin]
+DisplayName="Coffre"
+RenamePBIStr="Entrez le nom du Coffre :"
+InteractToolTipStr="Touche E pour ouvrir"
+
+[CPBI_RefundStorageBin]
+DisplayName="Coffre de REMBOURSEMENT"
+RenamePBIStr="Entrez le nom du Coffre :"
+InteractToolTipStr="Touche E pour ouvrir"
+
+[CPBI_WorldArtifactOpener]
+DisplayName="Décrypteur d'Artefact"
+
+[CPBI_ResearchStation]
+DisplayName="Station de Recherche"
+
+[CPBI_Factory]
+DisplayName="Usine"
+
+[CPBI_VehicleFactory]
+DisplayName="Parc Véhicule"
+
+[CPBI_Armory]
+DisplayName="Armurerie"
+
+
+[CPBI_ScienceStation]
+DisplayName="Station Scientifique"
+
+[CPBI_NexusShieldNode]
+SappedStr="DÉSACTIVÉ PAR UN EMP!"
+DisplayName="Générateur de Bouclier"
+
+[CPBI_ShieldBuster]
+ShieldBusterChargingNearbyStr="Un amplificateur EMP est en charge dans la Zone "
+ShieldExtendedTextStr="Le propriétaire de l'EMP est : "
+NotChargedStr="CHARGEMENT"
+DisplayName="Anti-Bouclier EMP"
+ChargedInSecondsStr="Chargé dans :"
+ChargedStr="CHARGÉ"
+
+
+[CPBI_BubbleShield]
+DisplayName="Bouclier Bulle"
+
+[CPBI_DataRecorder]
+DisplayName="Enregistreur de Données"
+InteractToolTipStr="Touche N pour voir les entrées ou E pour interagir avec"
+
+[CPBI_JumpPad]
+DisplayName="Bloc de Saut"
+
+[CPBI_LaserFencePost]
+DisplayName="Clôture Laser"
+
+[CPBI_StarGateBase]
+PlanetIsFullStr="La Planète est pleine !"
+HomePlanetIsFullStr="Planète Mère pleine !"
+
+PlanetIsFullStr0="Vous essayez de voyager vers la planète :"
+PlanetIsFullStr1= "est à pleine capacité. Voulez-vous rentrer sur votre Planète Mère à la place ?"
+
+HomePlanetIsFullStr0="Vous essayez de voyager vers la planète Mère :"
+HomePlanetIsFullStr1="est à pleine capacité. Voulez-vous aller sur une Planète Mère ouverte à la place ? (Vous pourrez revenir via une Stargate)"
+
+
+[CPBI_StarGatePlanetHomePlanet]
+DisplayName="StarGate Planète Mère"
+
+[CPBI_StarGatePlanetLow]
+DisplayName="Stargate Planète Bas Niv"
+
+[CPBI_StarGatePlanetMid]
+DisplayName="Stargate Planète Moyen Niv"
+
+[CPBI_StarGatePlanetHigh]
+DisplayName="Stargate Planète Haut Niv"
+
+[CAGTrap_Poop]
+DisplayName="Cadeau"
+
+[CPBI_CustomSign]
+DisplayName="Panneau Personnalisé"
+RenamePBIStr="Entrez texte Panneau :"
+
+
+[CPBI_StarGateMoon]
+DisplayName="StarGate Lune"
+DefeatEventStr="Vaincre les gardiens de la Stargate Lunaire"
+
+
+[CPBI_StarGateReturnPortal]
+DisplayName="Portail de retour"
+InteractToolTipStr="Touche E pour activer le Portail"
+
+
+
+[CPBI_Flag]
+DisplayName="Drapeau"
+
+[CPBI_Alarm]
+DisplayName="Alarme"
+
+
+[CPBI_Beacon]
+RenamePBIStr="Entrez le texte de la Balise :"
+DisplayName="Balise"
+
+[CPBI_Floodlight]
+DisplayName="Projecteur"
+
+
+[CPBI_GunTurret]
+DisplayName="Tourelle auto"
+FriendlyInteractToolTipStr="Touche E pour interagir - Minerai :"
+
+[CPBI_GunTurret_AA]
+DisplayName="Tourelle AA"
+FriendlyInteractToolTipStr="Touche E pour interagir - Minerai :"
+
+[CPBI_Door]
+DisplayName="Porte Champ de Force"
+
+
+[CPBI_RampAttachment]
+DisplayName="Fondation de Rampe"
+
+[CPBI_LadderAttachment]
+DisplayName="Echelle Attachée"
+
+[CPBI_Teleporter]
+DisplayName="Téléporteur"
+TeleportStr="Téléporter à"
+UnPoweredStr="Pas de Générateur proche actif"
+NoDestStr="Pas de destination de téléportation !"
+
+
+[CPBI_AreaTotem]
+RenamePBIStr="Entrez le Taux de Taxe :"
+
+DisplayName="Totem de Zone"
+
+[CAGPlayerBuiltRoom]
+ShieldedStr="BLINDÉ"
+DisplayName="Pièce"
+
+[CAGPlayerBuiltRoom_Support]
+DisplayName="Soutien Structurel"
+
+[CAG_PBR_Stairs]
+DisplayName="Escaliers"
+
+[CAG_PBR_TeleporterRoom]
+DisplayName="Téléporteur"
+
+
+
+
+[CPBI_Kitchenette]
+DisplayName="Cuisine"
+
+[CPBI_DrillPlatform]
+DisplayName="Plate-Forme de Forage"
+FriendlyInteractToolTipStr="Touche E pour interagir -"
+DrillingCompletedStr="Forage terminé dans :"
+EruptingStr="est en éruption !!"
+RemainingStr="Impulsions d'éruption restantes"
+
+FuelEmptyStr="Plus de Fuel dans :"
+
+
+
+
+
+
+[CPBI_MonsterSummoner]
+DisplayName="Invocateur de Monstres"
+
+
+
+[CAGTrap_Landmine]
+DisplayName="Mine Terrestre"
+
+
+
+[CAGTrap_LandmineStunner]
+DisplayName="Mine Terrestre Étourdissante"
+

@@ -1,0 +1,113 @@
+
+
+[CAGProtips]
+Protips
+
+;Comment la Dégradation fonctionne ?
+Protips="Les Objets non protégés par un bouclier, non alimentés, ou sur une Pièce protégée commenceront à se dégrader. Ainsi que les Véhicules non parqués. Chaque Interaction réinitialise la minuterie de dégradation. Cela prend 72 heures pour devenir 'NON RÉCLAMÉ';... Après, perd ses HP jusqu'à sa destruction."
+
+
+;Comment fonctionne la réclamation ?
+Protips="Quand un Objet est NON RÉCLAMÉ, il peut être réclamé par n'importe qui simplement en agissant ou en le réparant. Pour finir le réclamant devient le nouveau propriétaire. Il peut donc changer les paramètres (autodestruction, amis...)"
+
+;Combien de temps prend la dégradation ?
+Protips="Un Objet perd 1000 HP toutes les 24 heures. Puisque les valeurs HP diffèrent en fonction des Objets, le temps pour arriver à NON RÉCLAMÉ dépendra du nombre de HP de départ. Par ex : une pièce fermée Niv. 1 à 1000 HP prendra 24 Heures."
+
+Protips="Plates-formes de Forage et Collecteurs prendront 4 jours pour devenir NON RÉCLAMÉ. Quand mis à niveau, les Pièces / Objets de la Base prendront plus de temps à se dégrader, basé sur un multiplicateur de leur niveau de mise à niveau. (Ex: Une Armurerie Lvl 1 prend 3 jours, au niveau 6 ça en prendra 18)"
+
+Protips="Pour former un groupe FoF, soyez à proximité de votre ami et appuyez dur la Touche 'E' pour l'inviter à joindre votre groupe"
+
+Protips="Touche 'B' pour construire. Touche 'I' pour l'inventaire. 'X' pour danser. 'F1' pour saluer. 'v' pour le Vocal. Touche F8 pour voir l'affectation des touches."
+
+Protips="Pour reconstituer l'endurance, dansez (Touche X) à proximité d'un Feu de Camp ('B' pour le fabriquer), ou consommez une Ration. Trouver quelques Amis de danse pour augmenter le taux de régénération !"
+
+Protips="Pour reconstituer la vie, touche 'H' pour utiliser un Stim de vie (Se fabrique dans la Station Scientifique), ou dansez (touche X) à proximité d'un Feu de Camp ('B' pour le fabriquer). Trouver quelques Amis de danse pour augmenter le taux de régénération !"
+
+Protips="Minerai et Gemmes sont à des concentrations plus élevées dans les grottes. Les grottes sont présentées comme un U inversé sur la boussole HUD (en bas de l'écran)."
+
+Protips="Quand vous mourrez, vous perdrez un grand pourcentage des ressources et de matériaux. Vous ne perdrez pas l'équipement ou les Plans. Le pourcentage peut être réduit par la mise à niveau via une compétence spéciale."
+ 
+Protips="À votre mort, vous déposez un sac à dos, qui apparaît comme une brillante orbe rougeoyante. Il peut être pillé immédiatement par toute personne qui le trouve, sinon téléportez le à vous avec le Stim Invoquer Sac (fabriqué dans la Station Scientifique)"
+
+Protips="Les Drones restent 10h de jeu, ce qui correspond à 10mn dans la vie réelle. Cette durée peut être allongée par une compétence."
+
+Protips=""Il y a un portail de retour sur toutes les exo-planètes / lunes pour revenir à la Planète Mère. Avec la fabrication Localiseur, ses coordonnées seront affichées dans le coin inférieur droit.""
+
+Protips="Pour trouver quelqu'un, il est préférable d'avoir à la fois un Pistolet de Détresse et un Localiseur. Le Pistolet de Détresse est fabriqué dans l'Armurerie. Touche 'F' pour tirer. Faites juste attention, vous ne savez jamais si votre ami sera le seul à venir."
+
+Protips="Les Collecteurs récupèrent l'Élément-X quand ils sont construits à proximité d'un dépôt d'Élément-X. Ils nécessitent un Plan (35% de Drop sur n'importe quel Monstre), et ils sont fabriqués depuis le menu Construction (B)."
+
+Protips="Pour aller sur les Lunes, vous devez utiliser une Stargate (nécessite un Plan pour faire le vôtre - Drop de 10% sur tout Monstre 10+. Les Lunes sont pauvres en Oxygène; pour pouvoir respirer vous avez besoin d'une armure en Plasma, un Bidon d'Air ou d'un Bouclier Bulle."
+
+Protips="Les Bidons d'Air se trouvent sur les Insectes Volants 9+ (plus de chance sur les Boss); Les Boucliers Bull sur tout Monstre 15+; l'Armure en Plasma sur tout Monstre 15-24."
+
+Protips="La Matière Organique est une ressource trouvable en tuant des monstres, ou en convertissant du Bois en Matière Organique avec un Composteur (Menu Construction 'B')"
+
+Protips="Les Matières Organiques sont utilisées pour fabriquer des rations dans la Cuisine (nécessite Plan). Peut être demandé pour fabriquer certains objets dans l'Armurerie (Notamment l'Outil Multifonctions), des Stims à la Station Scientifique"
+
+Protips="Pour voir vos Compétences, ouvrez votre inventaire (avec 'I'), et cliquez sur l'Icône des Métiers. Les compétences sont débloquées en montant de niveau, en les améliorant avec des Élement-X, et parfois avec d'autres ressources/matériaux."
+
+Protips="Vous commencez avec le Métier d'Astronaute, mais vous devrez obtenir des Plans pour les autres Métiers auprès de Boss, ou depuis la Station de Recherche. Les Compétences restent quand vous changez de Métier."
+
+Protips="Les Exo-Planètes/Lunes sont partagées à travers les serveurs d'un 'metaverse'. Par exemple l'Est comprend : East 01, East 02, East 03, East 04. Le Chat est également 'universel' à travers le metaverse."
+
+Protips="Les Personnages sont liés à un serveur spécifique; si vous changez de serveur, vous repartez de Zéro sur un nouveau monde -- pas de niveaux ou autres."
+
+Protips="Les Serveurs sur lesquels vous avez joué sont marqués d'un Astérisque dans la liste des serveurs. Si vous ne voyez pas votre serveur en premier, cliquez sur Rafraichir jusqu'à le voir."
+
+Protips="Pas assez d’Images/seconde ? Essayez d'ouvrir le Menu avec Esc, cliquez Options, et cliquez et désactivez 'Post Process', 'Ombres Dynamiques', et 'Rayons Lumineux'."
+
+Protips="Pour obtenir des Gemmes/Minerai/Fossiles/Bois, équipez-vous de votre Outil Multifonction (défaut raccourci : 2), et maintenez bouton gauche de la souris pour prendre les ressources."
+
+Protips="Les Crânes au-dessus de votre tête indique que vous avez tué un joueur dans les dernières 48h. Le nombre de Crânes et leur couleur (Diamant/Platine/Or/Argent) correspond au rang du joueur que vous avez tué."
+
+Protips="Pour détruire vos installations de base, faites (e) et cliquez sur Autodestruction'. Pour les Pièces, ouvrez le menu (b), cliquez sur la Pièce, et Autodestruction. Vous récupérez environ 75% des ressources. "
+
+Protips="Les Plates-Formes de Forage éjectent des ressources, Matériaux d'Artisanat, et des Plans Gaïa Obscure toutes les # heures. Elles seront publiques par défaut, et vous devrez être présent lors de l'éjection pour récupérer ces bonnes choses. Il n'y avait personne ? Trop bête !"
+
+Protips="Pour voir où trouver des matériaux d'artisanat, passez la souris dessus, il sera indiqué où le trouver."
+
+Protips="Pour voir ce qu'une mise à niveau d'un Objet de base va faire, cliquez sur le bouton de mise à niveau, et au-dessus de la boîte indiquant la mise à niveau sera indiqué les coûts, il y a une infobulle décrivant les effets d'une mise à niveau."
+
+Protips="Les Artefacts sont obtenus sur les Artefacts Monde (nécessite un Plan de Décrypteur d'Artefact) ou depuis des Gardiens (que l'on trouve sur les Lunes ou à proximité des Artefacts Monde. Ils sont utilisés pour le raffinage de Haut-Niveau, Totems de Zone, Plates-Formes de Forage, Grands véhicules etc."
+
+Protips="Pour ouvrir un Artefact Monde, mettez un Décrypteur d'Artefact dessus (Plan trouvable sur monstres 10+, 5%) et alimentez le. Cela va faire apparaitre des Gardiens qui vont essayer de détruire le Décrypteur, le Générateur et votre Figure. Va donner plus ou moins 250 Artefacts en fonction du niveau de l'Artefact Monde."
+
+Protips="Rang et Niveaux sont différents ! Chaque Métier a un niveau max de 60; quand vous changez de Métier vous repartez à son niveau, alors trouvez des monstres à votre niveau ! Le Rang d'un joueur est une addition du niveau de chaque Métier."
+
+Protips="Une compétence Mise à Niveau sous un Métier sera toujours active sous un autre Métier. (ex : Si vous améliorez au Max votre vitesse de déplacement sous le Métier d'Astronaute, et que vous passez au Métier de Scientifique, votre vitesse de déplacement restera au max."
+
+Protips="Les Caisses Rouges que vous pouvez piller contiennent des ressources, des bons matériaux d'Artisanat et des tonnes de Munitions. Contrairement aux autres ressources, les Caisses Rouges ne peuvent être pillées tant que votre Rang est égal ou est supérieur à celui affiché sur la caisse."
+
+Protips="Pour revendiquer une Terre, vous devez fabriquer un Totem de Zone (nécessite un Plan, trouvable sur les monstres 10+ avec 10% de chance). Cela vous permet de mettre des Taxes ! Après la construction, entrez le Taux de Taxes et réclamez ensuite vos taxes en interagissant avec le Totem de Zone"
+
+Protips="Vous avez des soucis à trouver des Yetis Électriques ? Pas de stress ! Un invocateur de Monstres peut être trouvé sur les Boss BugDog. Doit être alimenté, il va faire apparaitre vos propres Monstres dans le confort de votre maison -- pour un petit prix bien sûr !"
+
+Protips="'FoF 12345' est dépassé ? Pour mettre un nouveau code, ouvrez la console (touche ù). Tapez ensuite : ClientSetFoFCode #####. Remplacera ##### avec un nombre de votre choix. Utiliser plus de chiffres est fortement recommandé pour plus de sécurité !"
+
+Protips="Traitez votre code FoF comme un mot de passe ! Si d'autres joueurs l'apprennent, ils peuvent écouter les conversations privées et accéder à votre Base ! Si vous avez accidentellement indiqué votre code en public, un changement est à prévoir rapidement."
+
+Protips="Les Objets de la Base utilisant 'FoF Seulement' n'est pas changé après que le code FoF du propriétaire ai changé. Il devra de nouveau interagir avec pour utiliser le nouveau code." 
+
+Protips="Les dépôts de Ressources marqués en surbrillance -- vont donner des tonnes de Matériaux d'Artisanat."
+
+Protips="Armes Élémentaires / Armures Élémentaires sont très utiles ! Lors de l'utilisation d'une Arme Élémentaire / Armure dans une zone de même Élément, vous multiplierez les Dommages et vous allez prendre beaucoup moins de dégâts!"
+
+Protips="Les risques environnementaux sont inhérents aux Lunes/Planètes; parfois avec une extrême variation. Armure Plasma/Gemme Armor protège contre le manque ou l'excès d'Oxygène. Armure Minerai/Élement-X protège contre les Radiations/Radiations Extrêmes. Toundra contre le Froid. Armure de Pierre Solaire/Magmanite contre la chaleur / chaleur extrême."
+
+Protips="Si deux joueurs construisent une Pièce de Téléportation en utilisant le même code FoF, les Téléporteurs seront automatiquement connectés !"
+
+Protips="Quand vous planez sur de longues distances, utilisez votre WingSuit avec ‘Retour Arrière ‘ au lieu de ‘Barre d’espace’"
+
+Protips="Vous êtes ennuyé par des Tourelles Automatiques ? Essayez un Stim d'Invisibilité !"
+
+Protips="Totems de Zone, Plates-Formes de Forage et Véhicules indiquent toujours qui les a détruit. Touche N pour voir le journal Joueur et identifié le coupable !"
+
+Protips="Ne tirez pas tant que vous ne voyez pas le Blanc des Yeux de votre adversaire ! En tuant des monstres de trop loin, vous allez louper de la bonne expérience et du butin !"
+
+
+
+
+
+
+

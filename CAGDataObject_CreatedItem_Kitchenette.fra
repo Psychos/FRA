@@ -1,0 +1,78 @@
+[CAGDataObject_CreatedItem_Kitchenette]
+WhereToAcquireString="Cet objet peut être fabriqué dans la Cuisine"
+
+
+
+[KIT_Ration CAGDataObject_CreatedItem_Kitchenette]
+NameString="Ration"
+UpgradeDescription="Cette masse semi coagulée est considérée comme de la nourriture. Ça a un gout de carton, mais restaure votre endurance quand même."
+ActionToDoStr="Manger"
+
+
+[KIT_Ration_Large CAGDataObject_CreatedItem_Kitchenette]
+NameString="Grande Ration"
+UpgradeDescription="Cette masse semi coagulée est considérée comme de la nourriture. Ça a un gout de carton, mais restaure votre endurance quand même."
+ActionToDoStr="Manger"
+
+
+[KIT_Ration_Combined CAGDataObject_CreatedItem_Kitchenette]
+NameString="Ration Unifiée"
+UpgradeDescription="Masse écrasée semi congelée. MMMMMMMMM!  Ça a un gout de carton, mais restaure votre endurance quand même."
+ActionToDoStr="Manger"
+
+
+
+
+[KIT_EFB_Cold CAGDataObject_CreatedItem_Kitchenette]
+NameString="Chocolat Chaud"
+UpgradeDescription="Miam.  Revitalise votre Endurance et conjure le froid ambiant."
+ActionToDoStr="Boire"
+
+
+[KIT_EFB_Heat CAGDataObject_CreatedItem_Kitchenette]
+NameString="Verre de Limonade Glacée"
+UpgradeDescription="Miam.  Revitalise votre Endurance et conjure la chaleur ambiante."
+ActionToDoStr="Boire"
+
+
+[KIT_EFB_Toxic CAGDataObject_CreatedItem_Kitchenette]
+NameString="Un Cube d'Épinéphrine"
+UpgradeDescription="Revitalise votre Endurance et conjure la toxicité ambiante.."
+ActionToDoStr="Manger"
+
+
+[KIT_EFB_Radiation CAGDataObject_CreatedItem_Kitchenette]
+NameString="Dose Anti-Rads"
+UpgradeDescription="Revitalise votre Endurance et conjure les Radiations ambiantes."
+ActionToDoStr="Dose"
+
+
+[KIT_EFB_LowOxygen CAGDataObject_CreatedItem_Kitchenette]
+NameString="Bidon d'Air"
+UpgradeDescription="Fraicheur !  Revitalise votre Endurance et conjure le manque d'oxygène dans l'environnement."
+ActionToDoStr="Respirer"
+
+
+
+
+
+[KIT_Food_CandyCorn CAGDataObject_CreatedItem_Kitchenette]
+NameString="Bonbons au maïs"
+UpgradeDescription="Un régal commun d'Halloween ! Augmente la défense et vous donne une forte teneur en sucre ce qui vous fait vous déplacer plus rapidement."
+ActionToDoStr="Manger"
+
+
+[KIT_Food_Lollipop CAGDataObject_CreatedItem_Kitchenette]
+NameString="Sucette"
+UpgradeDescription="Un régal non commun d'Halloween ! Augmente la défense et vous donne une forte teneur en sucre ce qui vous fait vous déplacer plus rapidement."
+ActionToDoStr="Lécher"
+
+
+[KIT_Food_WrappedCandy CAGDataObject_CreatedItem_Kitchenette]
+NameString="Bonbon Emballé"
+UpgradeDescription="Un régal rare d'Halloween ! Augmente la défense et vous donne une forte teneur en sucre ce qui vous fait vous déplacer plus rapidement."
+ActionToDoStr="Déballer et Manger"
+
+
+
+

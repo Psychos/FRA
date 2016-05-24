@@ -1,0 +1,209 @@
+
+
+# help those that need helping
+
+
+## =INTRO=
+
+[ST_PlayerMoved CAGDataObject_SimpleTutorial]
+DisplayStr="- Explorer le monde"
+
+
+[ST_KeyBinds CAGDataObject_SimpleTutorial]
+DisplayStr="- Touche F8 pour voir l'affectation des touches"
+
+
+[ST_HarvestAnyResource CAGDataObject_SimpleTutorial]
+DisplayStr="- Récolte Ressources (touche 2 pour outil multi)"
+
+
+
+[ST_PracticeRightClick CAGDataObject_SimpleTutorial]
+DisplayStr="- Entrainement avec Bouton Droit Souris pour attaque mêlée (touche 1 pour gourdin)"
+
+
+
+[ST_KillAMonster CAGDataObject_SimpleTutorial]
+DisplayStr="- Tuez un Monstre (touche 1 pour gourdin)"
+
+
+
+
+[ST_BuildACampfire CAGDataObject_SimpleTutorial]
+DisplayStr="- Touche (B) et fabriquez un Feu de Camp"
+
+
+[ST_DanceAtACampfire CAGDataObject_SimpleTutorial]
+DisplayStr="- Dansez (X) près d'un Feu de Camp pour régénérer Endurance et Vie"
+
+
+
+
+
+[ST_BuildAnArmory CAGDataObject_SimpleTutorial]
+DisplayStr="- Touche (B) et fabriquez une Armurerie"
+
+
+[ST_BuildMark2MultiTool CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Outil Multifonction - Modèle II avec l'Armurerie"
+
+
+[ST_BuildARustyPistol CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Pistolet Rouillé avec l'Armurerie"
+
+
+[ST_BuildACombatKnife CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Couteau de Combat avec l'Armurerie"
+
+
+[ST_BuildAFlareGunAndShootAFlare CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Pistolet d'Alerte et tirez avec (F) avec l'Armurerie"
+
+
+
+
+[ST_BuildALocator CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Localisateur avec la Station Scientifique"
+
+
+
+
+
+# =GEAR UP=
+
+[ST_BuildAFullSetOfRottedWoodArmor CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez une tenue complète en Bois Pourri"
+
+
+
+
+
+# =MAKE A BASE=
+
+[ST_BuildARoomWithADoor CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez une Pièce avec Porte via le menu de construction (B)"
+
+[ST_BuildAnUplink CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Lien PSYCHÉ via le menu de construction (B)"
+
+[ST_BuildAGenerator CAGDataObject_SimpleTutorial]
+DisplayStr="- Trouvez un plan (en tuant des monstres) et fabriquez un générateur"
+
+[ST_BuildAForcefieldDoor CAGDataObject_SimpleTutorial]
+DisplayStr="- Trouvez un Plan (en tuant des monstres) et fabriquez une Porte Champ de Force"
+
+
+
+
+# =EXPLORE=
+
+[ST_FindACaveAndEnterIt CAGDataObject_SimpleTutorial]
+DisplayStr="- Trouvez une Grotte et entrez y"
+
+
+[ST_HarvestALootCrate CAGDataObject_SimpleTutorial]
+DisplayStr="- Ouvrir une Caisse de Butin"
+
+
+
+
+# =UPGRADE YOUR GUY=
+[ST_BuildAHarvesterAndMineElementX CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Collecteur et minez de l'Élément X"
+
+[ST_BuildAPet CAGDataObject_SimpleTutorial]
+DisplayStr="- Trouvez un Plan de Drone, fabriquez le et déployez le"
+
+[ST_UpgradeAPlayerSkill CAGDataObject_SimpleTutorial]
+DisplayStr="- Améliorez une compétence"
+
+
+
+# =LEVEL UP YOUR GUY=
+
+
+[ST_EatFoodToRecoverStamina CAGDataObject_SimpleTutorial]
+DisplayStr="- Mangez une ration pour régénérer l'Endurance (J)"
+
+[ST_UseAHealthStimToRecoverHealth CAGDataObject_SimpleTutorial]
+DisplayStr="- Utilisez un Stim de vie pour régénérer votre vie (H)"
+
+
+[ST_UseADamageStim CAGDataObject_SimpleTutorial]
+DisplayStr="- Utilisez un Stim de Dommages pour causer plus de dommages"
+
+
+[ST_UseADefenseStim CAGDataObject_SimpleTutorial]
+DisplayStr="- Utilisez un Stim de defense pour réduire les dommages"
+
+
+[ST_UseAnInvisStim CAGDataObject_SimpleTutorial]
+DisplayStr="- Utilisez un Stim d'Invibilité pour échapper à un ennemi"
+
+
+[ST_UseASpeedStim CAGDataObject_SimpleTutorial]
+DisplayStr="- Utilisez un Stim Vitesse pour courir plus rapidement"
+
+
+
+
+
+
+
+
+
+[ST_ReachLevel10 CAGDataObject_SimpleTutorial]
+DisplayStr="- Atteignez le niveau 10 et allez sur la Lune !"
+
+[ST_KillAnotherPlayer CAGDataObject_SimpleTutorial]
+DisplayStr="- Tuez un autre joueur"
+
+
+[ST_BuildAWingSuit CAGDataObject_SimpleTutorial]
+DisplayStr="- Trouvez le plan d'une WinSuit et fabriquez la"
+
+
+
+
+# =EXPLORE=
+
+
+[ST_BuildAStargateMoon CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez une Stargate vers la Lune"
+
+# need to have the event here  (fix events)
+[ST_GoToTheMoon CAGDataObject_SimpleTutorial]
+DisplayStr="- Voyagez vers la Lune"
+
+
+
+[ST_BuildAJetPack CAGDataObject_SimpleTutorial]
+DisplayStr="- Trouvez le Plan d'un Jetpack et fabriquez le"
+
+
+[ST_UseJobAbility CAGDataObject_SimpleTutorial]
+DisplayStr="- Utilisez une compétence Métier"
+
+
+
+
+
+
+
+[ST_FindADoomBuggyBP CAGDataObject_SimpleTutorial]
+DisplayStr="- Trouvez un Plan de Doom Buggy"
+
+
+[ST_ResearchPilotJob CAGDataObject_SimpleTutorial]
+DisplayStr="- Recherchez le Métier de Pilote dans la Station de Recherche""
+
+
+[ST_BuildADoomBuggy CAGDataObject_SimpleTutorial]
+DisplayStr="- Fabriquez un Doom Buggy !"
+
+
+
+
+
+
+

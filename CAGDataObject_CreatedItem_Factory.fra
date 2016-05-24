@@ -1,0 +1,308 @@
+[CAGDataObject_CreatedItem_Factory]
+WhereToAcquireString="Cet objet peut être fabriqué dans une Usine"
+
+
+[CIF_Trap_Landmine CAGDataObject_CreatedItem_Factory]
+NameString="Mine Terrestre"
+UpgradeDescription="Un piège pour infliger des dégâts aux ennemis."
+ActionToDoStr="Placer sur le sol"
+
+[CIF_Trap_LandmineStunner CAGDataObject_CreatedItem_Factory]
+NameString="Mine Terrestre Étourdissante"
+UpgradeDescription="Un piège pour étourdir les ennemis."
+ActionToDoStr="Placer sur le sol"
+
+[CIF_Vehicle_Monocycle_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Monocycle"
+UpgradeDescription="Un véhicule personnel pour se promener !  NOTE : Brûle du bois pour fonctionner.  40 par minute"
+ActionToDoStr="Assembler"
+
+[CIF_Vehicle_Monocycle_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Monocycle +"
+UpgradeDescription="Un véhicule personnel pour se promener !  NOTE : Brûle du bois et du fossile pour fonctionner.   Efficacité en carburant et vitesse améliorée.  20 bois et 1 fossile par minute"
+ActionToDoStr="Assembler"
+
+
+
+[CIF_Vehicle_Jetpack_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="JetPack"
+UpgradeDescription="Jetpack !  Libre comme un oiseau !  NOTE : Brûle du bois pour fonctionner.  120 bois par minute"
+ActionToDoStr="Assembler"
+
+
+[CIF_Vehicle_Jetpack_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="JetPack +"
+UpgradeDescription="Jetpack !  Libre comme un oiseau !  NOTE : Brûle du bois pour fonctionner.   Efficacité en carburant et vitesse améliorée.  60 bois et 6 fossile par minute"
+ActionToDoStr="Assembler"
+
+[CIF_Vehicle_WingSuit CAGDataObject_CreatedItem_Factory]
+NameString="WingSuit"
+UpgradeDescription="WingSuit Déployable.  Planez comme un oiseau ! (se déploie en faisant un saut en chute libre)"
+ActionToDoStr="Assembler"
+
+[CIF_Vehicle_WingSuitPlus CAGDataObject_CreatedItem_Factory]
+NameString="WingSuit+"
+UpgradeDescription="DWingSuit Déployable (PLUS !).  Planez comme un oiseau ! (se déploie en faisant un saut en chute libre). Permet un vol plus rapide !"
+ActionToDoStr="Assembler"
+
+[CIF_Vehicle_WingSuitBird CAGDataObject_CreatedItem_Factory]
+NameString="WingSuit Oiseau"
+UpgradeDescription="La Légendaire WinSuit Oiseau !  PLANEZ ET PLANEZ encore et encore et plus ! (se deploie en faisant un saut en chute libre). Permet un vol plus rapide !"
+ActionToDoStr="Assembler"
+
+
+[CIF_Trap_FoeAlert CAGDataObject_CreatedItem_Factory]
+NameString="Détecteur"
+UpgradeDescription="Un piège pour vous alerter quand les tueurs de l'ombre approchent."
+ActionToDoStr="Placer sur le sol"
+
+
+
+
+
+
+
+
+
+#######################################################################
+## combined rss ##
+#######################################################################
+
+
+[CM_Transmuted_Wood_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Planche de Bois"
+UpgradeDescription="Bois - Planche.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Wood_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Planche Durcie"
+UpgradeDescription="Bois - Planche durcie.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Wood_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Planche Exotique"
+UpgradeDescription="Bois - Planche couverte de métal.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Wood_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Planche Enrichie"
+UpgradeDescription="Bois - Planche Enrichie.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Wood_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Planche Infusée"
+UpgradeDescription="Bois - Planche Infusée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Wood_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Planche Irradiée"
+UpgradeDescription="Bois - Planche Irradiée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+
+
+[CM_Transmuted_Fossil_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Bloc de Fossile"
+UpgradeDescription="Fossile - Bloc.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Fossil_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Fossile Durci"
+UpgradeDescription="Fossile - Bloc durci.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Fossil_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Fossile Renforcé"
+UpgradeDescription="Fossile - Bloc durci renforcé.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Fossil_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Fossile Enrichi"
+UpgradeDescription="Fossile - Bloc Enrichi.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Fossil_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Fossile Infusé"
+UpgradeDescription="Fossile - Bloc Infusé.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Fossil_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Fossile Irradié"
+UpgradeDescription="Fossile - Bloc Irradié.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+
+
+[CM_Transmuted_Ore_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Barre de Minerai"
+UpgradeDescription="Minerai - Barre.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Ore_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Barre de Minerai Dense"
+UpgradeDescription="Minerai - Barre.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Ore_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Barre de minerai durcie"
+UpgradeDescription="Minerai - Barre.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Ore_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Barre de Minerai Enrichie"
+UpgradeDescription="Minerai - Barre enrichie.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Ore_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Barre de Minerai Infusée"
+UpgradeDescription="Minerai - Barre Infusée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Ore_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Barre de Minerai Irradiée"
+UpgradeDescription="Minerai - Barre irradiée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+
+
+[CM_Transmuted_Gem_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Gemme Taillée"
+UpgradeDescription="Gemme - Pierre de Gemme Taillée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Gem_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Gemme Multi-Carat"
+UpgradeDescription="Gemme - Pierre de Gemme Multi-Carat.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Gem_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Gemme Parfaite"
+UpgradeDescription="Gemme - Pierre de Gemme Parfaite.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Gem_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Gemme Enrichie"
+UpgradeDescription="Gemme - Pierre de Gemme Enrichie.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Gem_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Gemme Infusée"
+UpgradeDescription="Gemme - Pierre de Gemme Infusée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Gem_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Gemme irradiée"
+UpgradeDescription="Gemme - Pierre de Gemme Irradiée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+
+
+
+[CM_Transmuted_SpecialElement_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Cube Sphérique"
+UpgradeDescription="Élément X - Cube sphérique.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SpecialElement_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Morceau de Penrose"
+UpgradeDescription="Élément X - Morceau de penrose.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SpecialElement_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Cube Tribar"
+UpgradeDescription="Élément X - Cube Tribar.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SpecialElement_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Sphère de Mobius"
+UpgradeDescription="Élément X - Sphère de Mobius.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SpecialElement_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Pyramide de Klein"
+UpgradeDescription="Élément X - Pyramide de Klein.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SpecialElement_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Trou Irradié"
+UpgradeDescription="Élément X - Trou Irradié.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+
+[CM_Transmuted_Plasma_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Plasma d'Aurore"
+UpgradeDescription="Plasma - 10^2R.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Plasma_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Plasma de Noyau Solaire"
+UpgradeDescription="Plasma - 10^7R.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Plasma_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Plasma Fusion Magnétique"
+UpgradeDescription="Plasma - 10^8R.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Plasma_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Plasma LHC"
+UpgradeDescription="Plasma - 10^17R.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Plasma_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Plasma d'Hagedorn"
+UpgradeDescription="Plasma - 10^30R.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Plasma_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Planche de Plasma"
+UpgradeDescription="Plasma - 10^32R.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+
+[CM_Transmuted_SunStone_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Pierre Solaire Taillée"
+UpgradeDescription="Pierre Solaire - Pierre Solaire Taillée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SunStone_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Pierre Solaire Multi-Carat"
+UpgradeDescription="Pierre Solaire - Pierre Solaire Multi-Carat.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SunStone_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Pierre Solaire Parfaite"
+UpgradeDescription="Pierre Solaire - Pierre Solaire Parfaite.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SunStone_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Pierre Solaire Enrichie"
+UpgradeDescription="Pierre Solaire - Pierre Solaire Enrichie.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SunStone_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Pierre Solaire Infusée"
+UpgradeDescription="Pierre Solaire - Pierre Solaire Infusée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_SunStone_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Pierre Solaire Irradiée"
+UpgradeDescription="Pierre Solaire - Pierre Solaire Irradiée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+
+
+[CM_Transmuted_Tundrite_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Toundra Taillée"
+UpgradeDescription="Toundra - Toundra Taillée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Tundrite_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Toundra Multi-Carat"
+UpgradeDescription="Toundra - Toundra Multi-Carat.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Tundrite_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Toundra Parfaite"
+UpgradeDescription="Toundra - Toundra Parfaite.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Tundrite_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Toundra Enrichie"
+UpgradeDescription="Toundra - Toundra Enrichie.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Tundrite_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Toundra Imprégrée"
+UpgradeDescription="Toundra - Toundra Infusée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Tundrite_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Toundra Irradiée"
+UpgradeDescription="Toundra - Toundra Irradiée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+
+[CM_Transmuted_Magmanite_Lvl0 CAGDataObject_CreatedItem_Factory]
+NameString="Magmanite Coalisée"
+UpgradeDescription="Magmanite - Magmanite coalisée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Magmanite_Lvl1 CAGDataObject_CreatedItem_Factory]
+NameString="Magmanite Fondue"
+UpgradeDescription="Magmanite - Magmanite Fondue.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Magmanite_Lvl2 CAGDataObject_CreatedItem_Factory]
+NameString="Magmanite Parfaite"
+UpgradeDescription="Magmanite - Magmanite Parfaite.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Magmanite_Lvl3 CAGDataObject_CreatedItem_Factory]
+NameString="Magmanite Enrichie"
+UpgradeDescription="Magmanite - Magmanite Enrichie.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Magmanite_Lvl4 CAGDataObject_CreatedItem_Factory]
+NameString="Magmanite Infusée"
+UpgradeDescription="Magmanite - Magmanite Infusée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+
+[CM_Transmuted_Magmanite_Lvl5 CAGDataObject_CreatedItem_Factory]
+NameString="Magmanite Imprégnée"
+UpgradeDescription="Magmanite - Magmanite Imprégnée.  Ce matériau d'artisanat peut se trouver sur les BOSS et peut être créé aussi dans une usine."
+

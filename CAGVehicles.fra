@@ -1,0 +1,35 @@
+
+[CAG_PlayerBuiltVehicle_Base]
+EnterVehicleStr="Touche E pour Entrer"
+FullVehicleStr="NE PEUT PAS ENTRER'"
+NotAllowedToBuildStr="Vous ne pouvez pas fabriquer plus de véhicules de ce type sur cette planète."
+ParkedStr="Garé Par :"
+BuiltByStr="Fabriqué Par :"
+NotInFoF="NON AMI - ENTRÉE INTERDITE"
+LockedStr="BLOQUE POUR :"
+
+[CAGVehicle_Tank]
+NotAllowedToBuildStr="Vous ne pouvez pas fabriquer plus de Tanks sur cette planète. (Améliorez la compétence correspondante !)"
+VehicleDescriptionStr="Centurion"
+
+SeatDescriptions="Pilote"
+SeatDescriptions="Tireur"
+SeatDescriptions="Passager"
+
+[CAGVehicle_DuneBuggy]
+NotAllowedToBuildStr="Vous ne pouvez pas fabriquer plus de Buggies sur cette planète. (Améliorez la compétence correspondante !)""
+VehicleDescriptionStr="Doom Buggy"
+
+SeatDescriptions="Conducteur"
+SeatDescriptions="Passager Latéral"
+SeatDescriptions="Passager Supérieur"
+
+
+
+[CAGVehicle_Jet]
+NotAllowedToBuildStr="Vous ne pouvez pas fabriquer plus d'Hammerhead sur cette planète. (Améliorez la compétence correspondante !)""
+VehicleDescriptionStr="Hammerhead"
+
+SeatDescriptions="Pilote"
+SeatDescriptions="Tireur Latéral"
+SeatDescriptions="Tireur Arrière"
