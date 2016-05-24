@@ -91,7 +91,7 @@ LvlStr="Niv"
 JobChangeConfirmStr="Vraiment changer de Métier ? À chaque Métier son propre niveau et propres points d'expérience. Toutes les compétences des autres Métiers sont toujours actives."
 CurrentJobLvlStr="Niveau actuel :"
 SwitchToJobStr="Activer"
-UpgradeSkillStr="Mise à Niveau"
+UpgradeSkillStr="Améliorer"
 CurrLevelStr="Niveau actuel :"
 ReqStr="Nécessite :"
 LvlStr="Niv"
@@ -208,7 +208,7 @@ LocalizedTextArray="Choisissez votre location de Spawn:"
 
 
 [CraftElementChildrenElemental_GearSetsTitle CAGMenuTextArea]
-LocalizedTextArray="Variantes É lémentaires "
+LocalizedTextArray="Variantes Élémentaires "
 
 [Settings_Apply CAGMenuButton]
 LocalizedCaption="Appliquer Résolution"
@@ -218,7 +218,7 @@ LocalizedCaption="Editer les Touches"
 
 
 [PBISideCar_Upgrade CAGMenuButton]
-LocalizedCaption="Mise à Niveau"
+LocalizedCaption="Améliorer"
 
 [PBISideCar_SelfDestruct CAGMenuButton]
 LocalizedCaption="Autodestruction"
@@ -233,7 +233,7 @@ UpgradeMaxStr="AMÉLIORATION MAX"
 UpgradeHeaderTextStr="Amélioration objet ?"
 
 [UpgradePlayerSkillDialog CAGMenu_UpgradePlayerSkillDialog]
-UpgradeHeaderTextStr="Mise à Niveau de cette compétence ?"
+UpgradeHeaderTextStr="Améliorer cette compétence ?"
 
 
 

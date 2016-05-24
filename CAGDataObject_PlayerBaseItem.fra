@@ -4,58 +4,58 @@ WhereToAcquireString="Cet Objet peut être fabriqué depuis le menu construction (
 [CDO_CampFire CAGDataObject_PlayerBaseItem]
 NameString="Feu de Camp"
 UpgradeDescription="Il vous tiendra chaud la nuit.  S'il y a assez de bois à brûler. Il est dit que danser autour des feux de camp a des pouvoirs mystiques !"
-UpgradeDescription_WhatChanges="La mise à niveau donnera une plus grande capacité de stockage du bois et diminuera la consommation par seconde.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration donnera une plus grande capacité de stockage du bois et diminuera la consommation par seconde.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 [CDO_NexusShieldNode CAGDataObject_PlayerBaseItem]
 NameString="Bouclier Énergétique"
 UpgradeDescription="Lorsqu'il est alimenté et activé, fournit un blindage pour les pièces, les Portes Champ de Force et Stargates, au sein de son rayon."
-UpgradeDescription_WhatChanges="La mise à niveau augmente le rayon du Bouclier.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration augmente le rayon du Bouclier.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_ShieldBuster CAGDataObject_PlayerBaseItem]
 NameString="Anti-Bouclier EMP"
 UpgradeDescription="Lorsqu'il est complètement chargé, il peut être activé pour émettre une impulsion EMP qui désactivera tout bouclier à proximité pendant un certain temps." 
-UpgradeDescription_WhatChanges="La mise à niveau réduira son temps de charge.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration réduira son temps de charge.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_BubbleShield CAGDataObject_PlayerBaseItem]
 NameString="Bouclier Bulle"
 UpgradeDescription="Lorsque alimenté et activé, bloque les projectiles entrants et protège contre les risques environnementaux." 
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter le rayon du bouclier et sa quantité de points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter le rayon du bouclier et sa quantité de points de vie."
 
 
 [CDO_DataRecorder CAGDataObject_PlayerBaseItem]
 NameString="Enregistreur de Données"
 UpgradeDescription="Lorsqu'il est alimenté, va enregistrer la destruction d'objets dans la base ou de pièces aux alentours. Seront également affichés les noms des joueurs tués par des tourelles dans la zone couverte. Vous vous demandez qui vient casser vos affaires ? Fabriquez-en un et découvrir qui ! (Appuyez sur 'N' pour voir journal de données)" 
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la zone couverte.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la zone couverte.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 [CDO_JumpPad CAGDataObject_PlayerBaseItem]
 NameString="Pad de Saut"
 UpgradeDescription="Enverra les voyageurs chanceux dans le ciel avec un grand plaisir ! Nécessite une alimentation." 
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la hauteur et la distance à laquelle vous serez jeté.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la hauteur et la distance à laquelle vous serez jeté.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_LaserFence CAGDataObject_PlayerBaseItem]
 NameString="Junction Clôture Laser"
 UpgradeDescription="Poteau d'une Clôture Laser ! Sortez de ma pelouse !"
-UpgradeDescription_WhatChanges="La mise à niveau augmentera le nombre de lasers et les dommages qu'ils provoquent.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration augmentera le nombre de lasers et les dommages qu'ils provoquent.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_Uplink CAGDataObject_PlayerBaseItem]
 NameString="Lien PSYCHÉ"
 UpgradeDescription="Permet au joueur de définir son point de réapparition. Tant qu'il n'est pas détruit, vous réapparaitrez à cet emplacement. Le Lien PSYCHÉ fourni également un moyen d'invoquer les membres de son groupe FoF. Vous pouvez invoquer des amis toutes les 30 minutes.  De plus les joueurs ne peuvent accepter l'invocation que toutes les 10 minutes."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'invoquer plus de joueurs.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'invoquer plus de joueurs.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_ArrowSign CAGDataObject_PlayerBaseItem]
 NameString="Pancarte Fléchée"
 UpgradeDescription="Une simple pancarte Fléchée utilisée à des fins pas si simples. Comme la direction d'un Donjon, le début d'une chasse au trésor ou indiquer qui a la plus grosse... Base "
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_AreaTotem CAGDataObject_PlayerBaseItem]
 NameString="Totem de Zone"
 UpgradeDescription="Revendique une Zone quadrillée comme la vôtre. Revendiquer une Zone vous permet de lever des Taxes sur les ressources collectées.  La taxe peut être de 5% à 20%.  Vous pouvez recuperer vos Taxes en retournant au Totem."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_Computer CAGDataObject_PlayerBaseItem]
@@ -66,47 +66,47 @@ UpgradeDescription="Contrôle les serviteurs robotiques de votre base. Améliorez-
 [CDO_ScienceStation CAGDataObject_PlayerBaseItem]
 NameString="Station Scientifique"
 UpgradeDescription="Vous permet de fabriquer des Stims et différents dispositifs."
-UpgradeDescription_WhatChanges="La mise à niveau vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_Armory CAGDataObject_PlayerBaseItem]
 NameString="Armurerie"
 UpgradeDescription="Vous permet de confectionner des Munitions, armures, armes et autres dispositifs de projectiles."
-UpgradeDescription_WhatChanges="La mise à niveau vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_Alarm CAGDataObject_PlayerBaseItem]
 NameString="Alarme"
 UpgradeDescription="Dispositif d'alerte précoce pour détecter les formes de vie hostiles."
-UpgradeDescription_WhatChanges="La mise à niveau augmente son rayon de détection.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration augmente son rayon de détection.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_Factory CAGDataObject_PlayerBaseItem]
 NameString="Usine"
 UpgradeDescription="Vous permet de confectionner des véhicules personnels et des pièges."
-UpgradeDescription_WhatChanges="La mise à niveau vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_VehicleFactory CAGDataObject_PlayerBaseItem]
 NameString="Usine à Véhicules"
 UpgradeDescription="Fabrique de plus gros Véhicules. Garer des Véhicules à coté les protègera et les bloquera ! Va se blinder via les générateurs de bouclier, de sorte que vous devriez mettre cela à l'extérieur."
-UpgradeDescription_WhatChanges="La mise à niveau vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_Generator CAGDataObject_PlayerBaseItem]
 NameString="Générateur"
 UpgradeDescription="Les Générateurs brulent du Bois et dispensent de l'électricité pour la Objets de la base qui en ont besoin. (Dans la zone couverte)."
-UpgradeDescription_WhatChanges="La mise à niveau donnera une plus grande capacité de stockage du bois et diminuera la consommation par seconde.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration donnera une plus grande capacité de stockage du bois et diminuera la consommation par seconde.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 [CDO_PowerRelay CAGDataObject_PlayerBaseItem]
 NameString="Relais Électrique"
 UpgradeDescription="Va augmenter la zone couverte par un Générateur. Peut faire une chaine avec d'autres relais."
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la zone couverte.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la zone couverte.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 [CDO_Sign CAGDataObject_PlayerBaseItem]
 NameString="Un Panneau"
 UpgradeDescription="Rédiger des notes pour vous-même et aux autres."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_Tent CAGDataObject_PlayerBaseItem]
 NameString="Tente"
@@ -119,30 +119,30 @@ UpgradeDescription="La Tente est nécessaire pour vous permettre d'obtenir une bo
 [CDO_StarGatePlanetHomePlanet CAGDataObject_PlayerBaseItem]
 NameString="Stargate - Planètes Mères"
 UpgradeDescription="La Stargate va ouvrir un Trou de Ver vers votre Planète Mère. NOTE : Ne nécessite pas électricité."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_StarGatePlanetLow CAGDataObject_PlayerBaseItem]
 NameString="Stargate - Planètes Bas Niv."
 UpgradeDescription="La Stargate va ouvrir un Trou de Ver vers une nouvelle Planète.  Niveaux :  19-49.  Vers où allez-vous voyager la prochaine fois ?  Cela permet de se rendre sur des Planètes Bas Niv. qui ont un portail de retour. Regardez votre boussole pour les localiser."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_StarGatePlanetMid CAGDataObject_PlayerBaseItem]
 NameString="Stargate - Planètes Niv. Moyen"
 UpgradeDescription="La Stargate va ouvrir un Trou de Ver vers une nouvelle Planète.  Niveaux :  29-59.  Vers où allez-vous voyager la prochaine fois ?  Cela permet de se rendre sur des Planètes Niv. Moyen qui ont un portail de retour. Regardez votre boussole pour les localiser."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_StarGatePlanetHigh CAGDataObject_PlayerBaseItem]
 NameString="Stargate - Planètes Niv. Haut"
 UpgradeDescription="La Stargate va ouvrir un Trou de Ver vers une nouvelle Planète.  Niveaux :  43-71.  Cela permet de se rendre sur des Planètes Niv. Haut qui ont un portail de retour. Regardez votre boussole pour les localiser."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 
 [CDO_StarGateMoon CAGDataObject_PlayerBaseItem]
 NameString="Stargate - Lunes"
 UpgradeDescription="La Stargate va ouvrir un Trou de Ver vers une nouvelle Lune.  Niveaux :  13-39.  Cela permet de se rendre sur des Lunes qui ont un portail de retour. Regardez votre boussole pour les localiser.""
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_StarGateReturnPortal CAGDataObject_PlayerBaseItem]
 NameString="Portail de Retour"
@@ -158,63 +158,63 @@ UpgradeDescription="La Caravane Pliante est nécessaire pour vous permettre d'obt
 [CDO_Harvester CAGDataObject_PlayerBaseItem]
 NameString="Collecteur"
 UpgradeDescription="Le Collecteur va récolter l'Élément-X de la Planète dès sa construction (via le menu de construction) à proximité d'un dépôt d'Élément-X."
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la capacité de stockage, le taux de récolte et la zone de récolte.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la capacité de stockage, le taux de récolte et la zone de récolte.  Chaque Amélioration permettra également d'augmenter les points de vie."
 ConfirmBuildStr="Les Collecteurs doivent être proches d'un dépôt d'Elément-X pour pouvoir en extraire, êtes-vous sûr de vouloir le construire ici ?"
 
 [CDO_BaseStorageBin CAGDataObject_PlayerBaseItem]
 NameString="Coffre"
 UpgradeDescription="Stokage de Ressources."
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la capacité de Stockage et permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la capacité de Stockage et permettra également d'augmenter les points de vie."
 
 
 [CDO_RefundStorageBin CAGDataObject_PlayerBaseItem]
 NameString="Coffre de REMBOURSEMENT"
 UpgradeDescription="Stockage de Ressources."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_WorldArtifactOpener CAGDataObject_PlayerBaseItem]
 NameString="Decrypteur d'Artefact"
 UpgradeDescription="Le Décrypteur d'Artefact va démarrer le processus de déverrouillage d'un Artefact. Selon le niveau de l'Artefact, cela peut prendre des heures de jeu pour le déverrouiller. Un générateur est nécessaire. Une fois l'artefact ouvert TIREZ DESSUS pour obtenir tous les objets !"
-UpgradeDescription_WhatChanges="Mise à niveau va augmenter le nombre de drones décrypteurs.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Mise à niveau va augmenter le nombre de drones décrypteurs.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_SpawnedTeleporter CAGDataObject_PlayerBaseItem]
 NameString="Téléporteur"
 UpgradeDescription="Téléportez-moi. Les Téléporteurs fonctionnent uniquement sur la même planète.  Pour voyager vers une autre planète vous avez besoin d'une Stargate."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_Flag CAGDataObject_PlayerBaseItem]
 NameString="Drapeau"
 UpgradeDescription="Plantez un Drapeau pour montrer au monde que vous êtes ici ! Également un excellent moyen de décorer votre base !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_CustomSign CAGDataObject_PlayerBaseItem]
 NameString="Signe Personnalisé"
 UpgradeDescription="Faites un Panneau que vous pouvez personnaliser !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_Beacon CAGDataObject_PlayerBaseItem]
 NameString="Balise"
 UpgradeDescription="Lorsqu'il est alimenté brille comme un phare dans le ciel"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_Floodlight CAGDataObject_PlayerBaseItem]
 NameString="Projecteur"
 UpgradeDescription="Lorsqu'il est alimenté, il inonde la zone de lumière."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_GunTurret CAGDataObject_PlayerBaseItem]
 NameString="Tourelle Automatisée"
 UpgradeDescription="Lorsque alimentée va cibler et tirer sur les joueurs ennemis à proximité. Astuce : Pour voir les joueurs tués par votre tourelle placez un enregistreur de données à proximité !"
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la capacité de stockage, diminuer la quantité de minerai utilisé par balle tirée, et augmenter les dégâts de chaque tir.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la capacité de stockage, diminuer la quantité de minerai utilisé par balle tirée, et augmenter les dégâts de chaque tir.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_GunTurret_AA CAGDataObject_PlayerBaseItem]
 NameString="Tourelle Anti-Aérienne"
 UpgradeDescription="Lorsque alimentée va cibler et tirer sur les cibles volantes à proximité. Astuce : Pour voir les joueurs tués par votre tourelle placez un enregistreur de données à proximité !"
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la capacité de stockage, diminuer la quantité de minerai utilisé par balle tirée, et augmenter les dégâts de chaque tir.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la capacité de stockage, diminuer la quantité de minerai utilisé par balle tirée, et augmenter les dégâts de chaque tir.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_Flare CAGDataObject_PlayerBaseItem]
@@ -228,172 +228,172 @@ UpgradeDescription="Le Pistolet d'Alerte va envoyer une fusée en l'air !  Allez 
 [CDO_Composter CAGDataObject_PlayerBaseItem]
 NameString="Composteur"
 UpgradeDescription="Au fil du temps le composteur va créer des Matières Organiques. Vous avez besoin d'y déposer du bon bois."
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la capacité de stockage et diminuer la quantité de bois nécessaire pour créer de la Matière Organique.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la capacité de stockage et diminuer la quantité de bois nécessaire pour créer de la Matière Organique.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 [CDO_Door CAGDataObject_PlayerBaseItem]
 NameString="Porte Champ de Force"
 UpgradeDescription="Gardez le bazar de votre base avec cette Porte Champ de Force ! (Nécessite un générateur)"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_FoundationRamp CAGDataObject_PlayerBaseItem]
 NameString="Rampe pour Fondations"
 UpgradeDescription="Une rampe qui se fixe aux fondations !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_LadderAttachment CAGDataObject_PlayerBaseItem]
 NameString="Échelle Fixée"
 UpgradeDescription="Une échelle qui se fixe aux Pièces !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_Turret CAGDataObject_PlayerBaseItem]
 NameString="Tourelle"
-UpgradeDescription="Protégez votre Base!  Nécessite un générateur.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription="Protégez votre Base!  Nécessite un générateur.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_PBRoom CAGDataObject_PlayerBaseItem]
 NameString="Pièces avec Porte"
 UpgradeDescription="Faites votre propre base avec des murs de guet. Vous aurez besoin de construire une porte ! Recherchez le plan de Porte Champ de Force !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_DoorGlass CAGDataObject_PlayerBaseItem]
 NameString="Pièce en Verre avec Porte"
 UpgradeDescription="Faites votre propre base avec des murs de guet.  Vous aurez besoin de construire une porte ! Recherchez le plan de Porte Champ de Force !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_ClosedDoor CAGDataObject_PlayerBaseItem]
 NameString="Pièce Close avec Porte"
 UpgradeDescription="Faites votre propre base.  Vous aurez besoin de construire une porte ! Recherchez le plan de Porte Champ de Force !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBR_Stairs CAGDataObject_PlayerBaseItem]
 NameString="Escaliers"
 UpgradeDescription="Un pas après l'autre..."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_PBR_Glass_Stairs CAGDataObject_PlayerBaseItem]
 NameString="Escaliers en Verre"
 UpgradeDescription="Un pas après l'autre... Entouré de Verre !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_PBR_Ramp_Room CAGDataObject_PlayerBaseItem]
 NameString="Pièce Rampe"
 UpgradeDescription="Une rampe que vous pouvez empiler pour créer de plus grandes rampes !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_PBR_Stairs_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Escaliers (O.P.A.)"
 UpgradeDescription="Un pas après l'autre... Ouvert sur les Pièces Attenantes (O.P.A.). Murs de Verre pour faciliter l'observation.  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_PBRoom_Closed CAGDataObject_PlayerBaseItem]
 NameString="Pièce Fermée"
 UpgradeDescription="Pièce Complétement Murée (Sans Encadrement de Porte)."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_Closed_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Pièce Fermée (O.P.A.)"
 UpgradeDescription="Pièce Complétement Murée. Ouvert sur les Pièces Attenantes (O.P.A.).  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_Teleporter CAGDataObject_PlayerBaseItem]
 NameString="Pièce de Téléportation"
 UpgradeDescription="Téléportation de Base à Base !  Construisez d'abord une pièce de Téléportation un téléporteur, et le lien se fera automatiquement avec la 2eme pièce quand vous la construirez !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRamp CAGDataObject_PlayerBaseItem]
 NameString="Rampe au Sol"
 UpgradeDescription="MONTEZ EN HAUT"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PB_Balcony CAGDataObject_PlayerBaseItem]
 NameString="Balcon"
 UpgradeDescription="Pièce Balcon sans Plafond"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PB_BalconyNoRails CAGDataObject_PlayerBaseItem]
 NameString="Plate-Forme en Métal"
 UpgradeDescription="Plate-Forme de Métal Nu (sans garde-corps)"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PB_Balcony_Glass CAGDataObject_PlayerBaseItem]
 NameString="Balcon en Verre"
 UpgradeDescription="Balcon en Verre sans Plafond"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_Lookout CAGDataObject_PlayerBaseItem]
 NameString="Guet"
 UpgradeDescription="Pièce qui vous permet de voir dans toutes les directions"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PB_Support CAGDataObject_PlayerBaseItem]
 NameString="Soutien Structurel"
 UpgradeDescription="Structure peu onéreuse qui peut être construit pour supporter les pièces situées au-dessus."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 [CDO_PB_SupportLadder CAGDataObject_PlayerBaseItem]
 NameString="Soutien Structurel et Échelle"
 UpgradeDescription="Tout comme le Soutien Structurel mais avec une Échelle"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBBridge CAGDataObject_PlayerBaseItem]
 NameString="Passerelle"
 UpgradeDescription="Pièce Passerelle - Plus solide qu'un balcon. Utile pour les projets de construction qui doivent franchir de grands écarts."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBWoodBridge CAGDataObject_PlayerBaseItem]
 NameString="Passerelle en Bois"
 UpgradeDescription="Pièce Passerelle - Plus solide qu'un balcon. Utile pour les projets de construction qui doivent franchir de grands écarts."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBBridge_Glass CAGDataObject_PlayerBaseItem]
 NameString="Passerelle en Verre"
 UpgradeDescription="Pièce Passerelle - Plus solide qu'un balcon. Utile pour les projets de construction qui doivent franchir de grands écarts."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBFence CAGDataObject_PlayerBaseItem]
 NameString="Clôture"
 UpgradeDescription="Une clôture pour mettre autour de tous vos jouets."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_Roof CAGDataObject_PlayerBaseItem]
 NameString="Toiture Métallique"
 UpgradeDescription="Ajouter un toit sympa à votre base Spatiale."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_RoofCorner CAGDataObject_PlayerBaseItem]
 NameString="Coin de Toit Métallique"
 UpgradeDescription="Un morceau de toit qui peut être ajouté aux angles des bâtiments."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBDFence CAGDataObject_PlayerBaseItem]
 NameString="Grande Clôture"
 UpgradeDescription="Une grande clôture pour garder des gens mauvais, des monstres, des insectes, ou peut-être pour les empêcher de partir."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_Glass CAGDataObject_PlayerBaseItem]
 NameString="Pièce en Verre"
 UpgradeDescription="Pièce avec vue ! Des murs en Verre pour observer !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_GlassMetalFloor CAGDataObject_PlayerBaseItem]
 NameString="Pièce Fermée en Verre"
 UpgradeDescription="Pièce avec vue ! Des murs en Verre pour observer, plancher et plafond métalliques pour avoir la paix !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_Glass_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Pièce en Verre (O.P.A.)"
 UpgradeDescription="Pièce avec vue !  Ouvert sur les Pièces Attenantes (O.P.A.). Des murs en Verre pour observer.  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_DoorRoom_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Pièce et Porte (O.P.A.)"
 UpgradeDescription="Faites votre propre base.  Vous aurez besoin de construire une porte ! Ouvert sur les Pièces Attenantes (O.P.A.). Recherchez le plan de Porte Champ de Force !  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 
@@ -401,25 +401,25 @@ UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les point
 [CDO_ResearchStation CAGDataObject_PlayerBaseItem]
 NameString="Station de Recherche"
 UpgradeDescription="Vous permet de faire des recherches et de déverrouiller de nouveaux Métiers !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra de débloquer des Emplois de plus haut niveau.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra de débloquer des Emplois de plus haut niveau.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 [CDO_Kitchenette CAGDataObject_PlayerBaseItem]
 NameString="Cuisine"
 UpgradeDescription="Laissez le chef en vous se déchaîner !  Cet Objet de la base sera la pièce maîtresse pour créer toutes sortes de concoctions alimentaires."
-UpgradeDescription_WhatChanges="La mise à niveau vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration vous permettra de fabriquer un équipement de plus haut niveau si vous avez obtenu le plan pour.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 [CDO_DrillPlatform CAGDataObject_PlayerBaseItem]
 NameString="Plate-forme de Forage"
 UpgradeDescription="À chaque période de temps, la Plate-Forme de Forage éjectera des ressources en l'air pendant une période de temps. Lorsque la Plate-Forme de Forage est active, elle est invulnérable à moins qu'elle vienne de faire une éjection. Après l'éjection, la Plate-Forme de Forage est vulnérable pendant 10 minutes. Pour être en mesure de construire une Plate-Forme de Forage, vous devez avoir déverrouillé le Métier d'Ingénieur."
-UpgradeDescription_WhatChanges="La mise à niveau va augmenter la capacité de Stockage, réduire le temps entre deux éjections et améliore la consommation de plasma.  La mise à niveau permettra également d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration va augmenter la capacité de Stockage, réduire le temps entre deux éjections et améliore la consommation de plasma.  Chaque Amélioration permettra également d'augmenter les points de vie."
 
 
 
 [CDO_MonsterSummoner CAGDataObject_PlayerBaseItem]
 NameString="Invocateur de Monstres"
 UpgradeDescription="Invoque des Monstres !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 
@@ -429,72 +429,72 @@ UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les point
 [CDO_PBRoom_WoodClosed CAGDataObject_PlayerBaseItem]
 NameString="Pièce Fermée en Bois"
 UpgradeDescription="Une pièce avec quatre murs en Bois. Pas de Porte."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodSupports CAGDataObject_PlayerBaseItem]
 NameString="Support en Bois"
 UpgradeDescription="Support en Bois pour vos Pièces."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodDoor CAGDataObject_PlayerBaseItem]
 NameString="Pièce Bois + Porte"
 UpgradeDescription="Une pièce en Bois avec une Porte."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodWindow CAGDataObject_PlayerBaseItem]
 NameString="Pièce en Bois avec Fenêtre"
 UpgradeDescription="Une Pièce en Bois avec une jolie petite Fenêtre pour la lumière du jour, ou alors regarder les horreurs à extérieur !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodRoof CAGDataObject_PlayerBaseItem]
 NameString="Toit en Bois"
 UpgradeDescription="Un joli Toit en Bois, pour que vos rêves de cabane rustique deviennent réels !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodStairs CAGDataObject_PlayerBaseItem]
 NameString="Escaliers en Bois"
 UpgradeDescription="Quelques marches douces pour vous passer à l'étage suivant."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodStoneClosed CAGDataObject_PlayerBaseItem]
 NameString="Pièce Pierre Fermée"
 UpgradeDescription="Une Pièce avec 4 murs en Bois et Pierre. Aucune porte."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodStoneDoor CAGDataObject_PlayerBaseItem]
 NameString="Pièce Pierre + Porte"
 UpgradeDescription="Une Pièce en Bois et Pierre avec une Porte."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodStoneWindow CAGDataObject_PlayerBaseItem]
 NameString="Pièce Pierre Fenêtrée"
 UpgradeDescription="Une Pièce en Bois et Pierre avec une jolie petite Fenêtre pour la lumière du jour, ou alors regarder les horreurs à extérieur !"
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodBalcony CAGDataObject_PlayerBaseItem]
 NameString="Balcon en Bois"
 UpgradeDescription="Un Balcon en Bois."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodStoneDoor_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Pièce Pierre + Porte O.P.A."
 UpgradeDescription="Faites votre propre base.  Vous aurez besoin de construire une porte ! Ouvert sur les Pièces Attenantes (O.P.A.). Recherchez le plan de Porte Champ de Force !  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodStoneWindow_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Pièce Pierre Fenêtrée O.P.A."
 UpgradeDescription="Ouvert sur les Pièces Attenantes (O.P.A.). Recherchez le plan de Porte Champ de Force !  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodWindow_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Pièce Bois Fenêtrée O.P.A."
 UpgradeDescription="Ouvert sur les Pièces Attenantes (O.P.A.). Recherchez le plan de Porte Champ de Force !  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 [CDO_PBRoom_WoodDoor_OpenTube CAGDataObject_PlayerBaseItem]
 NameString="Pièce Bois + Porte O.P.A."
 UpgradeDescription="Faites votre propre base.  Vous aurez besoin de construire une porte ! Ouvert sur les Pièces Attenantes (O.P.A.). Recherchez le plan de Porte Champ de Force !  Quand mis avec une autre Pièce O.P.A. le sol et le plafond seront supprimés pour un espace ouvert."
-UpgradeDescription_WhatChanges="La mise à niveau permettra d'augmenter les points de vie."
+UpgradeDescription_WhatChanges="Chaque Amélioration permettra d'augmenter les points de vie."
 
 
 

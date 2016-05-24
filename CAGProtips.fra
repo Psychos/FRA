@@ -13,7 +13,7 @@ Protips="Quand un Objet est NON RÉCLAMÉ, il peut être réclamé par n'importe qui 
 ;Combien de temps prend la dégradation ?
 Protips="Un Objet perd 1000 HP toutes les 24 heures. Puisque les valeurs HP diffèrent en fonction des Objets, le temps pour arriver à NON RÉCLAMÉ dépendra du nombre de HP de départ. Par ex : une pièce fermée Niv. 1 à 1000 HP prendra 24 Heures."
 
-Protips="Plates-formes de Forage et Collecteurs prendront 4 jours pour devenir NON RÉCLAMÉ. Quand mis à niveau, les Pièces / Objets de la Base prendront plus de temps à se dégrader, basé sur un multiplicateur de leur niveau de mise à niveau. (Ex: Une Armurerie Lvl 1 prend 3 jours, au niveau 6 ça en prendra 18)"
+Protips="Plates-formes de Forage et Collecteurs prendront 4 jours pour devenir NON RÉCLAMÉ. Quand mis à niveau, les Pièces / Objets de la Base prendront plus de temps à se dégrader, basé sur un multiplicateur de leur niveau actuel. (Ex: Une Armurerie Lvl 1 prend 3 jours, au niveau 6 ça en prendra 18)"
 
 Protips="Pour former un groupe FoF, soyez à proximité de votre ami et appuyez dur la Touche 'E' pour l'inviter à joindre votre groupe"
 
@@ -25,7 +25,7 @@ Protips="Pour reconstituer la vie, touche 'H' pour utiliser un Stim de vie (Se f
 
 Protips="Minerai et Gemmes sont à des concentrations plus élevées dans les grottes. Les grottes sont présentées comme un U inversé sur la boussole HUD (en bas de l'écran)."
 
-Protips="Quand vous mourrez, vous perdrez un grand pourcentage des ressources et de matériaux. Vous ne perdrez pas l'équipement ou les Plans. Le pourcentage peut être réduit par la mise à niveau via une compétence spéciale."
+Protips="Quand vous mourrez, vous perdrez un grand pourcentage des ressources et de matériaux. Vous ne perdrez pas l'équipement ou les Plans. Ce pourcentage peut être réduit par l'amélioration d'une compétence spéciale."
  
 Protips="À votre mort, vous déposez un sac à dos, qui apparaît comme une brillante orbe rougeoyante. Il peut être pillé immédiatement par toute personne qui le trouve, sinon téléportez le à vous avec le Stim Invoquer Sac (fabriqué dans la Station Scientifique)"
 
@@ -67,7 +67,7 @@ Protips="Les Plates-Formes de Forage éjectent des ressources, Matériaux d'Artisa
 
 Protips="Pour voir où trouver des matériaux d'artisanat, passez la souris dessus, il sera indiqué où le trouver."
 
-Protips="Pour voir ce qu'une mise à niveau d'un Objet de base va faire, cliquez sur le bouton de mise à niveau, et au-dessus de la boîte indiquant la mise à niveau sera indiqué les coûts, il y a une infobulle décrivant les effets d'une mise à niveau."
+Protips="Pour voir ce qu'une Amélioration d'un Objet de base va faire, cliquez sur le bouton 'Améliorer', et au-dessus de la boîte indiquant l'Amélioration sera indiqué les coûts, il y a une infobulle décrivant les effets d'une Amélioration."
 
 Protips="Les Artefacts sont obtenus sur les Artefacts Monde (nécessite un Plan de Décrypteur d'Artefact) ou depuis des Gardiens (que l'on trouve sur les Lunes ou à proximité des Artefacts Monde. Ils sont utilisés pour le raffinage de Haut-Niveau, Totems de Zone, Plates-Formes de Forage, Grands véhicules etc."
 
@@ -75,7 +75,7 @@ Protips="Pour ouvrir un Artefact Monde, mettez un Décrypteur d'Artefact dessus (
 
 Protips="Rang et Niveaux sont différents ! Chaque Métier a un niveau max de 60; quand vous changez de Métier vous repartez à son niveau, alors trouvez des monstres à votre niveau ! Le Rang d'un joueur est une addition du niveau de chaque Métier."
 
-Protips="Une compétence Mise à Niveau sous un Métier sera toujours active sous un autre Métier. (ex : Si vous améliorez au Max votre vitesse de déplacement sous le Métier d'Astronaute, et que vous passez au Métier de Scientifique, votre vitesse de déplacement restera au max."
+Protips="Une compétence acquise et améliorée dans un Métier sera toujours active dans un autre Métier. (ex : Si vous améliorez au Max votre vitesse de déplacement sous le Métier d'Astronaute, et que vous passez au Métier de Scientifique, votre vitesse de déplacement restera au max."
 
 Protips="Les Caisses Rouges que vous pouvez piller contiennent des ressources, des bons matériaux d'Artisanat et des tonnes de Munitions. Contrairement aux autres ressources, les Caisses Rouges ne peuvent être pillées tant que votre Rang est égal ou est supérieur à celui affiché sur la caisse."
 

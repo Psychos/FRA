@@ -389,7 +389,7 @@ HotBarStr="BARRE RACCOURCIS"
 SelfDestructConfirmStr="Vraiment détruire cet objet/base ? Cela ne peut pas être annulé."
 CancelStr="Abandon"
 OKstr="OK"
-UpgradeStr="Mise à Niveau"
+UpgradeStr="Améliorer"
 UpgradeCompleteStr="MAX"
 PrimaryColorStr="Couleur Primaire"
 SecondaryColorStr="Couleur Secondaire"
@@ -398,7 +398,7 @@ ApplyLastStr="Appliquer"
 ResetToDefaultStr="Reinit. Couleurs"
 
 
-TutorialStr="RÉCOMPENSE TUTORIAL:"
+TutorialStr="RÉCOMPENSE TUTORIAL :"
 
 
 [CAGVWeap_TankMG]
