@@ -76,7 +76,7 @@ AffectingTypeDescriptionKeyValues=(TheType=AT_HeatTolerance,DisplayName="Résista
 AffectingTypeDescriptionKeyValues=(TheType=AT_ToxicTolerance,DisplayName="Résistance Toxique")
 AffectingTypeDescriptionKeyValues=(TheType=AT_RadiationTolerance,DisplayName="Résistance Radiations")
 AffectingTypeDescriptionKeyValues=(TheType=AT_LowOxygenTolerance,DisplayName="Résistance Oxygène Bas")
-AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_ReloadSpeed,DisplayName="Vitesse de Rechargement")
+AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_ReloadSpeed,DisplayName="Rechargement")
 AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_RateOfFire,DisplayName="Cadence de Tir")
 AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_Accuracy,DisplayName="précision")
 AffectingTypeDescriptionKeyValues=(TheType=AT_Weapon_MagazineSize,DisplayName="Taille Chargeur")
