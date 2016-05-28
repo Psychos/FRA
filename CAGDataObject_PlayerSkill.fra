@@ -231,7 +231,7 @@ ActionToDoStr=""
 
 
 [PS_ConstructionCostReduction_BaseItems CAGDataObject_PlayerSkill]
-NameString="Réduction du Coût de Construction des Objets de Base"
+NameString="Réduction Coût de Fabr. Objets Base"
 UpgradeDescription="Réduit les coûts de construction des Objets Base."
 ActionToDoStr=""
 
@@ -255,19 +255,19 @@ ActionToDoStr=""
 
 
 [PS_CraftingCostReduction_Factory CAGDataObject_PlayerSkill]
-NameString="Réduction Coût Fabrication dans l'Usine "
+NameString="Réduction Coût Fabr. Usine "
 UpgradeDescription="Réduit le coût de Fabrication des Objets dans l'usine."
 ActionToDoStr=""
 
 
 [PS_CraftingCostReduction_ScienceStation CAGDataObject_PlayerSkill]
-NameString="Réduction Coût Fabrication dans Station Scientifique"
+NameString="Réd. Coût Fabr. Station Scientifique"
 UpgradeDescription="Réduit le Coût de Fabrication des Objets dans la Station Scientifique"
 ActionToDoStr=""
 
 
 [PS_CraftingCostReduction_Armory CAGDataObject_PlayerSkill]
-NameString="Réduction Coût Fabrication dans Armurerie"
+NameString="Réduction Coût Fabr. Armurerie"
 UpgradeDescription="Réduit le Coût de Fabrication des Objets dans l'Armurerie."
 ActionToDoStr=""
 
@@ -279,7 +279,7 @@ ActionToDoStr=""
 
 
 [PS_ConstructionCostReduction_VehicleFactory CAGDataObject_PlayerSkill]
-NameString="Réduction coût Fabrication dans Usine de Véhicules"
+NameString="Réduction coût Fabr. Usine Véhicules"
 UpgradeDescription="Réduit le Coût de Fabrication des Objets dans l'Usine de Véhicules."
 ActionToDoStr=""
 

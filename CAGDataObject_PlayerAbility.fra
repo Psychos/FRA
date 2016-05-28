@@ -13,13 +13,13 @@ ActionToDoStr="Utilisation !"
 
 
 [PA_EnvironmentalHazardRespite CAGDataObject_PlayerAbility]
-NameString="Supprime les Dangers Environnementaux"
+NameString="Supp. Dangers Environnementaux"
 UpgradeDescription="Un bref répit contre les éléments dangereux des planètes."
 ActionToDoStr="Utilisation !"
 
 
 [PA_EnvironmentalHazardRestore CAGDataObject_PlayerAbility]
-NameString="Restauration des Dangers Environnementaux"
+NameString="Rest. Dangers Environnementaux"
 UpgradeDescription="Les éléments dangereux des planètes sont conjurés. Pour le moment."
 ActionToDoStr="Utilisation !"
 
@@ -62,7 +62,7 @@ ActionToDoStr="Utilisation !"
 
 
 [PA_HealthRegenSelf CAGDataObject_PlayerAbility]
-NameString="Régénration de Vie"
+NameString="Régénération de Vie"
 UpgradeDescription="Régénération de Vie extrême."
 ActionToDoStr="Utilisation !"
 
